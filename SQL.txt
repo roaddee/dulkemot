@@ -1,0 +1,11 @@
+CREATE TABLE tweb_captcha (
+        captcha_id bigint(13) unsigned NOT NULL auto_increment,
+        captcha_time int(10) unsigned NOT NULL,
+        ip_address varchar(45) NOT NULL,
+        word varchar(20) NOT NULL,
+        PRIMARY KEY `captcha_id` (`captcha_id`),
+        KEY `word` (`word`)
+)
+
+ALTER TABLE `tweb_users`  ADD `lembaga_id` INT NOT NULL DEFAULT '0'  AFTER `id`;
+ALTER TABLE `tweb_users` ADD `login_from` VARCHAR(20) NULL DEFAULT NULL AFTER `login_at`;

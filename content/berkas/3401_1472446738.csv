@@ -1,0 +1,958 @@
+Judul,Penjabaran Perubahan APBD
+Daerah,Kabupaten Kulon Progo
+Tahun,2014
+Kode Organisasi,1171
+Kolom,7
+
+No Rekening,Uraian,Sebelum,Sesudah,Angka,Prosentase,Keterangan
+117  11701  0000  4 ,PENDAPATAN ,1700000000,1737353000,37353000,22
+117  11701  0000  41 ,PENDAPATAN ASLI DAERAH ,1700000000,1737353000,37353000,22
+117  11701  0000  412 ,Hasil Retribusi Daerah ,1700000000,1737353000,37353000,22
+117  11701  0000  41202 ,Retribusi Jasa Usaha ,1700000000,1737353000,37353000,22
+117  11701  0000  4120201 ,Retribusi Pemakaian Kekayaan Daerah ,54900000,54900000,0,0,Peraturan Daerah Kabupaten Kulon Progo Nomor 10 Tahun 2011 tentang Retribusi Pemakaian Kekayaan Daerah. Lembaran Daerah Kabupaten Kulon Progo Tahun 2011 Nomor 4 Seri C
+117  11701  0000  4120205 ,Retribusi Tempat Khusus Parkir ,8100000,8100000,0,0,Peraturan Daerah Kabupaten Kulon Progo Nomor 3 Tahun 2011 tentang Retribusi Tempat Khusus Parkir. Lembaran Daerah Kabupaten Kulon Progo Tahun 2011 Nomor 2 Seri C
+117  11701  0000  4120210 ,Retribusi Tempat Rekreasi dan Olahraga ,1637000000,1674353000,37353000,228,Peraturan Daerah Kabupaten Kulon Progo Nomor 8 Tahun 2013 tentang Perubahan Atas Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2010 tentang Retribusi Tempat Rekreasi dan Olah Raga. Lembaran Daerah Kabupaten Kulon Progo Tahun 2013 Nomor 8
+117  11701  0000  5 ,BELANJA ,5246978039,5693520745,446542706,851
+117  11701  0000  51 ,BELANJA TIDAK LANGSUNG ,2833898939,2795314670,-38584269,-136
+117  11701  0000 ,Non Kegiatan ,2833898939,2795314670,-38584269,-136,Sumber Dana : 
+117  11701  0000  511 ,Belanja Pegawai ,2833898939,2795314670,-38584269,-136
+117  11701  0000  51101 ,Gaji Dan Tunjangan ,2800379189,2761094540,-39284649,-14
+117  11701  0000  5110101 ,Gaji Pokok PNS/Uang Representasi ,2133176930,2072035197,-61141733,-287
+117  11701  0000  5110102 ,Tunjangan Keluarga ,211204968,205091819,-6113149,-289
+117  11701  0000  5110103 ,Tunjangan Jabatan ,206505000,203930000,-2575000,-125
+117  11701  0000  5110105 ,Tunjangan Fungsional Umum ,82020179,83158863,1138684,139
+117  11701  0000  5110106 ,Tunjangan Beras ,125820246,146194706,20374460,1619
+117  11701  0000  5110107 ,Tunjangan PPh/Tunjangan Khusus ,41622078,50647361,9025283,2168
+117  11701  0000  5110108 ,Pembulatan Gaji ,29788,36594,6806,2285
+117  11701  0000  51105 ,Belanja Insentif Pemungutan Pajak/Retribusi Daerah,33519750,34220130,700380,209
+117  11701  0000  5110501 ,Belanja Pemungutan Pajak/Retribusi ,33519750,34220130,700380,209
+117  11701  0101  52 ,BELANJA LANGSUNG ,2413079100,2898206075,485126975,201
+117  11701  01 ,Program Pelayanan Administrasi Perkantoran ,173719950,177864950,4145000,239
+117  11701  0101 ,Penyediaan Jasa Surat Menyurat ,999000,999000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0101  522 ,Belanja Barang dan Jasa ,999000,999000,0,0
+117  11701  0101  52201 ,Belanja Bahan Pakai Habis ,999000,999000,0,0
+117  11701  0101  5220104 ,Belanja Perangko. Materai Dan Benda Pos Lainnya,999000,999000,0,0
+117  11701  0102 ,Penyediaan Jasa Komunikasi. Sumber Daya Air dan Listrik,70800000,76495000,5695000,804,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0102  522 ,Belanja Barang dan Jasa ,70800000,76495000,5695000,804
+117  11701  0102  52203 ,Belanja Jasa Kantor ,70800000,76495000,5695000,804
+117  11701  0102  5220301 ,Belanja Telepon ,6000000,6635000,635000,1058
+,,,,,,Belanja telepon kantor dan Wisma Sermo
+,,,,,,Kekurangan pembayaran telepon Desember 2013
+117  11701  0102  5220302 ,Belanja Air ,9600000,10600000,1000000,1042
+117  11701  0102  5220303 ,Belanja Listrik ,55200000,59260000,4060000,736
+117  11701  0106 ,Penyediaan Jasa Pemeliharaan dan Perizinan Kendaraan Dinas/Operasional,5730000,5730000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0106  522 ,Belanja Barang dan Jasa ,5730000,5730000,0,0
+117  11701  0106  52205 ,Belanja Perawatan Kendaraan Bermotor ,5730000,5730000,0,0
+117  11701  0106  5220504 ,Belanja Jasa KIR ,350000,350000,0,0,Biaya pengujian kendaraan roda 6
+
+117  11701  0106  5220505 ,Belanja Surat Tanda Nomor Kendaraan ,5380000,5380000,0,0
+117  11701  0107 ,Penyediaan Jasa Administrasi Keuangan ,18180000,18180000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0107  521 ,Belanja Pegawai ,18180000,18180000,0,0
+117  11701  0107  52101 ,Honorarium PNS ,18180000,18180000,0,0
+117  11701  0107  5210104 ,Honorarium Bendahara/Pengurus Barang ,18180000,18180000,0,0
+117  11701  0108 ,Penyediaan Jasa Kebersihan Kantor ,4303000,4303000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0108  522 ,Belanja Barang dan Jasa ,4303000,4303000,0,0
+117  11701  0108  52201 ,Belanja Bahan Pakai Habis ,4303000,4303000,0,0
+117  11701  0108  5220105 ,Belanja Peralatan Kebersihan Dan Bahan Pembersih,4303000,4303000,0,0
+117  11701  0109 ,Penyediaan jasa perbaikan peralatan kerja ,10350000,8800000,-1550000,-1498,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0109  522 ,Belanja Barang dan Jasa ,10350000,8800000,-1550000,-1498
+117  11701  0109  52220 ,Belanja Pemeliharaan ,10350000,8800000,-1550000,-1498
+117  11701  0109  5222008 ,Belanja Pemeliharaan Peralatan Kantor ,10350000,8800000,-1550000,-1498
+117  11701  0110 ,Penyediaan alat tulis kantor ,9574200,9574200,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0110  522 ,Belanja Barang dan Jasa ,9574200,9574200,0,0
+117  11701  0110  52201 ,Belanja Bahan Pakai Habis ,9574200,9574200,0,0
+117  11701  0110  5220101 ,Belanja Alat Tulis Kantor ,9574200,9574200,0,0
+117  11701  0111 ,Penyediaan barang cetakan dan penggandaan ,11939000,11939000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0111  522 ,Belanja Barang dan Jasa ,11939000,11939000,0,0
+117  11701  0111  52206 ,Belanja Cetak Dan Penggandaan ,11939000,11939000,0,0
+117  11701  0111  5220601 ,Belanja Cetak ,2526400,2526400,0,0
+117  11701  0111  5220602 ,Belanja Penggandaan ,9412600,9412600,0,0
+117  11701  0112 ,Penyediaan komponen instalasi listrik/penerangan bangunan kantor,4236750,4236750,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0112  522 ,Belanja Barang dan Jasa ,4236750,4236750,0,0
+117  11701  0112  52201 ,Belanja Bahan Pakai Habis ,4236750,4236750,0,0
+117  11701  0112  5220103 ,Belanja Alat Listrik Dan Elektronik (Lampu Pijar. Battery Kering),4236750,4236750,0,0
+117  11701  0115 ,Penyediaan Bahan Bacaan dan Peraturan Perundang-Undangan,1080000,1080000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0115  522 ,Belanja Barang dan Jasa ,1080000,1080000,0,0
+117  11701  0115  52203 ,Belanja Jasa Kantor ,1080000,1080000,0,0
+117  11701  0115  5220305 ,Belanja Surat Kabar/Majalah ,1080000,1080000,0,0
+117  11701  0117 ,Penyediaan Makanan dan Minuman ,6648000,6648000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0117  522 ,Belanja Barang dan Jasa ,6648000,6648000,0,0
+117  11701  0117  52211 ,Belanja Makanan Dan Minuman ,6648000,6648000,0,0
+117  11701  0117  5221102 ,Belanja Makanan Dan Minuman Rapat ,5856000,5856000,0,0
+117  11701  0117  5221103 ,Belanja Makanan Dan Minuman Tamu ,792000,792000,0,0
+117  11701  0118 ,Rapat-Rapat Koordinasi dan Konsultasi ke Luar Daerah,23670000,23670000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0118  522 ,Belanja Barang dan Jasa ,23670000,23670000,0,0
+117  11701  0118  52215 ,Belanja Perjalanan Dinas ,23670000,23670000,0,0
+117  11701  0118  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,23670000,23670000,0,0
+117  11701  0119 ,Penyediaan koordinasi dan konsultasi ke dalam daerah,1660000,1660000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0119  522 ,Belanja Barang dan Jasa ,1660000,1660000,0,0
+117  11701  0119  52215 ,Belanja Perjalanan Dinas ,1660000,1660000,0,0
+117  11701  0119  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1660000,1660000,0,0
+117  11701  0120 ,Penyediaan Jasa Tenaga Pegawai Tidak Tetap ,4550000,4550000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0120  521 ,Belanja Pegawai ,4550000,4550000,0,0
+117  11701  0120  52102 ,Honorarium Non PNS ,4550000,4550000,0,0
+117  11701  0120  5210202 ,Honorarium Pegawai Honorer/Tidak Tetap ,4550000,4550000,0,0
+117  11701  02 ,Program Peningkatan Sarana dan Prasarana Aparatur,96903000,110528000,13625000,1406
+117  11701  0209 ,Pengadaan Peralatan Gedung Kantor ,5820000,8445000,2625000,451,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0209  523 ,Belanja Modal ,5820000,8445000,2625000,451
+117  11701  0209  52310 ,Belanja Modal Pengadaan Peralatan Kantor ,1820000,4445000,2625000,14423
+117  11701  0209  5231001 ,Belanja Modal Pengadaan Mesin Tik ,1820000,4445000,2625000,14423,Mesin ketik
+,,,,,,1 buah x 4445000.00 = 4445000.00
+117  11701  0209  52312 ,Belanja Modal Pengadaan Komputer ,4000000,4000000,0,0
+117  11701  0209  5231202 ,Belanja Modal Pengadaan Komputer/PC ,4000000,4000000,0,0,Komputer
+,,,,,,1 unit x 4000000.00 = 4000000.00
+117  11701  0222 ,Pemeliharaan Rutin/Berkala Gedung Kantor ,17075000,17075000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0222  522 ,Belanja Barang dan Jasa ,17075000,17075000,0,0
+117  11701  0222  52203 ,Belanja Jasa Kantor ,75000,75000,0,0
+117  11701  0222  5220337 ,Belanja Retribusi / Pajak ,75000,75000,0,0
+117  11701  0222  52220 ,Belanja Pemeliharaan ,17000000,17000000,0,0
+117  11701  0222  5222004 ,Belanja Pemeliharaan Gedung ,17000000,17000000,0,0
+117  11701  0224 ,Pemeliharaan Rutin/Berkala Kendaraan Dinas/Operasional,70008000,81008000,11000000,1571,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0224  522 ,Belanja Barang dan Jasa ,70008000,81008000,11000000,1571
+117  11701  0224  52205 ,Belanja Perawatan Kendaraan Bermotor ,70008000,81008000,11000000,1571
+117  11701  0224  5220501 ,Belanja Jasa Service ,2720000,2720000,0,0
+117  11701  0224  5220502 ,Belanja Penggantian Suku Cadang ,18582500,18582500,0,0
+117  11701  0224  5220503 ,Belanja Bahan Bakar Minyak/Gas Dan Pelumas ,48705500,59705500,11000000,2258
+117  11701  0226 ,Pemeliharaan Rutin/Berkala Perlengkapan Gedung Kantor,3000000,3000000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Dinbudparpora
+117  11701  0226  522 ,Belanja Barang dan Jasa ,3000000,3000000,0,0
+117  11701  0226  52220 ,Belanja Pemeliharaan ,3000000,3000000,0,0
+117  11701  0226  5222011 ,Belanja Pemeliharaan Perlengkapan Kantor ,3000000,3000000,0,0
+117  11701  0229 ,Pemeliharaan Rutin/Berkala Mebeleur ,1000000,1000000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Disbudparpora
+117  11701  0229  522 ,Belanja Barang dan Jasa ,1000000,1000000,0,0
+117  11701  0229  52220 ,Belanja Pemeliharaan ,1000000,1000000,0,0
+117  11701  0229  5222010 ,Belanja Pemeliharaan Mebeler ,1000000,1000000,0,0
+117  11701  06 ,Program Peningkatan Pengembangan Sistem Pelaporan Capaian Kinerja dan Keuangan,3571000,3571000,0,0
+117  11701  0601 ,Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD,964000,964000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0601  521 ,Belanja Pegawai ,330000,330000,0,0
+117  11701  0601  52103 ,Uang Lembur ,330000,330000,0,0
+117  11701  0601  5210301 ,Uang Lembur PNS ,330000,330000,0,0
+117  11701  0601  522 ,Belanja Barang dan Jasa ,634000,634000,0,0
+117  11701  0601  52201 ,Belanja Bahan Pakai Habis ,99000,99000,0,0
+117  11701  0601  5220101 ,Belanja Alat Tulis Kantor ,99000,99000,0,0
+117  11701  0601  52206 ,Belanja Cetak Dan Penggandaan ,135000,135000,0,0
+117  11701  0601  5220602 ,Belanja Penggandaan ,135000,135000,0,0
+117  11701  0601  52211 ,Belanja Makanan Dan Minuman ,400000,400000,0,0
+117  11701  0601  5221101 ,Belanja Makanan dan Minuman Harian Pegawai ,220000,220000,0,0
+117  11701  0601  5221102 ,Belanja Makanan Dan Minuman Rapat ,180000,180000,0,0
+117  11701  0609 ,Penyusunan Pelaporan Keuangan ,2607000,2607000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0609  521 ,Belanja Pegawai ,1332000,1332000,0,0
+117  11701  0609  52103 ,Uang Lembur ,1332000,1332000,0,0
+117  11701  0609  5210301 ,Uang Lembur PNS ,1332000,1332000,0,0
+117  11701  0609  522 ,Belanja Barang dan Jasa ,1275000,1275000,0,0
+117  11701  0609  52201 ,Belanja Bahan Pakai Habis ,97100,97100,0,0
+117  11701  0609  5220101 ,Belanja Alat Tulis Kantor ,97100,97100,0,0
+117  11701  0609  52206 ,Belanja Cetak Dan Penggandaan ,127900,127900,0,0
+117  11701  0609  5220602 ,Belanja Penggandaan ,127900,127900,0,0
+117  11701  0609  52211 ,Belanja Makanan Dan Minuman ,1050000,1050000,0,0
+117  11701  0609  5221101 ,Belanja Makanan dan Minuman Harian Pegawai ,1050000,1050000,0,0
+117  11701  07 ,Program Penyusunan Dokumen Perencanaan SKPD,3976000,3976000,0,0
+117  11701  0701 ,Penyusunan Renstra SKPD ,3000000,3000000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0701  521 ,Belanja Pegawai ,229000,229000,0,0
+117  11701  0701  52103 ,Uang Lembur ,229000,229000,0,0
+117  11701  0701  5210301 ,Uang Lembur PNS ,229000,229000,0,0
+117  11701  0701  522 ,Belanja Barang dan Jasa ,2771000,2771000,0,0
+117  11701  0701  52201 ,Belanja Bahan Pakai Habis ,301000,301000,0,0
+117  11701  0701  5220101 ,Belanja Alat Tulis Kantor ,301000,301000,0,0
+117  11701  0701  52206 ,Belanja Cetak Dan Penggandaan ,220000,220000,0,0
+117  11701  0701  5220602 ,Belanja Penggandaan ,220000,220000,0,0
+117  11701  0701  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,450000,450000,0,0
+117  11701  0701  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,450000,450000,0,0,Sewa LCD
+117  11701  0701  52211 ,Belanja Makanan Dan Minuman ,1800000,1800000,0,0
+117  11701  0701  5221101 ,Belanja Makanan dan Minuman Harian Pegawai ,270000,270000,0,0
+117  11701  0701  5221102 ,Belanja Makanan Dan Minuman Rapat ,1530000,1530000,0,0
+117  11701  0702 ,Penyusunan Rencana Kerja SKPD ,976000,976000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  0702  521 ,Belanja Pegawai ,330000,330000,0,0
+117  11701  0702  52103 ,Uang Lembur ,330000,330000,0,0
+117  11701  0702  5210301 ,Uang Lembur PNS ,330000,330000,0,0
+117  11701  0702  522 ,Belanja Barang dan Jasa ,646000,646000,0,0
+117  11701  0702  52201 ,Belanja Bahan Pakai Habis ,99000,99000,0,0
+117  11701  0702  5220101 ,Belanja Alat Tulis Kantor ,99000,99000,0,0
+117  11701  0702  52206 ,Belanja Cetak Dan Penggandaan ,147000,147000,0,0
+117  11701  0702  5220602 ,Belanja Penggandaan ,147000,147000,0,0
+117  11701  0702  52211 ,Belanja Makanan Dan Minuman ,400000,400000,0,0
+117  11701  0702  5221101 ,Belanja Makanan dan Minuman Harian Pegawai ,220000,220000,0,0
+117  11701  0702  5221102 ,Belanja Makanan Dan Minuman Rapat ,180000,180000,0,0
+117  11701  10 ,Program Pengawasan dan Pengendalian Program ,500000,500000,0,0
+117  11701  1001 ,Monitoring. Evaluasi. Pengendalian dan Pelaksanaan Program dan Kegiatan,500000,500000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1001  521 ,Belanja Pegawai ,162000,162000,0,0
+117  11701  1001  52103 ,Uang Lembur ,162000,162000,0,0
+117  11701  1001  5210301 ,Uang Lembur PNS ,162000,162000,0,0
+117  11701  1001  522 ,Belanja Barang dan Jasa ,338000,338000,0,0
+117  11701  1001  52201 ,Belanja Bahan Pakai Habis ,55000,55000,0,0
+117  11701  1001  5220101 ,Belanja Alat Tulis Kantor ,55000,55000,0,0
+117  11701  1001  52206 ,Belanja Cetak Dan Penggandaan ,103000,103000,0,0
+117  11701  1001  5220602 ,Belanja Penggandaan ,103000,103000,0,0
+117  11701  1001  52211 ,Belanja Makanan Dan Minuman ,180000,180000,0,0
+117  11701  1001  5221101 ,Belanja Makanan dan Minuman Harian Pegawai ,180000,180000,0,0
+117  11701  15 ,Program Pengembangan Nilai Budaya ,84378000,84378000,0,0
+117  11701  1508 ,Pelestarian dan Aktualisasi Adat Budaya Daerah ,14606500,14606500,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1508  521 ,Belanja Pegawai ,6050000,6050000,0,0
+117  11701  1508  52102 ,Honorarium Non PNS ,6050000,6050000,0,0
+117  11701  1508  5210203 ,Honorarium Harian ,6050000,6050000,0,0,Transport seniman
+117  11701  1508  522 ,Belanja Barang dan Jasa ,8556500,8556500,0,0
+117  11701  1508  52201 ,Belanja Bahan Pakai Habis ,118000,118000,0,0
+117  11701  1508  5220101 ,Belanja Alat Tulis Kantor ,118000,118000,0,0
+117  11701  1508  52203 ,Belanja Jasa Kantor ,2625000,2625000,0,0
+117  11701  1508  5220313 ,Belanja Dokumentasi ,150000,150000,0,0
+117  11701  1508  5220315 ,Belanja Publikasi ,2475000,2475000,0,0
+117  11701  1508  52206 ,Belanja Cetak Dan Penggandaan ,16500,16500,0,0
+117  11701  1508  5220602 ,Belanja Penggandaan ,16500,16500,0,0
+117  11701  1508  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,2475000,2475000,0,0
+117  11701  1508  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,2475000,2475000,0,0
+117  11701  1508  52211 ,Belanja Makanan Dan Minuman ,2772000,2772000,0,0
+117  11701  1508  5221102 ,Belanja Makanan Dan Minuman Rapat ,252000,252000,0,0
+117  11701  1508  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,2520000,2520000,0,0
+117  11701  1508  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,550000,550000,0,0
+117  11701  1508  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,550000,550000,0,0,Narasumber
+117  11701  1513 ,Pengembangan Kesenian Kebudayaan Daerah ,24771500,24771500,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kab Kulon progo dan luar Kulon Progo
+117  11701  1513  521 ,Belanja Pegawai ,690000,690000,0,0
+117  11701  1513  52101 ,Honorarium PNS ,150000,150000,0,0
+117  11701  1513  5210105 ,Honorarium Penyelenggaraan Kegiatan ,150000,150000,0,0
+117  11701  1513  52102 ,Honorarium Non PNS ,540000,540000,0,0
+117  11701  1513  5210203 ,Honorarium Harian ,540000,540000,0,0
+117  11701  1513  522 ,Belanja Barang dan Jasa ,24081500,24081500,0,0
+117  11701  1513  52201 ,Belanja Bahan Pakai Habis ,66500,66500,0,0
+117  11701  1513  5220101 ,Belanja Alat Tulis Kantor ,66500,66500,0,0
+117  11701  1513  52203 ,Belanja Jasa Kantor ,21600000,21600000,0,0
+117  11701  1513  5220314 ,Belanja Dekorasi ,600000,600000,0,0
+117  11701  1513  5220326 ,Belanja Jasa Event Organizer / Atraksi Kesenian ,21000000,21000000,0,0
+117  11701  1513  52206 ,Belanja Cetak Dan Penggandaan ,150000,150000,0,0
+117  11701  1513  5220602 ,Belanja Penggandaan ,150000,150000,0,0
+117  11701  1513  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,900000,900000,0,0
+117  11701  1513  5221005 ,Belanja Sewa Tenda ,900000,900000,0,0
+117  11701  1513  52211 ,Belanja Makanan Dan Minuman ,840000,840000,0,0
+117  11701  1513  5221102 ,Belanja Makanan Dan Minuman Rapat ,840000,840000,0,0
+117  11701  1513  52215 ,Belanja Perjalanan Dinas ,525000,525000,0,0
+117  11701  1513  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,525000,525000,0,0
+117  11701  1514 ,Penyelenggaraan Nyadran Agung ,45000000,45000000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+117  11701  1514  521 ,Belanja Pegawai ,5800000,5800000,0,0
+117  11701  1514  52101 ,Honorarium PNS ,5800000,5800000,0,0
+117  11701  1514  5210105 ,Honorarium Penyelenggaraan Kegiatan ,5800000,5800000,0,0
+117  11701  1514  522 ,Belanja Barang dan Jasa ,39200000,39200000,0,0
+117  11701  1514  52201 ,Belanja Bahan Pakai Habis ,124000,124000,0,0
+117  11701  1514  5220101 ,Belanja Alat Tulis Kantor ,124000,124000,0,0
+117  11701  1514  52202 ,Belanja Bahan/Material ,7000000,7000000,0,0
+117  11701  1514  5220206 ,Belanja Bahan Percontohan ,7000000,7000000,0,0
+117  11701  1514  52203 ,Belanja Jasa Kantor ,1300000,1300000,0,0
+117  11701  1514  5220313 ,Belanja Dokumentasi ,1000000,1000000,0,0
+117  11701  1514  5220315 ,Belanja Publikasi ,300000,300000,0,0
+117  11701  1514  52206 ,Belanja Cetak Dan Penggandaan ,78000,78000,0,0
+117  11701  1514  5220602 ,Belanja Penggandaan ,78000,78000,0,0
+117  11701  1514  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,20640000,20640000,0,0
+117  11701  1514  5221001 ,Belanja Sewa Meja Kursi ,290000,290000,0,0
+117  11701  1514  5221005 ,Belanja Sewa Tenda ,6350000,6350000,0,0
+117  11701  1514  5221006 ,Belanja Sewa Pakaian Adat/Tradisional ,12500000,12500000,0,0
+117  11701  1514  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,1500000,1500000,0,0
+117  11701  1514  52211 ,Belanja Makanan Dan Minuman ,8808000,8808000,0,0
+117  11701  1514  5221102 ,Belanja Makanan Dan Minuman Rapat ,1440000,1440000,0,0
+117  11701  1514  5221103 ,Belanja Makanan Dan Minuman Tamu ,7368000,7368000,0,0
+117  11701  1514  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,1250000,1250000,0,0
+117  11701  1514  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,1250000,1250000,0,0
+204  11701  15 ,Program Pengembangan Pemasaran Pariwisata ,266171800,269171800,3000000,113
+204  11701  1502 ,Peningkatan Pemanfaatan Teknologi Informasi Dalam Pemasaran Pariwisata,42724800,42724800,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1502  521 ,Belanja Pegawai ,4260000,4260000,0,0
+204  11701  1502  52101 ,Honorarium PNS ,4260000,4260000,0,0
+204  11701  1502  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,4260000,4260000,0,0
+204  11701  1502  522 ,Belanja Barang dan Jasa ,38464800,38464800,0,0
+204  11701  1502  52201 ,Belanja Bahan Pakai Habis ,319800,319800,0,0
+204  11701  1502  5220101 ,Belanja Alat Tulis Kantor ,319800,319800,0,0
+204  11701  1502  52203 ,Belanja Jasa Kantor ,14000000,14000000,0,0
+204  11701  1502  5220315 ,Belanja Publikasi ,14000000,14000000,0,0,Cetak leaflet
+204  11701  1502  52206 ,Belanja Cetak Dan Penggandaan ,22500000,22500000,0,0
+204  11701  1502  5220602 ,Belanja Penggandaan ,22500000,22500000,0,0
+204  11701  1502  52211 ,Belanja Makanan Dan Minuman ,200000,200000,0,0
+204  11701  1502  5221102 ,Belanja Makanan Dan Minuman Rapat ,200000,200000,0,0
+204  11701  1502  52215 ,Belanja Perjalanan Dinas ,1445000,1445000,0,0
+204  11701  1502  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1445000,1445000,0,0
+204  11701  1503 ,Pengembangan Jaringan Kerja Sama Promosi Pariwisata,61221000,61221000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1503  522 ,Belanja Barang dan Jasa ,61221000,61221000,0,0
+204  11701  1503  52201 ,Belanja Bahan Pakai Habis ,341000,341000,0,0
+204  11701  1503  5220101 ,Belanja Alat Tulis Kantor ,341000,341000,0,0
+204  11701  1503  52202 ,Belanja Bahan/Material ,4400000,4400000,0,0
+204  11701  1503  5220206 ,Belanja Bahan Percontohan ,4400000,4400000,0,0
+204  11701  1503  52206 ,Belanja Cetak Dan Penggandaan ,2490000,2490000,0,0
+204  11701  1503  5220601 ,Belanja Cetak ,2400000,2400000,0,0
+204  11701  1503  5220602 ,Belanja Penggandaan ,90000,90000,0,0
+204  11701  1503  52207 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,6000000,6000000,0,0
+204  11701  1503  5220702 ,Belanja Sewa Gedung/Kantor/Tempat ,6000000,6000000,0,0
+204  11701  1503  52208 ,Belanja Sewa Sarana Mobilitas ,3800000,3800000,0,0
+204  11701  1503  5220801 ,Belanja Sewa Sarana Mobilitas Darat ,3800000,3800000,0,0,Sewa kendaraan/bus
+204  11701  1503  52211 ,Belanja Makanan Dan Minuman ,7950000,7950000,0,0
+204  11701  1503  5221102 ,Belanja Makanan Dan Minuman Rapat ,1350000,1350000,0,0
+204  11701  1503  5221103 ,Belanja Makanan Dan Minuman Tamu ,6600000,6600000,0,0
+204  11701  1503  52215 ,Belanja Perjalanan Dinas ,36240000,36240000,0,0
+204  11701  1503  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,36240000,36240000,0,0,Perjalanan dinas luar daerah
+204  11701  1504 ,Koordinasi Dengan Sektor Pendukung Pariwisata,45092000,45092000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+204  11701  1504  521 ,Belanja Pegawai ,4860000,4860000,0,0
+204  11701  1504  52101 ,Honorarium PNS ,4260000,4260000,0,0
+204  11701  1504  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,4260000,4260000,0,0
+204  11701  1504  52102 ,Honorarium Non PNS ,600000,600000,0,0
+204  11701  1504  5210203 ,Honorarium Harian ,600000,600000,0,0
+204  11701  1504  522 ,Belanja Barang dan Jasa ,40232000,40232000,0,0
+204  11701  1504  52201 ,Belanja Bahan Pakai Habis ,104000,104000,0,0
+204  11701  1504  5220101 ,Belanja Alat Tulis Kantor ,104000,104000,0,0
+204  11701  1504  52202 ,Belanja Bahan/Material ,2240000,2240000,0,0
+204  11701  1504  5220206 ,Belanja Bahan Percontohan ,2240000,2240000,0,0
+204  11701  1504  52206 ,Belanja Cetak Dan Penggandaan ,330000,330000,0,0
+204  11701  1504  5220601 ,Belanja Cetak ,300000,300000,0,0
+204  11701  1504  5220602 ,Belanja Penggandaan ,30000,30000,0,0
+204  11701  1504  52208 ,Belanja Sewa Sarana Mobilitas ,25400000,25400000,0,0
+204  11701  1504  5220801 ,Belanja Sewa Sarana Mobilitas Darat ,25400000,25400000,0,0
+204  11701  1504  52211 ,Belanja Makanan Dan Minuman ,10048000,10048000,0,0
+204  11701  1504  5221103 ,Belanja Makanan Dan Minuman Tamu ,1840000,1840000,0,0
+204  11701  1504  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,8208000,8208000,0,0,Makan minum widya wisata
+204  11701  1504  52215 ,Belanja Perjalanan Dinas ,2110000,2110000,0,0
+204  11701  1504  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1500000,1500000,0,0
+204  11701  1504  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,610000,610000,0,0,Perjalanan dinas luar daerah
+204  11701  1517 ,Penyelenggaraan atraksi wisata ,72823500,72823500,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1517  521 ,Belanja Pegawai ,11940000,11940000,0,0
+204  11701  1517  52101 ,Honorarium PNS ,11220000,11220000,0,0
+204  11701  1517  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,8520000,8520000,0,0
+204  11701  1517  5210105 ,Honorarium Penyelenggaraan Kegiatan ,2700000,2700000,0,0
+204  11701  1517  52102 ,Honorarium Non PNS ,720000,720000,0,0
+204  11701  1517  5210203 ,Honorarium Harian ,720000,720000,0,0
+204  11701  1517  522 ,Belanja Barang dan Jasa ,60883500,60883500,0,0
+204  11701  1517  52201 ,Belanja Bahan Pakai Habis ,278500,278500,0,0
+204  11701  1517  5220101 ,Belanja Alat Tulis Kantor ,278500,278500,0,0
+204  11701  1517  52202 ,Belanja Bahan/Material ,4500000,4500000,0,0
+204  11701  1517  5220206 ,Belanja Bahan Percontohan ,4500000,4500000,0,0
+204  11701  1517  52203 ,Belanja Jasa Kantor ,27350000,27350000,0,0
+204  11701  1517  5220314 ,Belanja Dekorasi ,1150000,1150000,0,0
+204  11701  1517  5220315 ,Belanja Publikasi ,3700000,3700000,0,0
+204  11701  1517  5220326 ,Belanja Jasa Event Organizer / Atraksi Kesenian ,22500000,22500000,0,0
+204  11701  1517  52206 ,Belanja Cetak Dan Penggandaan ,150000,150000,0,0
+204  11701  1517  5220602 ,Belanja Penggandaan ,150000,150000,0,0
+204  11701  1517  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,22275000,22275000,0,0
+204  11701  1517  5221001 ,Belanja Sewa Meja Kursi ,825000,825000,0,0
+204  11701  1517  5221005 ,Belanja Sewa Tenda ,3450000,3450000,0,0
+204  11701  1517  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,18000000,18000000,0,0
+204  11701  1517  52211 ,Belanja Makanan Dan Minuman ,3500000,3500000,0,0
+204  11701  1517  5221102 ,Belanja Makanan Dan Minuman Rapat ,600000,600000,0,0
+204  11701  1517  5221103 ,Belanja Makanan Dan Minuman Tamu ,2900000,2900000,0,0
+204  11701  1517  52215 ,Belanja Perjalanan Dinas ,2830000,2830000,0,0
+204  11701  1517  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,2830000,2830000,0,0,Eselon II
+204  11701  1519 ,Promosi Pariwisata Nusantara Di Dalam dan  Luar Negeri,44310500,47310500,3000000,677,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1519  522 ,Belanja Barang dan Jasa ,44310500,47310500,3000000,677
+204  11701  1519  52201 ,Belanja Bahan Pakai Habis ,133500,133500,0,0
+204  11701  1519  5220101 ,Belanja Alat Tulis Kantor ,133500,133500,0,0
+204  11701  1519  52202 ,Belanja Bahan/Material ,1337000,1337000,0,0
+204  11701  1519  5220206 ,Belanja Bahan Percontohan ,1337000,1337000,0,0
+204  11701  1519  52203 ,Belanja Jasa Kantor ,10525000,13525000,3000000,285
+204  11701  1519  5220314 ,Belanja Dekorasi ,9125000,9125000,0,0
+204  11701  1519  5220315 ,Belanja Publikasi ,1400000,1400000,0,0
+204  11701  1519  5220326 ,Belanja Jasa Event Organizer / Atraksi Kesenian ,0,3000000,3000000,0
+204  11701  1519  52206 ,Belanja Cetak Dan Penggandaan ,1435000,1435000,0,0
+204  11701  1519  5220601 ,Belanja Cetak ,1360000,1360000,0,0,Cetak foto
+204  11701  1519  5220602 ,Belanja Penggandaan ,75000,75000,0,0
+204  11701  1519  52207 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,10000000,10000000,0,0
+204  11701  1519  5220702 ,Belanja Sewa Gedung/Kantor/Tempat ,10000000,10000000,0,0
+204  11701  1519  52214 ,Belanja Pakaian Khusus Dan Hari-Hari Tertentu ,1500000,1500000,0,0
+204  11701  1519  5221403 ,Belanja Pakaian Batik Tradisional ,1500000,1500000,0,0
+204  11701  1519  52215 ,Belanja Perjalanan Dinas ,19380000,19380000,0,0
+204  11701  1519  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,19380000,19380000,0,0,Perjalanan dinas luar daerah
+117  11701  16 ,Program Pengelolaan Kekayaan Budaya ,39925700,39925700,0,0
+117  11701  1613 ,Pengembangan Database Sistem Informasi Sejarah Purbakala,20972500,20972500,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1613  521 ,Belanja Pegawai ,12175000,12175000,0,0
+117  11701  1613  52101 ,Honorarium PNS ,12175000,12175000,0,0
+117  11701  1613  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,12175000,12175000,0,0
+117  11701  1613  522 ,Belanja Barang dan Jasa ,8797500,8797500,0,0
+117  11701  1613  52201 ,Belanja Bahan Pakai Habis ,137500,137500,0,0
+117  11701  1613  5220101 ,Belanja Alat Tulis Kantor ,137500,137500,0,0
+117  11701  1613  52203 ,Belanja Jasa Kantor ,150000,150000,0,0
+117  11701  1613  5220313 ,Belanja Dokumentasi ,150000,150000,0,0
+117  11701  1613  52206 ,Belanja Cetak Dan Penggandaan ,600000,600000,0,0
+117  11701  1613  5220602 ,Belanja Penggandaan ,600000,600000,0,0
+117  11701  1613  52211 ,Belanja Makanan Dan Minuman ,1440000,1440000,0,0
+117  11701  1613  5221102 ,Belanja Makanan Dan Minuman Rapat ,1440000,1440000,0,0
+117  11701  1613  52215 ,Belanja Perjalanan Dinas ,6470000,6470000,0,0
+117  11701  1613  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1340000,1340000,0,0
+117  11701  1613  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,5130000,5130000,0,0,Perjalanan dinas luar daerah
+117  11701  1621 ,Pelestarian Peninggalan Sejarah dan Purbakala ,18953200,18953200,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1621  521 ,Belanja Pegawai ,1950000,1950000,0,0
+117  11701  1621  52101 ,Honorarium PNS ,1950000,1950000,0,0
+117  11701  1621  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,1950000,1950000,0,0
+117  11701  1621  522 ,Belanja Barang dan Jasa ,17003200,17003200,0,0
+117  11701  1621  52201 ,Belanja Bahan Pakai Habis ,71300,71300,0,0
+117  11701  1621  5220101 ,Belanja Alat Tulis Kantor ,71300,71300,0,0
+117  11701  1621  52203 ,Belanja Jasa Kantor ,2800000,2800000,0,0
+117  11701  1621  5220313 ,Belanja Dokumentasi ,300000,300000,0,0
+117  11701  1621  5220326 ,Belanja Jasa Event Organizer / Atraksi Kesenian ,2500000,2500000,0,0
+117  11701  1621  52206 ,Belanja Cetak Dan Penggandaan ,39900,39900,0,0
+117  11701  1621  5220602 ,Belanja Penggandaan ,39900,39900,0,0
+117  11701  1621  52208 ,Belanja Sewa Sarana Mobilitas ,4000000,4000000,0,0
+117  11701  1621  5220801 ,Belanja Sewa Sarana Mobilitas Darat ,4000000,4000000,0,0
+117  11701  1621  52211 ,Belanja Makanan Dan Minuman ,1092000,1092000,0,0
+117  11701  1621  5221102 ,Belanja Makanan Dan Minuman Rapat ,1092000,1092000,0,0
+117  11701  1621  52220 ,Belanja Pemeliharaan ,9000000,9000000,0,0
+117  11701  1621  5222012 ,Belanja Pemeliharaan Bangunan Bersejarah ,9000000,9000000,0,0
+204  11701  16 ,Program Pengembangan Destinasi Pariwisata ,1172962000,1238582000,65620000,559
+204  11701  1602 ,Peningkatan Pembangunan Sarana dan Prasarana Pariwisata,399600500,409600500,10000000,25,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1602  522 ,Belanja Barang dan Jasa ,0,10000000,10000000,0
+204  11701  1602  52203 ,Belanja Jasa Kantor ,0,10000000,10000000,0
+204  11701  1602  5220308 ,Belanja Sertifikasi ,0,10000000,10000000,0
+204  11701  1602  523 ,Belanja Modal ,399600500,399600500,0,0
+204  11701  1602  52326 ,Belanja Modal Pengadaan Konstruksi/Pembelian Bangunan,399600500,399600500,0,0
+204  11701  1602  5232618 ,Belanja Modal Pengadaan Konstruksi/Pembelian Prasarana Kawasan Wisata,399600500,399600500,0,0,Alat Tulis Kantor
+,,,,,,Kertas HVS 70 gr folio
+,,,,,,2 rim x 45000.00 = 90000.00
+,,,,,,Tinta refil komputer
+,,,,,,1 dos x 35000.00 = 35000.00
+,,,,,,Stopmap kertas
+,,,,,,15 buah x 800.00 = 12000.00
+,,,,,,Snelhekter kertas
+,,,,,,9 buah x 1000.00 = 9000.00
+,,,,,,Paper Klip
+,,,,,,2 dos x 2600.00 = 5200.00
+,,,,,,Penggandaan
+,,,,,,Fotocopy
+,,,,,,1.708 lembar x 225.00 = 384300.00
+,,,,,,Makanan dan minuman rapat
+,,,,,,10 orang/kali x 6000.00 = 60000.00
+,,,,,,50 orang/kali x 18000.00 = 900000.00
+,,,,,,Perjalanan dinas dalam daerah
+,,,,,,Eselon II
+,,,,,,5 orang/kali x 60000.00 = 300000.00
+,,,,,,Eselon III
+,,,,,,10 orang/kali x 55000.00 = 550000.00
+,,,,,,Eselon IV
+,,,,,,12 orang/kali x 50000.00 = 600000.00
+,,,,,,Golongan III
+,,,,,,12 orang/kali x 40000.00 = 480000.00
+,,,,,,Pembangunan landscaping area camping ground di OW Goa Kiskendo
+,,,,,,Konsultan Perencanaan
+,,,,,,1 paket x 7000000.00 = 7000000.00
+,,,,,,Konsultan Pengawas
+,,,,,,1 paket x 5000000.00 = 5000000.00
+,,,,,,Pembangunan landscaping area camping ground
+,,,,,,1 paket x 120000000.00 = 120000000.00
+,,,,,,Pembangunan MCK dan jalan menuju gardu pandang di obyek wisata Waduk Sermo
+,,,,,,Konsultan Perencana
+,,,,,,1 paket x 4000000.00 = 4000000.00
+,,,,,,Konsultan Pengawasan
+,,,,,,1 paket x 2500000.00 = 2500000.00
+,,,,,,Pembangunan MCK dan jalan menuju gardu pandang
+,,,,,,1 paket x 60000000.00 = 60000000.00
+,,,,,,Pembangunan Suroloyo Resto (Joglo Pertemuan) dan penyempurnaan area parkir
+,,,,,,Konsultan Perencana
+,,,,,,1 paket x 10000000.00 = 10000000.00
+,,,,,,Konsultan Pengawas
+,,,,,,1 paket x 7000000.00 = 7000000.00
+,,,,,,1 paket x 179500000.00 = 179500000.00
+,,,,,,Honor
+,,,,,,Honorarium Pejabat Pembuat Komitmen
+,,,,,,3 orang/bulan x 250000.00 = 750000.00
+,,,,,,Honorarium Pejabat pengadaan
+,,,,,,1 orang/bulan x 250000.00 = 250000.00
+,,,,,,Honorarium Pejabat Penerima/Pemeriksa
+,,,,,,1 orang/bulan x 175000.00 = 175000.00
+204  11701  1614 ,Pemeliharaan Sarana dan Prasarana Pariwisata ,118107500,122107500,4000000,339,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+204  11701  1614  521 ,Belanja Pegawai ,76025000,80025000,4000000,526
+204  11701  1614  52101 ,Honorarium PNS ,425000,425000,0,0
+204  11701  1614  5210102 ,Honorarium Tim Pengadaan Barang Dan Jasa ,425000,425000,0,0
+204  11701  1614  52102 ,Honorarium Non PNS ,75600000,79600000,4000000,529
+204  11701  1614  5210203 ,Honorarium Harian ,75600000,79600000,4000000,529
+204  11701  1614  522 ,Belanja Barang dan Jasa ,42082500,42082500,0,0
+204  11701  1614  52201 ,Belanja Bahan Pakai Habis ,200000,200000,0,0
+204  11701  1614  5220101 ,Belanja Alat Tulis Kantor ,200000,200000,0,0
+204  11701  1614  52206 ,Belanja Cetak Dan Penggandaan ,307500,307500,0,0
+204  11701  1614  5220602 ,Belanja Penggandaan ,307500,307500,0,0
+204  11701  1614  52211 ,Belanja Makanan Dan Minuman ,1200000,1200000,0,0
+204  11701  1614  5221102 ,Belanja Makanan Dan Minuman Rapat ,1200000,1200000,0,0
+204  11701  1614  52215 ,Belanja Perjalanan Dinas ,1800000,1800000,0,0
+204  11701  1614  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1800000,1800000,0,0
+204  11701  1614  52220 ,Belanja Pemeliharaan ,32000000,32000000,0,0
+204  11701  1614  5222016 ,Belanja Pemeliharaan Bangunan/Sarana Prasarana Obyek Wisata,32000000,32000000,0,0
+204  11701  1614  52221 ,Belanja Jasa Konsultansi ,6575000,6575000,0,0
+204  11701  1614  5222102 ,Belanja Jasa Konsultansi Perencanaan ,3750000,3750000,0,0
+204  11701  1614  5222103 ,Belanja Jasa Konsultansi Pengawasan ,2825000,2825000,0,0
+204  11701  1632 ,Penyusunan perangkat perencanaan dan perangkat hukum kepariwisataan,180140000,180140000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+204  11701  1632  521 ,Belanja Pegawai ,15480000,15480000,0,0
+204  11701  1632  52101 ,Honorarium PNS ,15480000,15480000,0,0
+204  11701  1632  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,15030000,15030000,0,0
+204  11701  1632  5210102 ,Honorarium Tim Pengadaan Barang Dan Jasa ,450000,450000,0,0
+204  11701  1632  522 ,Belanja Barang dan Jasa ,164660000,164660000,0,0
+204  11701  1632  52201 ,Belanja Bahan Pakai Habis ,235000,235000,0,0
+204  11701  1632  5220101 ,Belanja Alat Tulis Kantor ,235000,235000,0,0
+204  11701  1632  52206 ,Belanja Cetak Dan Penggandaan ,300000,300000,0,0
+204  11701  1632  5220602 ,Belanja Penggandaan ,300000,300000,0,0
+204  11701  1632  52211 ,Belanja Makanan Dan Minuman ,1770000,1770000,0,0
+204  11701  1632  5221102 ,Belanja Makanan Dan Minuman Rapat ,1770000,1770000,0,0
+204  11701  1632  52215 ,Belanja Perjalanan Dinas ,2805000,2805000,0,0
+204  11701  1632  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1975000,1975000,0,0
+204  11701  1632  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,830000,830000,0,0,Perjalanan dinas luar daerah
+204  11701  1632  52221 ,Belanja Jasa Konsultansi ,159550000,159550000,0,0
+204  11701  1632  5222102 ,Belanja Jasa Konsultansi Perencanaan ,159550000,159550000,0,0,Konsultan Perencanaan
+204  11701  1633 ,Pengelolaan Retribusi ,475114000,526734000,51620000,1086,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1633  521 ,Belanja Pegawai ,18680000,21640000,2960000,1585
+204  11701  1633  52101 ,Honorarium PNS ,9800000,9800000,0,0
+204  11701  1633  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,9800000,9800000,0,0
+204  11701  1633  52103 ,Uang Lembur ,8880000,11840000,2960000,3333
+204  11701  1633  5210301 ,Uang Lembur PNS ,8880000,11840000,2960000,3333
+204  11701  1633  522 ,Belanja Barang dan Jasa ,456434000,505094000,48660000,1066
+204  11701  1633  52201 ,Belanja Bahan Pakai Habis ,152000,152000,0,0
+204  11701  1633  5220101 ,Belanja Alat Tulis Kantor ,152000,152000,0,0
+204  11701  1633  52203 ,Belanja Jasa Kantor ,365100000,398637400,33537400,919
+204  11701  1633  5220324 ,Belanja Jasa Pemungut Retribusi ,365100000,398637400,33537400,919
+204  11701  1633  52204 ,Belanja Premi Asuransi ,43500000,44238600,738600,17
+204  11701  1633  5220403 ,Belanja Premi Asuransi Jiwa ,43500000,44238600,738600,17
+204  11701  1633  52206 ,Belanja Cetak Dan Penggandaan ,39225000,44244000,5019000,128
+204  11701  1633  5220601 ,Belanja Cetak ,38850000,43869000,5019000,1292
+204  11701  1633  5220602 ,Belanja Penggandaan ,375000,375000,0,0
+204  11701  1633  52211 ,Belanja Makanan Dan Minuman ,3312000,3312000,0,0
+204  11701  1633  5221101 ,Belanja Makanan dan Minuman Harian Pegawai ,1872000,1872000,0,0
+204  11701  1633  5221102 ,Belanja Makanan Dan Minuman Rapat ,1440000,1440000,0,0
+204  11701  1633  52215 ,Belanja Perjalanan Dinas ,5145000,14510000,9365000,18202
+204  11701  1633  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,3035000,6070000,3035000,100
+204  11701  1633  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,2110000,8440000,6330000,300,Perjalanan dinas luar daerah
+118  11701  16 ,Program Peningkatan Peran Serta Kepemudaan ,40804100,40804100,0,0
+118  11701  1616 ,Pembinaan Organisasi Kepemudaan ,40804100,40804100,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+118  11701  1616  521 ,Belanja Pegawai ,9520000,9520000,0,0
+118  11701  1616  52101 ,Honorarium PNS ,4950000,4950000,0,0
+118  11701  1616  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,4950000,4950000,0,0
+118  11701  1616  52102 ,Honorarium Non PNS ,4570000,4570000,0,0
+118  11701  1616  5210203 ,Honorarium Harian ,2250000,2250000,0,0
+118  11701  1616  5210204 ,Honorarium Tim ,2320000,2320000,0,0
+118  11701  1616  522 ,Belanja Barang dan Jasa ,31284100,31284100,0,0
+118  11701  1616  52201 ,Belanja Bahan Pakai Habis ,570700,570700,0,0
+118  11701  1616  5220101 ,Belanja Alat Tulis Kantor ,570700,570700,0,0
+118  11701  1616  52203 ,Belanja Jasa Kantor ,204000,204000,0,0
+118  11701  1616  5220315 ,Belanja Publikasi ,204000,204000,0,0
+118  11701  1616  52206 ,Belanja Cetak Dan Penggandaan ,311400,311400,0,0
+118  11701  1616  5220602 ,Belanja Penggandaan ,311400,311400,0,0
+118  11701  1616  52211 ,Belanja Makanan Dan Minuman ,4398000,4398000,0,0
+118  11701  1616  5221102 ,Belanja Makanan Dan Minuman Rapat ,1134000,1134000,0,0
+118  11701  1616  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,3264000,3264000,0,0
+118  11701  1616  52213 ,Belanja Pakaian Kerja ,1500000,1500000,0,0
+118  11701  1616  5221301 ,Belanja Pakaian Kerja Lapangan ,1500000,1500000,0,0
+118  11701  1616  52215 ,Belanja Perjalanan Dinas ,11800000,11800000,0,0
+118  11701  1616  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,1080000,1080000,0,0
+118  11701  1616  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,10720000,10720000,0,0,Perjalanan dinas luar daerah
+118  11701  1616  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,1500000,1500000,0,0
+118  11701  1616  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,1500000,1500000,0,0
+118  11701  1616  52228 ,Belanja Hadiah atas Prestasi dan Penghargaan ,11000000,11000000,0,0
+118  11701  1616  5222801 ,Belanja Hadiah atas Prestasi ,11000000,11000000,0,0
+117  11701  17 ,Program Pengelolaan Keragaman Budaya ,306802900,321802900,15000000,489
+117  11701  1705 ,Fasilitasi Penyelenggaraan Festival Budaya Daerah,187511400,187511400,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1705  521 ,Belanja Pegawai ,37762500,37762500,0,0
+117  11701  1705  52101 ,Honorarium PNS ,9912500,9912500,0,0
+117  11701  1705  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,9912500,9912500,0,0
+117  11701  1705  52102 ,Honorarium Non PNS ,27850000,27850000,0,0
+117  11701  1705  5210203 ,Honorarium Harian ,26100000,26100000,0,0
+117  11701  1705  5210204 ,Honorarium Tim ,1750000,1750000,0,0
+117  11701  1705  522 ,Belanja Barang dan Jasa ,149748900,149748900,0,0
+117  11701  1705  52201 ,Belanja Bahan Pakai Habis ,131500,131500,0,0
+117  11701  1705  5220101 ,Belanja Alat Tulis Kantor ,131500,131500,0,0
+117  11701  1705  52202 ,Belanja Bahan/Material ,6500000,6500000,0,0
+117  11701  1705  5220206 ,Belanja Bahan Percontohan ,6500000,6500000,0,0
+117  11701  1705  52203 ,Belanja Jasa Kantor ,4100000,4100000,0,0
+117  11701  1705  5220313 ,Belanja Dokumentasi ,3600000,3600000,0,0
+117  11701  1705  5220315 ,Belanja Publikasi ,500000,500000,0,0
+117  11701  1705  52206 ,Belanja Cetak Dan Penggandaan ,77400,77400,0,0
+117  11701  1705  5220602 ,Belanja Penggandaan ,77400,77400,0,0
+117  11701  1705  52208 ,Belanja Sewa Sarana Mobilitas ,800000,800000,0,0
+117  11701  1705  5220801 ,Belanja Sewa Sarana Mobilitas Darat ,800000,800000,0,0
+117  11701  1705  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,49050000,49050000,0,0
+117  11701  1705  5221001 ,Belanja Sewa Meja Kursi ,600000,600000,0,0
+117  11701  1705  5221005 ,Belanja Sewa Tenda ,1200000,1200000,0,0
+117  11701  1705  5221006 ,Belanja Sewa Pakaian Adat/Tradisional ,35000000,35000000,0,0
+117  11701  1705  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,12250000,12250000,0,0
+117  11701  1705  52211 ,Belanja Makanan Dan Minuman ,24750000,24750000,0,0
+117  11701  1705  5221102 ,Belanja Makanan Dan Minuman Rapat ,1920000,1920000,0,0
+117  11701  1705  5221103 ,Belanja Makanan Dan Minuman Tamu ,4560000,4560000,0,0,Makan minum tamu festival padang bulan
+117  11701  1705  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,18270000,18270000,0,0
+117  11701  1705  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,43890000,43890000,0,0
+117  11701  1705  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,43890000,43890000,0,0,Honor penceramah workshop kethoprak
+,,,,,,Honorarium pelatih kethoprak
+117  11701  1705  52228 ,Belanja Hadiah atas Prestasi dan Penghargaan ,20450000,20450000,0,0
+117  11701  1705  5222801 ,Belanja Hadiah atas Prestasi ,20450000,20450000,0,0
+117  11701  1718 ,Pengembangan Kesenian dan Kebudayaan Daerah,69689000,69689000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1718  521 ,Belanja Pegawai ,6456000,6456000,0,0
+117  11701  1718  52101 ,Honorarium PNS ,6456000,6456000,0,0
+117  11701  1718  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,6456000,6456000,0,0
+117  11701  1718  522 ,Belanja Barang dan Jasa ,63233000,63233000,0,0
+117  11701  1718  52201 ,Belanja Bahan Pakai Habis ,171400,171400,0,0
+117  11701  1718  5220101 ,Belanja Alat Tulis Kantor ,171400,171400,0,0
+117  11701  1718  52202 ,Belanja Bahan/Material ,1115000,1115000,0,0
+117  11701  1718  5220204 ,Belanja Bahan Obat-Obatan ,115000,115000,0,0
+117  11701  1718  5220206 ,Belanja Bahan Percontohan ,1000000,1000000,0,0
+117  11701  1718  52203 ,Belanja Jasa Kantor ,650000,650000,0,0
+117  11701  1718  5220313 ,Belanja Dokumentasi ,650000,650000,0,0
+117  11701  1718  52206 ,Belanja Cetak Dan Penggandaan ,1644600,1644600,0,0
+117  11701  1718  5220601 ,Belanja Cetak ,1500000,1500000,0,0
+117  11701  1718  5220602 ,Belanja Penggandaan ,144600,144600,0,0
+117  11701  1718  52207 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,7350000,7350000,0,0
+117  11701  1718  5220702 ,Belanja Sewa Gedung/Kantor/Tempat ,7350000,7350000,0,0
+117  11701  1718  52208 ,Belanja Sewa Sarana Mobilitas ,9000000,9000000,0,0
+117  11701  1718  5220801 ,Belanja Sewa Sarana Mobilitas Darat ,9000000,9000000,0,0
+117  11701  1718  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,2625000,2625000,0,0
+117  11701  1718  5221006 ,Belanja Sewa Pakaian Adat/Tradisional ,2625000,2625000,0,0
+117  11701  1718  52211 ,Belanja Makanan Dan Minuman ,10242000,10242000,0,0
+117  11701  1718  5221102 ,Belanja Makanan Dan Minuman Rapat ,612000,612000,0,0
+117  11701  1718  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,9630000,9630000,0,0
+117  11701  1718  52214 ,Belanja Pakaian Khusus Dan Hari-Hari Tertentu ,5000000,5000000,0,0
+117  11701  1718  5221403 ,Belanja Pakaian Batik Tradisional ,5000000,5000000,0,0
+117  11701  1718  52215 ,Belanja Perjalanan Dinas ,13300000,13300000,0,0
+117  11701  1718  5221502 ,Belanja Perjalanan Dinas Luar Daerah ,13300000,13300000,0,0,Perjalanan dinas luar daerah
+117  11701  1718  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,12135000,12135000,0,0
+117  11701  1718  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,12135000,12135000,0,0
+117  11701  1724 ,Pembinaan Seni Budaya ,49602500,64602500,15000000,3024,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+117  11701  1724  521 ,Belanja Pegawai ,9280000,9280000,0,0
+117  11701  1724  52101 ,Honorarium PNS ,5680000,5680000,0,0
+117  11701  1724  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,5680000,5680000,0,0
+117  11701  1724  52102 ,Honorarium Non PNS ,3600000,3600000,0,0
+117  11701  1724  5210203 ,Honorarium Harian ,3600000,3600000,0,0
+117  11701  1724  522 ,Belanja Barang dan Jasa ,40322500,55322500,15000000,372
+117  11701  1724  52201 ,Belanja Bahan Pakai Habis ,197500,197500,0,0
+117  11701  1724  5220101 ,Belanja Alat Tulis Kantor ,197500,197500,0,0
+117  11701  1724  52206 ,Belanja Cetak Dan Penggandaan ,240000,240000,0,0
+117  11701  1724  5220602 ,Belanja Penggandaan ,240000,240000,0,0
+117  11701  1724  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,7500000,7500000,0,0
+117  11701  1724  5221005 ,Belanja Sewa Tenda ,4500000,4500000,0,0
+117  11701  1724  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,3000000,3000000,0,0,Sewa sound sistem
+117  11701  1724  52211 ,Belanja Makanan Dan Minuman ,14280000,14280000,0,0
+117  11701  1724  5221102 ,Belanja Makanan Dan Minuman Rapat ,1050000,1050000,0,0
+117  11701  1724  5221103 ,Belanja Makanan Dan Minuman Tamu ,6750000,6750000,0,0
+117  11701  1724  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,6480000,6480000,0,0
+117  11701  1724  52215 ,Belanja Perjalanan Dinas ,3105000,3105000,0,0
+117  11701  1724  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,3105000,3105000,0,0
+117  11701  1724  52223 ,Belanja Barang Yang Akan Diserahkan Kepada Masyarakat/Pihak Ketiga,15000000,30000000,15000000,100
+117  11701  1724  5222301 ,Belanja Barang Yang Akan Diserahkan Kepada Masyarakat,15000000,30000000,15000000,100,Peralatan Group Kesenian Paguyuban Seni Tari Jathilan Kridha Budaya. Klampis
+,,,,,,Angklung
+,,,,,,3 buah x 150000.00 = 450000.00
+,,,,,,Kuda Lumping
+,,,,,,6 buah x 350000.00 = 2100000.00
+,,,,,,Cepet Lanang
+,,,,,,1 buah x 500000.00 = 500000.00
+,,,,,,Cepet wedok
+,,,,,,1 buah x 500000.00 = 500000.00
+,,,,,,Pakaian Cepet wedok
+,,,,,,1 buah x 400000.00 = 400000.00
+,,,,,,Pakaian Penthul Bejer
+,,,,,,2 set x 450000.00 = 900000.00
+,,,,,,Kecrek
+,,,,,,1 buah x 150000.00 = 150000.00
+,,,,,,Peralatan Kesenian Kethoprak kepada Paguyuban Kethoprak Mataram Siswo Madyo. Soropati. Hargotirto. Kokap
+,,,,,,Kain/Jarit
+,,,,,,20 lembar x 65000.00 = 1300000.00
+,,,,,,Blangkon
+,,,,,,20 buah x 150000.00 = 3000000.00
+,,,,,,Sabuk
+,,,,,,20 buah x 30000.00 = 600000.00
+,,,,,,Keris
+,,,,,,1 buah x 100000.00 = 100000.00
+,,,,,,Peralatan kepada Paguyuban Kesenian Incling/Kuda Lumping Kumpul Sari Girinyono. Sendangsari. Pengasih
+,,,,,,Drumb Standart
+,,,,,,1 set x 2550000.00 = 2550000.00
+,,,,,,Spanduk
+,,,,,,1 buah x 100000.00 = 100000.00
+,,,,,,Kendang Ketipung
+,,,,,,1 set x 600000.00 = 600000.00
+,,,,,,Kuda Lumping
+,,,,,,5 buah x 350000.00 = 1750000.00
+,,,,,,Peralatan Group Kesenian Paguyuban Jathilan "Laras Tri Mudho" Gondangan Sidomulyo Pengasih
+,,,,,,Kostum Putra
+,,,,,,2 buah x 1400000.00 = 2800000.00
+,,,,,,Gong Kostum Buto
+,,,,,,6 buah x 200000.00 = 1200000.00
+,,,,,,Saron
+,,,,,,1 buah x 1000000.00 = 1000000.00
+,,,,,,Peralatan kepada Kelompok Rebana "Songgo Langit" Ngrajun Banjarharjo Kalibawang
+,,,,,,Keyboard
+,,,,,,1 buah x 4000000.00 = 4000000.00
+,,,,,,Seragam
+,,,,,,1 set x 1000000.00 = 1000000.00
+,,,,,,Peralatan kepada kelompok "Emprak" Mrunggi Sendangsari Pengasih
+,,,,,,Pakaian Seragam
+,,,,,,15 orang x 100000.00 = 1500000.00
+,,,,,,Organ
+,,,,,,1 set x 3500000.00 = 3500000.00
+204  11701  17 ,Program Pengembangan Kemitraan ,17702400,17702400,0,0
+204  11701  1708 ,Peningkatan Peran Serta Masyarakat Dalam Pengembangan Kemitraan Pariwisata,17702400,17702400,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+204  11701  1708  521 ,Belanja Pegawai ,4760000,4760000,0,0
+204  11701  1708  52101 ,Honorarium PNS ,2760000,2760000,0,0
+204  11701  1708  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,2760000,2760000,0,0
+204  11701  1708  52102 ,Honorarium Non PNS ,2000000,2000000,0,0
+204  11701  1708  5210203 ,Honorarium Harian ,2000000,2000000,0,0
+204  11701  1708  522 ,Belanja Barang dan Jasa ,12942400,12942400,0,0
+204  11701  1708  52201 ,Belanja Bahan Pakai Habis ,180100,180100,0,0
+204  11701  1708  5220101 ,Belanja Alat Tulis Kantor ,180100,180100,0,0
+204  11701  1708  52202 ,Belanja Bahan/Material ,900000,900000,0,0
+204  11701  1708  5220206 ,Belanja Bahan Percontohan ,900000,900000,0,0
+204  11701  1708  52203 ,Belanja Jasa Kantor ,300000,300000,0,0
+204  11701  1708  5220314 ,Belanja Dekorasi ,300000,300000,0,0,Dekorasi
+204  11701  1708  52206 ,Belanja Cetak Dan Penggandaan ,312300,312300,0,0
+204  11701  1708  5220602 ,Belanja Penggandaan ,312300,312300,0,0
+204  11701  1708  52207 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,1500000,1500000,0,0
+204  11701  1708  5220702 ,Belanja Sewa Gedung/Kantor/Tempat ,1500000,1500000,0,0
+204  11701  1708  52211 ,Belanja Makanan Dan Minuman ,7020000,7020000,0,0
+204  11701  1708  5221102 ,Belanja Makanan Dan Minuman Rapat ,1020000,1020000,0,0
+204  11701  1708  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,6000000,6000000,0,0
+204  11701  1708  52215 ,Belanja Perjalanan Dinas ,930000,930000,0,0
+204  11701  1708  5221501 ,Belanja Perjalanan Dinas Dalam Daerah ,930000,930000,0,0
+204  11701  1708  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,1800000,1800000,0,0
+204  11701  1708  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,1800000,1800000,0,0
+118  11701  18 ,Program Upaya Pencegahan Penyalahgunaan Narkoba,28202000,28202000,0,0
+118  11701  1801 ,Penyuluhan Tentang Bahaya Narkoba bagi Pemuda,28202000,28202000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+118  11701  1801  521 ,Belanja Pegawai ,2900000,2900000,0,0
+118  11701  1801  52101 ,Honorarium PNS ,2025000,2025000,0,0
+118  11701  1801  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,2025000,2025000,0,0
+118  11701  1801  52102 ,Honorarium Non PNS ,875000,875000,0,0
+118  11701  1801  5210203 ,Honorarium Harian ,875000,875000,0,0,Petugas keamanan
+118  11701  1801  522 ,Belanja Barang dan Jasa ,25302000,25302000,0,0
+118  11701  1801  52201 ,Belanja Bahan Pakai Habis ,424500,424500,0,0
+118  11701  1801  5220101 ,Belanja Alat Tulis Kantor ,424500,424500,0,0
+118  11701  1801  52203 ,Belanja Jasa Kantor ,19260000,19260000,0,0
+118  11701  1801  5220315 ,Belanja Publikasi ,760000,760000,0,0,Spanduk
+,,,,,,Brosur
+118  11701  1801  5220326 ,Belanja Jasa Event Organizer / Atraksi Kesenian ,18500000,18500000,0,0
+118  11701  1801  52206 ,Belanja Cetak Dan Penggandaan ,142500,142500,0,0
+118  11701  1801  5220602 ,Belanja Penggandaan ,142500,142500,0,0
+118  11701  1801  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,3225000,3225000,0,0
+118  11701  1801  5221001 ,Belanja Sewa Meja Kursi ,225000,225000,0,0
+118  11701  1801  5221004 ,Belanja Sewa Generator ,500000,500000,0,0,Sewa generator
+118  11701  1801  5221005 ,Belanja Sewa Tenda ,500000,500000,0,0,Sewa tenda
+118  11701  1801  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,2000000,2000000,0,0,Sewa soundsystem
+118  11701  1801  52211 ,Belanja Makanan Dan Minuman ,2250000,2250000,0,0
+118  11701  1801  5221102 ,Belanja Makanan Dan Minuman Rapat ,450000,450000,0,0
+118  11701  1801  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,1800000,1800000,0,0
+118  11701  20 ,Program Pembinaan dan Pemasyarakatan Olah Raga,109360250,160316600,50956350,4659
+118  11701  2005 ,Peningkatan Kesegaran Jasmani dan Rekreasi ,93600000,93600000,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+118  11701  2005  521 ,Belanja Pegawai ,26725000,26725000,0,0
+118  11701  2005  52101 ,Honorarium PNS ,22565000,22565000,0,0
+118  11701  2005  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,21465000,21465000,0,0
+118  11701  2005  5210105 ,Honorarium Penyelenggaraan Kegiatan ,1100000,1100000,0,0
+118  11701  2005  52102 ,Honorarium Non PNS ,4160000,4160000,0,0
+118  11701  2005  5210204 ,Honorarium Tim ,4160000,4160000,0,0
+118  11701  2005  522 ,Belanja Barang dan Jasa ,66875000,66875000,0,0
+118  11701  2005  52201 ,Belanja Bahan Pakai Habis ,1504000,1504000,0,0
+118  11701  2005  5220101 ,Belanja Alat Tulis Kantor ,1044000,1044000,0,0
+118  11701  2005  5220103 ,Belanja Alat Listrik Dan Elektronik (Lampu Pijar. Battery Kering),460000,460000,0,0
+118  11701  2005  52203 ,Belanja Jasa Kantor ,510000,510000,0,0
+118  11701  2005  5220315 ,Belanja Publikasi ,510000,510000,0,0
+118  11701  2005  52206 ,Belanja Cetak Dan Penggandaan ,731000,731000,0,0
+118  11701  2005  5220601 ,Belanja Cetak ,360000,360000,0,0
+118  11701  2005  5220602 ,Belanja Penggandaan ,371000,371000,0,0
+118  11701  2005  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,21630000,21630000,0,0
+118  11701  2005  5221001 ,Belanja Sewa Meja Kursi ,280000,280000,0,0
+118  11701  2005  5221005 ,Belanja Sewa Tenda ,600000,600000,0,0
+118  11701  2005  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,20750000,20750000,0,0
+118  11701  2005  52211 ,Belanja Makanan Dan Minuman ,13030000,13030000,0,0
+118  11701  2005  5221102 ,Belanja Makanan Dan Minuman Rapat ,3580000,3580000,0,0
+118  11701  2005  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,9450000,9450000,0,0
+118  11701  2005  52214 ,Belanja Pakaian Khusus Dan Hari-Hari Tertentu ,5600000,5600000,0,0
+118  11701  2005  5221404 ,Belanja Pakaian Olahraga ,5600000,5600000,0,0
+118  11701  2005  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,17120000,17120000,0,0
+118  11701  2005  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,17120000,17120000,0,0,Instruktur Senam Jumat Pagi
+118  11701  2005  52228 ,Belanja Hadiah atas Prestasi dan Penghargaan ,6750000,6750000,0,0
+118  11701  2005  5222801 ,Belanja Hadiah atas Prestasi ,6750000,6750000,0,0
+118  11701  2030 ,Pemasyarakatan olah raga bagi pelajar. mahasiswa dan masyarakat,15760250,15760250,0,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kabupaten Kulon Progo
+118  11701  2030  521 ,Belanja Pegawai ,5680000,5680000,0,0
+118  11701  2030  52101 ,Honorarium PNS ,2265000,2265000,0,0
+118  11701  2030  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,2265000,2265000,0,0
+118  11701  2030  52102 ,Honorarium Non PNS ,3415000,3415000,0,0
+118  11701  2030  5210204 ,Honorarium Tim ,3415000,3415000,0,0
+118  11701  2030  522 ,Belanja Barang dan Jasa ,10080250,10080250,0,0
+118  11701  2030  52201 ,Belanja Bahan Pakai Habis ,357000,357000,0,0
+118  11701  2030  5220101 ,Belanja Alat Tulis Kantor ,357000,357000,0,0
+118  11701  2030  52206 ,Belanja Cetak Dan Penggandaan ,404250,404250,0,0
+118  11701  2030  5220602 ,Belanja Penggandaan ,404250,404250,0,0
+118  11701  2030  52210 ,Belanja Sewa Perlengkapan Dan Peralatan Kantor ,2325000,2325000,0,0
+118  11701  2030  5221001 ,Belanja Sewa Meja Kursi ,225000,225000,0,0
+118  11701  2030  5221005 ,Belanja Sewa Tenda ,1600000,1600000,0,0,Sewa tenda
+118  11701  2030  5221007 ,Belanja Sewa Perlengkapan dan Peralatan Kantor lain,500000,500000,0,0
+118  11701  2030  52211 ,Belanja Makanan Dan Minuman ,1674000,1674000,0,0
+118  11701  2030  5221102 ,Belanja Makanan Dan Minuman Rapat ,1218000,1218000,0,0
+118  11701  2030  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,456000,456000,0,0
+118  11701  2030  52214 ,Belanja Pakaian Khusus Dan Hari-Hari Tertentu ,5320000,5320000,0,0
+118  11701  2030  5221404 ,Belanja Pakaian Olahraga ,5320000,5320000,0,0
+118  11701  2031 ,Pembentukan Tim Sepakbola Usia Dini ,0,50956350,50956350,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Lingkup Kabupaten
+118  11701  2031  521 ,Belanja Pegawai ,0,1920000,1920000,0
+118  11701  2031  52102 ,Honorarium Non PNS ,0,1920000,1920000,0
+118  11701  2031  5210203 ,Honorarium Harian ,0,1920000,1920000,0
+118  11701  2031  522 ,Belanja Barang dan Jasa ,0,49036350,49036350,0
+118  11701  2031  52201 ,Belanja Bahan Pakai Habis ,0,174500,174500,0
+118  11701  2031  5220101 ,Belanja Alat Tulis Kantor ,0,174500,174500,0
+118  11701  2031  52202 ,Belanja Bahan/Material ,0,20625000,20625000,0
+118  11701  2031  5220204 ,Belanja Bahan Obat-Obatan ,0,625000,625000,0
+118  11701  2031  5220206 ,Belanja Bahan Percontohan ,0,20000000,20000000,0
+118  11701  2031  52206 ,Belanja Cetak Dan Penggandaan ,0,176850,176850,0
+118  11701  2031  5220602 ,Belanja Penggandaan ,0,176850,176850,0,Fotokopi
+118  11701  2031  52211 ,Belanja Makanan Dan Minuman ,0,14400000,14400000,0
+118  11701  2031  5221104 ,Belanja Makanan dan Minuman Pelatihan. Sosialisasi. Penyuluhan,0,14400000,14400000,0
+118  11701  2031  52214 ,Belanja Pakaian Khusus Dan Hari-Hari Tertentu ,0,10960000,10960000,0
+118  11701  2031  5221404 ,Belanja Pakaian Olahraga ,0,10960000,10960000,0
+118  11701  2031  52227 ,Belanja Tenaga Ahli/Instruktur/Narasumber ,0,2700000,2700000,0
+118  11701  2031  5222701 ,Jasa Tenaga Ahli/Instruktur/Narasumber ,0,2700000,2700000,0
+118  11701  21 ,Program Peningkatan Sarana dan Prasarana Olah Raga,68100000,400880625,332780625,48866
+118  11701  2102 ,Peningkatan Pembangunan Sarana dan Prasarana Olah Raga,68100000,184433125,116333125,17083,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Kulon Progo
+118  11701  2102  521 ,Belanja Pegawai ,21600000,23700000,2100000,972
+118  11701  2102  52101 ,Honorarium PNS ,0,2100000,2100000,0
+118  11701  2102  5210101 ,Honorarium Panitia Pelaksana Kegiatan ,0,2100000,2100000,0
+118  11701  2102  52102 ,Honorarium Non PNS ,21600000,21600000,0,0
+118  11701  2102  5210203 ,Honorarium Harian ,21600000,21600000,0,0
+118  11701  2102  522 ,Belanja Barang dan Jasa ,46500000,134476925,87976925,1892
+118  11701  2102  52201 ,Belanja Bahan Pakai Habis ,0,268900,268900,0
+118  11701  2102  5220101 ,Belanja Alat Tulis Kantor ,0,268900,268900,0
+118  11701  2102  52206 ,Belanja Cetak Dan Penggandaan ,0,56025,56025,0
+118  11701  2102  5220602 ,Belanja Penggandaan ,0,56025,56025,0,Fotocopy
+118  11701  2102  52211 ,Belanja Makanan Dan Minuman ,0,252000,252000,0
+118  11701  2102  5221102 ,Belanja Makanan Dan Minuman Rapat ,0,252000,252000,0
+118  11701  2102  52220 ,Belanja Pemeliharaan ,40000000,115400000,75400000,1885
+118  11701  2102  5222017 ,Belanja Pemeliharaan Bangunan/Sarana Prasarana Olah Raga,40000000,115400000,75400000,1885
+118  11701  2102  52221 ,Belanja Jasa Konsultansi ,6500000,18500000,12000000,18462
+118  11701  2102  5222102 ,Belanja Jasa Konsultansi Perencanaan ,4000000,11000000,7000000,175,Konsultan perencanaan
+118  11701  2102  5222103 ,Belanja Jasa Konsultansi Pengawasan ,2500000,7500000,5000000,200,Konsultan pengawasan
+118  11701  2102  523 ,Belanja Modal ,0,26256200,26256200,0
+118  11701  2102  52326 ,Belanja Modal Pengadaan Konstruksi/Pembelian Bangunan,0,26256200,26256200,0
+118  11701  2102  5232616 ,Belanja Modal Pengadaan Konstruksi/Pembelian Gedung Sarana Olah Raga,0,26256200,26256200,0,Atap ring tinju di kompleks panti pelajar
+,,,,,,1 paket x 24180000.00 = 24180000.00
+,,,,,,PPK
+,,,,,,3 org/bln x 250000.00 = 750000.00
+,,,,,,Pejabat pengadaan
+,,,,,,1 org/bln x 250000.00 = 250000.00
+,,,,,,Pejabat penerima
+,,,,,,1 org/bln x 175000.00 = 175000.00
+,,,,,,ATK
+,,,,,,Kertas HVS 70 gram folio
+,,,,,,2 rim x 45000.00 = 90000.00
+,,,,,,Stopmap kertas
+,,,,,,15 buah x 800.00 = 12000.00
+,,,,,,Snelhecter kertas
+,,,,,,16 buah x 1000.00 = 16000.00
+,,,,,,Stapler no 10
+,,,,,,2 buah x 10000.00 = 20000.00
+,,,,,,Staples no 10
+,,,,,,2 buah x 26100.00 = 52200.00
+,,,,,,Penggandaan
+,,,,,,360 lbr x 225.00 = 81000.00
+,,,,,,Makan minum rapat
+,,,,,,Rapat persiapan
+,,,,,,21 org/kali x 6000.00 = 126000.00
+,,,,,,Rapat evaluasi
+,,,,,,21 org/kali x 18000.00 = 378000.00
+,,,,,,Rapat koordinasi
+,,,,,,21 org/kali x 6000.00 = 126000.00
+118  11701  2108 ,Pengadaan Alat Olahraga ,0,216447500,216447500,0,Sumber Dana : 
+,,,,,,Lokasi Kegiatan : Di Lingkup Kabupaten
+118  11701  2108  523 ,Belanja Modal ,0,216447500,216447500,0
+118  11701  2108  52332 ,Belanja Modal Pengadaan Alat-Alat Olah Raga ,0,216447500,216447500,0
+118  11701  2108  5233201 ,Belanja Modal Pengadaan Alat-Alat Olah Raga ,0,216447500,216447500,0,Pengadaan Alat Olahraga
+,,,,,,Ring Tinju
+,,,,,,1 set x 90075000.00 = 90075000.00
+,,,,,,Sandsack
+,,,,,,3 buah x 2000000.00 = 6000000.00
+,,,,,,Hand box
+,,,,,,6 pasang x 500000.00 = 3000000.00
+,,,,,,Hand bag
+,,,,,,4 pasang x 300000.00 = 1200000.00
+,,,,,,Head guard
+,,,,,,4 pasang x 350000.00 = 1400000.00
+,,,,,,Matras gulat
+,,,,,,2 stel x 22500000.00 = 45000000.00
+,,,,,,Matras kempo
+,,,,,,2 stel x 22500000.00 = 45000000.00
+,,,,,, Honor
+,,,,,,Pejabat Pembuat Komitmen
+,,,,,,3 org/bln x 275000.00 = 825000.00
+,,,,,,Pejabat Pengadaan
+,,,,,,1 org/bln x 250000.00 = 250000.00
+,,,,,,Pejabat Penerima
+,,,,,,1 org/bln x 250000.00 = 250000.00
+,,,,,,ATK
+,,,,,,Kertas HVS 70 gram folio
+,,,,,,2 rim x 45000.00 = 90000.00
+,,,,,,Stopmap kertas
+,,,,,,30 buah x 800.00 = 24000.00
+,,,,,,Snelhecter kertas
+,,,,,,12 buah x 1000.00 = 12000.00
+,,,,,,Tinta refill printer
+,,,,,,1 dos x 3500000 = 3500000
+,,,,,,Tip ex
+,,,,,,1 buah x 510000 = 510000
+,,,,,,Stapler no 10
+,,,,,,2 buah x 1000000 = 2000000
+,,,,,,Staples no 10
+,,,,,,1 dos x 2610000 = 2610000
+,,,,,,Penggandaan
+,,,,,,Fotokopi
+,,,,,,388 lbr x 22500 = 8730000
+,,,,,,Makan minum
+,,,,,,Rapat persiapan
+,,,,,,42 org/kali x 600000 = 25200000
+,,,,,,Rapat evaluasi
+,,,,,,21 org/kali x 1800000 = 37800000
+,,,,,,Rapat koordinasi
+,,,,,,63 org/kali x 600000 = 37800000
+,,,,,,Perjalanan Dinas
+,,,,,,Ke Jawa Tengah
+,,,,,,0  x 000 = 000
+,,,,,,Eselon IV
+,,,,,,8 org/kali/hari x 58000000 = 4640000
+,,,,,,Golongan III
+,,,,,,8 org/kali/hari x 43000000 = 3440000
+,,,,,,Ke Jakarta
+,,,,,,0  x 000 = 000
+,,,,,,Eselon III
+,,,,,,2 org/kali/hari x 107000000 = 2140000
+,,,,,,Eselon IV
+,,,,,,4 org/kali/hari x 94000000 = 3760000
+,,,,,,Golongan III
+,,,,,,4 org/kali/hari x 94000000 = 3760000
+,,,,,,Belanja Tiket
+,,,,,,0  x 000 = 000
+,,,,,,Eselon III
+,,,,,,2 org/kali x 55000000 = 110000000
+,,,,,,Eselon IV
+,,,,,,4 org/kali x 55000000 = 220000000
+,,,,,,Golongan III
+,,,,,,2 org/kali x 55000000 = 110000000
+
+SURPLUS / (DEFISIT) ,-3546978039.00,-3956167745,-409189706,1154

@@ -1,0 +1,704 @@
+Judul,Penjabaran Anggaran Pendaptan dan Belanja Daerah,,
+Daerah,Kabupaten Bantul,,
+Tahun,2015,,
+Kode Organisasi,1.20.03,,
+Organisasi,Sekretariat Daerah Bagian Umum,,
+Kolom,4,,
+No. Rekening,Uraian,Jumlah,Keterangan
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 04,Tunjangan Fungsional,13572000,"   Tunjangan Fungsional1 th x 13.572.000,00 = 13.572.000,00"
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 05,Tunjangan Fungsional Umum,422325475,"   Tunjangan Fungsional Umum1 th x 422.325.475,00 = 422.325.475,00"
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 06,Tunjangan Beras,588864380,"   Tunjangan Beras1 th x 588.864.380,00 = 588.864.380,00"
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 07,Tunjangan PPh/Tunjangan Khusus,261021450,"   Tunjangan PPh/Tunjangan Khusus1 th x 261.021.450,00 = 261.021.450,00"
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 08,Pembulatan Gaji,144733,"   Pembulatan Gaji1 th x 144.733,00 = 144.733,00"
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 09,Iuran Asuransi Kesehatan,0,"   Iuran Asuransi Kesehatan
+Iurang Asuransi Kesehatan BPJS1 th x 0,00 = 0,00
+Iuran Asuransi Jaminan Kecelakaan Kerja BPJS1 th x 0,00 = 0,00
+Iuran Jaminan Kematian BPJS1 th x 0,00 = 0,00"
+1.20 . 1.20.03 . 00 . 00 . 5 . 1 . 1 . 01 . 24,Tunjangan lain-lain,65416000,"   Tunjangan Lain-lain1 thn x 65.416.000,00 = 65.416.000,00"
+1.20 . 1.20.03 . 01 . 01 . 5 . 2,BELANJA LANGSUNG,5542856400,
+1.20 . 1.20.03 . 01,Program Pelayanan Administrasi Perkantoran,3545522100,
+1.20 . 1.20.03 . 01 . 01,Penyediaan jasa surat menyurat,43930000,"Sumber Dana :
+ Lokasi Kegiatan : Bantul
+Keluaran :  Terpenuhinya Benda Pos & Administrasi Persuratan
+Target     :  100"
+1.20 . 1.20.03 . 01 . 01 . 5 . 2 . 1,Belanja Pegawai,28560000,
+1.20 . 1.20.03 . 01 . 01 . 5 . 2 . 1 . 01,Honorarium PNS,28560000,
+1.20 . 1.20.03 . 01 . 01 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,28560000,"   Honor Tim Pengelola Persuratan Elektronik
+Anggota ( 13 Orang )156 ob x 140.000,00 = 21.840.000,00
+Pembina12 ob x 230.000,00 = 2.760.000,00
+Ketua12 ob x 170.000,00 = 2.040.000,00
+Sekretaris12 ob x 160.000,00 = 1.920.000,00"
+1.20 . 1.20.03 . 01 . 01 . 5 . 2 . 2,Belanja Barang dan Jasa,15370000,
+1.20 . 1.20.03 . 01 . 01 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,15370000,
+1.20 . 1.20.03 . 01 . 01 . 5 . 2 . 2 . 01 . 04,Belanja Perangko^ Materai Dan Benda Pos,15370000,"   Belanja Perangko, Materai, & Benda Pos
+Perangko1,700 lbr x 2.500,00 = 4.250.000,00
+Materai @ 3.0002,240 lbr x 3.000,00 = 6.720.000,00
+Materai @ 6.000550 lbr x 6.000,00 = 3.300.000,00
+Cek Giro20 buku x 25.000,00 = 500.000,00
+Biaya Pengiriman surat, Laporan12 bln x 50.000,00 = 600.000,00"
+1.20 . 1.20.03 . 01 . 02,Penyediaan jasa komunikasi^ sumber daya air dan listrik,247000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Terbayarnya Biaya Telepon, air, litrik sarana komunikasi selama 1 tahun
+Target     :  100"
+1.20 . 1.20.03 . 01 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,247000000,
+1.20 . 1.20.03 . 01 . 02 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,247000000,
+1.20 . 1.20.03 . 01 . 02 . 5 . 2 . 2 . 03 . 01,Belanja Telepon,108000000,"APBD   
+Belanja telepon12 bln x 9.000.000,00 = 108.000.000,00"
+1.20 . 1.20.03 . 01 . 02 . 5 . 2 . 2 . 03 . 02,Belanja Air,84000000,"   Belanja Air12 bln x 7.000.000,00 = 84.000.000,00"
+1.20 . 1.20.03 . 01 . 02 . 5 . 2 . 2 . 03 . 03,Belanja Listrik,48000000,"APBD   
+Belanja Listrik12 bln x 4.000.000,00 = 48.000.000,00"
+1.20 . 1.20.03 . 01 . 02 . 5 . 2 . 2 . 03 . 20,Belanja Sewa Frekuensi dan Pajak Radio,7000000,"APBD   
+Belanja Pajak Radio Sandi Telekomunikasi1 bln x 7.000.000,00 = 7.000.000,00"
+1.20 . 1.20.03 . 01 . 03,Penyediaan jasa peralatan dan perlengkapan kantor,276920000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Jasa Sewa kursi,meja, tenda & sound sistem untuk acara- acara kedinasan
+Target     :  100"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 1,Belanja Pegawai,24120000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 1 . 01,Honorarium PNS,24120000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,24120000,"APBD 
+  Honorarium Tim Penyedia Tempat
+Ketua12 ob x 170.000,00 = 2.040.000,00
+Sekretaris12 bln x 160.000,00 = 1.920.000,00
+anggota ( 12 orang)144 ob x 140.000,00 = 20.160.000,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,252800000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,9800000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 03 . 14,Belanja Dekorasi,5000000,"APBD  
+ Belanja dekorasi1 ls x 5.000.000,00 = 5.000.000,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 03 . 15,Belanja Publikasi,4800000,"APBD  
+ Belanja Publikasi1 ls x 4.800.000,00 = 4.800.000,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 07,Belanja Sewa Rumah/Gedung/Gudang/Parkir,18000000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 07 . 06,Belanja Sewa Tempat/Lahan Pertanian,18000000,"APBD   
+Belanja Sewa lahan tower
+Belanja sewa lahan tower ( 2 lokasi)2 lokasi x 9.000.000,00 = 18.000.000,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 08,Belanja Sewa Sarana Mobilitas,25000000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 08 . 01,Belanja Sewa Sarana Mobilitas Darat,25000000,"APBD  
+ Belanja Sewa Sarana Mobilitas Darat
+Belanja Sewa Mobilitas Darat1 ls x 25.000.000,00 = 25.000.000,000 lokasi x 0,00 = 0,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 10,Belanja Sewa Perlengkapan dan Peralatan Kantor,200000000,
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 10 . 01,Belanja Sewa Meja Kursi,70000000,"APBD  
+ Belanja Sewa meja Kursi
+Belanja Sewa Kursi1 ls x 70.000.000,00 = 70.000.000,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 10 . 05,Belanja Sewa Tenda,90000000,"APBD   
+Belanja Sewa Tenda/Panggung/Tikar/taman/AC standing Floor1 ls x 90.000.000,00 = 90.000.000,00"
+1.20 . 1.20.03 . 01 . 03 . 5 . 2 . 2 . 10 . 07,Belanja Sewa Sound System,40000000,"APBD  
+ Belanja Sound sistem1 ls x 40.000.000,00 = 40.000.000,00"
+1.20 . 1.20.03 . 01 . 06,Penyediaan jasa pemeliharaan dan perizinan kendaraan dinas/operasional,44750000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Perpanjangan STNK dan administrasi kendaraan dinas
+Target     :  100"
+1.20 . 1.20.03 . 01 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,44750000,
+1.20 . 1.20.03 . 01 . 06 . 5 . 2 . 2 . 05,Belanja Perawatan Kendaraan Bermotor,44750000,
+1.20 . 1.20.03 . 01 . 06 . 5 . 2 . 2 . 05 . 05,Belanja Pajak Kendaraan Bermotor,44750000,"APBD  
+ Belanja Perpanjangan STNK
+Ganti Plat9 bjj x 200.000,00 = 1.800.000,00
+Uji Kendaraan ( Bus & truck )12 bjj x 237.500,00 = 2.850.000,00
+Cek Fisik9 bjj x 125.000,00 = 1.125.000,00
+> Th 2000 sebanyak 20 Mobil1 ls x 20.000.000,00 = 20.000.000,00
+""Kendaraan Dinas Roda 2 Th 2000 sebanyak 25 Unit""1 ls x 2.925.000,00 = 2.925.000,00
+> Tahun 2000 sebanyak 11 Motor1 ls x 1.750.000,00 = 1.750.000,00
+Perpanjangan STNK Bus Besar Baru1 bjj x 3.900.000,00 = 3.900.000,00
+Bus Lama 2 unit2 bjj x 1.200.000,00 = 2.400.000,00
+""Kendaraan Dinas Roda 4 Th 2000 sebanyak 10 mobil""1 ls x 8.000.000,00 = 8.000.000,00"
+1.20 . 1.20.03 . 01 . 07,Penyediaan jasa administrasi keuangan,61890000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Honor Pengelola Keuangan & Barang, terbayarnya PBB
+Target     :  100"
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 1,Belanja Pegawai,34890000,
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 1 . 01,Honorarium PNS,34890000,
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,34890000,"APBD   
+Honor Pengelola Keuangan , Barang & Kepegawaian
+Pengurus Kepegawaian12 ob x 75.000,00 = 900.000,00
+Pengurus Barang36 ob x 150.000,00 = 5.400.000,00
+Pencatat Barang12 ob x 150.000,00 = 1.800.000,00
+Pembantu pengurus Barang12 ob x 125.000,00 = 1.500.000,00
+Pembantu PPK24 ob x 150.000,00 = 3.600.000,00
+Pembantu Bendahara Pengeluaran Bupati12 ob x 130.000,00 = 1.560.000,00
+Pembantu bendahara Penguusan Gaji12 ob x 80.500,00 = 966.000,00
+Bendahara Pengeluaran Bupati/Wakil Bupati12 ob x 190.000,00 = 2.280.000,00
+Pembantu Bendahara ( Pembuat Dokumen Sekretariat )12 ob x 170.000,00 = 2.040.000,00
+Pembantu Bendahara ( Pembuat Dokumen  Bagian )24 ob x 170.000,00 = 4.080.000,00
+Pejabat Penatausahaan Keuangan12 bln x 345.000,00 = 4.140.000,00
+Bendahara Pengeluaran Sekretariat12 ob x 276.000,00 = 3.312.000,00
+Bendahara Pengeluaran Pembantu ( Bagian Umum)12 o/b x 276.000,00 = 3.312.000,00"
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 2,Belanja Barang dan Jasa,27000000,
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,12000000,
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,12000000,"APBD  
+ Belanja ATK
+Belanja ATK untuk pengelolaan keuangan1 ls x 12.000.000,00 = 12.000.000,00"
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,15000000,
+1.20 . 1.20.03 . 01 . 07 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,15000000,"APBD 
+  Belanja Penggandaan
+Penggandaan untuk pengelolaan keuangan1 ls x 15.000.000,00 = 15.000.000,00"
+1.20 . 1.20.03 . 01 . 08,Penyediaan jasa kebersihan kantor,256309600,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersediaanya peralatan kebersihan, Jasa kebersihan & Honor Tenaga PHL Kebersihan
+Target     :  90"
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,256309600,
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,72656800,
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2 . 01 . 05,Belanja Peralatan Kebersihan Dan Bahan Pembersih,72656800,"APBD   
+Belanja Bahan PembersihKontrak Kebersihan Kamar mandi4 ob x 2.500.000,00 = 10.000.000,001 ls x 42.656.800,00 = 42.656.800,00
+Pengharum ruangan ( kontrak )1 ls x 20.000.000,00 = 20.000.000,00"
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,2100000,
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2 . 03 . 25,Belanja Jasa Pengelolaan Sampah,2100000,"APBD  
+ Belanja Jasa Pengeloaan sampahIuran Kebersihan12 bln x 125.000,00 = 1.500.000,00
+Biaya angkut sampah12 bln x 50.000,00 = 600.000,00"
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2 . 35,Jasa Narasumber^ Tenaga Ahli^ Yuri^ Entry Data^ Petugas Fogging dan Petugas Lapangan,181552800,
+1.20 . 1.20.03 . 01 . 08 . 5 . 2 . 2 . 35 . 06,Jasa Tenaga Harian Lepas,181552800,"APBD  
+ Honorarium PHL
+Honor cleaning servis 13 org x 12 bln x Rp. 1.163.800156 ob x 1.163.800,00 = 181.552.800,00"
+1.20 . 1.20.03 . 01 . 10,Penyediaan alat tulis kantor,51882800,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya ATK
+Target     :  100"
+1.20 . 1.20.03 . 01 . 10 . 5 . 2 . 2,Belanja Barang dan Jasa,51882800,
+1.20 . 1.20.03 . 01 . 10 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,51882800,
+1.20 . 1.20.03 . 01 . 10 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,51882800,"APBD   
+Belanja Alat Tulis Kantor1 ls x 51.882.800,00 = 51.882.800,00"
+1.20 . 1.20.03 . 01 . 11,Penyediaan barang cetakan dan penggandaan,40018000,"Sumber Dana : Dana Bagi Hasil, APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Barang Cetakan, Foto copy administrasi perkantoran
+Target     :  100"
+1.20 . 1.20.03 . 01 . 11 . 5 . 2 . 2,Belanja Barang dan Jasa,40018000,
+1.20 . 1.20.03 . 01 . 11 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,40018000,
+1.20 . 1.20.03 . 01 . 11 . 5 . 2 . 2 . 06 . 01,Belanja Cetak,35018000,"Dana Bagi Hasil   Belanja Cetak PPJ, cetak sarana kearsipan
+Cetak PPJ, Cetak sarana Kearsipan & penatausahaan1 ls x 35.018.000,00 = 35.018.000,00"
+1.20 . 1.20.03 . 01 . 11 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,5000000,"APBD
+   Belanja Penggandaan/Foto copy
+Foto copy surat surat penting, buku blangko SPP,SPM dan Laporan laporan Bagian Umum, Staf ahli Bupati1 ls x 5.000.000,00 = 5.000.000,00"
+1.20 . 1.20.03 . 01 . 12,Penyediaan komponen instalasi listrik/penerangan bangunan kantor,65000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya suku cadang listrik & penerangan gedung Kantor
+Target     :  100"
+1.20 . 1.20.03 . 01 . 12 . 5 . 2 . 2,Belanja Barang dan Jasa,65000000,
+1.20 . 1.20.03 . 01 . 12 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,65000000,
+1.20 . 1.20.03 . 01 . 12 . 5 . 2 . 2 . 01 . 03,Belanja Alat Listrik Dan Elektronik (Lampu Pijar^ Battery Kering),65000000,"APBD   
+Belanja Alat Listrik, lampu dan peralatannya1 ls x 65.000.000,00 = 65.000.000,00"
+1.20 . 1.20.03 . 01 . 15,Penyediaan bahan bacaan dan peraturan perundang-undangan,28000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Bahan Bacaan & Per UU
+Target     :  100"
+1.20 . 1.20.03 . 01 . 15 . 5 . 2 . 2,Belanja Barang dan Jasa,27000000,
+1.20 . 1.20.03 . 01 . 15 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,27000000,
+1.20 . 1.20.03 . 01 . 15 . 5 . 2 . 2 . 03 . 05,Belanja Surat Kabar/Majalah,27000000,"APBD  
+ Belanja Surat kabar / majalahKompas,Kedaulatan Rakyat,Bernas,Republika, Harian Yogya dll12 bln x 2.250.000,00 = 27.000.000,00"
+1.20 . 1.20.03 . 01 . 15 . 5 . 2 . 3,Belanja Modal,1000000,
+1.20 . 1.20.03 . 01 . 15 . 5 . 2 . 3 . 82,Belanja Modal Aset Tetap Lainnya - Pengadaan Buku,1000000,
+1.20 . 1.20.03 . 01 . 15 . 5 . 2 . 3 . 82 . 01,Belanja Modal Aset Tetap Lainnya - Pengadaan Buku Ilmu Pengetahuan Umum,1000000,"APBD  
+ BM Pengadaan Buku Ilmu Pengetahuan Umum
+BM Buku Pengetahuan Umum1 ls x 500.000,00 = 500.000,00
+BM Buku Per UU1 ls x 500.000,00 = 500.000,00"
+1.20 . 1.20.03 . 01 . 16,Penyediaan bahan logistik kantor,7500000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Terpenuhinya logistik kantor
+Target     :  100"
+1.20 . 1.20.03 . 01 . 16 . 5 . 2 . 2,Belanja Barang dan Jasa,7500000,
+1.20 . 1.20.03 . 01 . 16 . 5 . 2 . 2 . 02,Belanja Bahan/Material,7500000,
+1.20 . 1.20.03 . 01 . 16 . 5 . 2 . 2 . 02 . 07,Belanja Cindera Mata,7500000,"APBD 
+  Belanja Cinderamata
+Belanja Cinderamata/Souvenir1 ls x 7.500.000,00 = 7.500.000,00"
+1.20 . 1.20.03 . 01 . 17,Penyediaan makanan dan minuman,1219597700,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya Jamuan Makan minuman tamu, rapat, Honor PTT
+Target     :  80"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 1,Belanja Pegawai,38652200,
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 1 . 01,Honorarium PNS,23615000,
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,1175000,"APBD
+   Honor Pelaksana Kegiatan1 ls x 1.175.000,00 = 1.175.000,00"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 1 . 01 . 02,Honorarium Tim Pengadaan Barang Dan Jasa,22440000,"APBD  
+ Honor Tim Penyedia Makanan & Minuman
+Ketua12 ob x 170.000,00 = 2.040.000,00
+Sekretaris12 ob x 160.000,00 = 1.920.000,00
+Anggota ( 11 Org )132 ob x 140.000,00 = 18.480.000,00"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 1 . 02,Honorarium Non PNS,15037200,
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 1 . 02 . 02,Honorarium Pegawai Honorer/Tidak Tetap,15037200,"APBD   
+Honorarium Pelaksana Kegiatan
+Honor Juru Masak ( RD Wakil Bupati)12 ob x 1.204.600,00 = 14.455.200,00sisa1 ls x 582.000,00 = 582.000,00"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2,Belanja Barang dan Jasa,1180945500,
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2 . 02,Belanja Bahan/Material,7000000,
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2 . 02 . 12,Belanja alat-alat/perlengkapan,7000000,"APBD  
+ Belanja Tas Konsumsi
+Belanja Tas Konsumsi hari Jadi Kabupaten Bantul1 ls x 7.000.000,00 = 7.000.000,00"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2 . 11,Belanja Makanan dan  Minuman,1173945500,
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2 . 11 . 01,Belanja Makanan Dan Minuman Harian Pegawai,42000000,"APBD  
+ Belanja Camilan, makanan & minuman  Bupati/Wabup,Sekda, Asisten 1,2,3 dan staf ahli, ekstra foding petugas santel
+Camilan, Makanan & minuman Bupati/Wabup, minum sekda,asisten 1,II,III dan staf ahli1 ls x 30.000.000,00 = 30.000.000,00
+Ekstra Foding petugas santel120 ob x 100.000,00 = 12.000.000,00"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2 . 11 . 02,Belanja Makanan Dan Minuman Rapat,151000000,"APBD
+   Belanja Makan & Minuman Rapat
+Belanja Snack & Minum Rapat, dialog,temu wicara/forum komunikasi,sarasehan & pelantikan Pejabat4,470 dos x 8.500,00 = 37.995.000,00
+belanja Makanan & minuman  Rapat,dialog/temu wicara/forum komunikasi,sarasehan & pelantikan pejabat5,650 dos x 20.000,00 = 113.000.000,00sisa1 ls x 5.000,00 = 5.000,00"
+1.20 . 1.20.03 . 01 . 17 . 5 . 2 . 2 . 11 . 03,Belanja Makanan Dan Minuman Tamu,980945500,"APBD   
+Belanja Makanan & Minuman Tamu pemda
+""Pelayanan Tamu di Kantor perwakilanAqua""182 galon x 20.000,00 = 3.640.000,00Gula48 kg x 13.500,00 = 648.000,00Teh dll35 4500 x 4.500,00 = 157.500,00
+Belanja snack & minuman tamu di Rumah Dinas26,000 dos x 10.000,00 = 260.000.000,00
+Belanja Makan & Minuman Tamu Bupati di RD Bupati/ Wabup26,200 dus x 20.000,00 = 524.000.000,00
+Prasmanan Tamu Kunjungan daerah, Upacara kedinasan, hari jadi, open house/syawalan dan tamu Pemda Lainnya5,500 porsi x 35.000,00 = 192.500.000,00"
+1.20 . 1.20.03 . 01 . 18,Rapat-rapat koordinasi dan konsultasi ke luar daerah,1036800000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Biaya Perjalanan Dinas Luar Daerah
+Target     :  100"
+1.20 . 1.20.03 . 01 . 18 . 5 . 2 . 2,Belanja Barang dan Jasa,1036800000,
+1.20 . 1.20.03 . 01 . 18 . 5 . 2 . 2 . 15,Belanja Perjalanan Dinas,1036800000,
+1.20 . 1.20.03 . 01 . 18 . 5 . 2 . 2 . 15 . 02,Belanja Perjalanan Dinas Luar Daerah,868300000,"APBD  
+ Perjalanan Dinas Luar Daerah
+Tiket64 oj x 2.600.000,00 = 166.400.000,00
+Gol II, 12 kali pertahun 1 kali perjalanan 2 hari24 oj x 1.425.000,00 = 34.200.000,00
+tiket12 oj x 2.600.000,00 = 31.200.000,00
+Gol IV, 67 kali pertahun, 1 kali perjl, 2 hari134 oj x 1.700.000,00 = 227.800.000,00
+Tiket72 oj x 2.600.000,00 = 187.200.000,00
+Gol III 60 kli pertahun 1 kali perjln 2 hari120 oj x 1.550.000,00 = 186.000.000,00
+Untuk Konsultasi Koordinasi sandi & santel1 ls x 35.500.000,00 = 35.500.000,00"
+1.20 . 1.20.03 . 01 . 18 . 5 . 2 . 2 . 15 . 03,Belanja perjalanan dinas luar negeri,168500000,"   Belanja Perjalanan Dinas Luar Negeri1 LS x 168.500.000,00 = 168.500.000,00"
+1.20 . 1.20.03 . 01 . 19,Rapat-rapat koordinasi dan konsultasi dalam daerah,15000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Biaya Perjalanan Dinas Dalam Daerah
+Target     :  100"
+1.20 . 1.20.03 . 01 . 19 . 5 . 2 . 2,Belanja Barang dan Jasa,15000000,
+1.20 . 1.20.03 . 01 . 19 . 5 . 2 . 2 . 15,Belanja Perjalanan Dinas,15000000,
+1.20 . 1.20.03 . 01 . 19 . 5 . 2 . 2 . 15 . 01,Belanja Perjalanan Dinas Dalam Daerah,15000000,"APBD   
+Belanja Perjalanan Dinas Dalam Daerah
+""Kecamatanol III, 2 org x 1 kli perjl x 9 bl""18 oj x 60.000,00 = 1.080.000,00
+Gol II, 2 org x 1 kl perjl x 8 bln16 oj x 50.000,00 = 800.000,00
+"" Kabupaten ( Kota di Propinsi )ol IV, 5 org x 1 kli perjlx8 bln""40 oj x 80.000,00 = 3.200.000,00
+Gol III, 4 org x 2 kl perjln x 10 bln80 oj x 70.000,00 = 5.600.000,00
+Gol II, 4 org x 2 kli x 9 bln72 oj x 60.000,00 = 4.320.000,00"
+1.20 . 1.20.03 . 01 . 20,Penyediaan Jasa Keamanan,150924000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  HOnor PHL Jasa Penjaga Reperter, Portal
+Target     :  100"
+1.20 . 1.20.03 . 01 . 20 . 5 . 2 . 2,Belanja Barang dan Jasa,150924000,
+1.20 . 1.20.03 . 01 . 20 . 5 . 2 . 2 . 35,Jasa Narasumber^ Tenaga Ahli^ Yuri^ Entry Data^ Petugas Fogging dan Petugas Lapangan,150924000,
+1.20 . 1.20.03 . 01 . 20 . 5 . 2 . 2 . 35 . 06,Jasa Tenaga Harian Lepas,150924000,"APBD  
+ Honor Pegawai 
+Honorersisa1 ls x 9.468.000,00 = 9.468.000,00
+Honor Penjaga Monumen48 ob x 1.163.800,00 = 55.862.400,00
+Honor Penjaga Portal72 ob x 1.163.800,00 = 83.793.600,00
+Iuran keamanan RT/RW12 bln x 150.000,00 = 1.800.000,00"
+1.20 . 1.20.03 . 02,Program Peningkatan Sarana dan Prasarana Aparatur,1590576800,
+1.20 . 1.20.03 . 02 . 07,Pengadaan perlengkapan gedung kantor,37875000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya Perlengkapan Gedung Kantor
+Target     :  100"
+1.20 . 1.20.03 . 02 . 07 . 5 . 2 . 1,Belanja Pegawai,875000,
+1.20 . 1.20.03 . 02 . 07 . 5 . 2 . 1 . 01,Honorarium PNS,875000,
+1.20 . 1.20.03 . 02 . 07 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,875000,"APBD
+   Honor Pelaksana KegiatanHonor PPK1 op x 350.000,00 = 350.000,00
+Honor Pejabat Pengadaan1 op x 300.000,00 = 300.000,00
+Honor Pejabat Penerima & Pemeriksa Barang1 op x 225.000,00 = 225.000,00"
+1.20 . 1.20.03 . 02 . 07 . 5 . 2 . 3,Belanja Modal,37000000,
+1.20 . 1.20.03 . 02 . 07 . 5 . 2 . 3 . 48,Belanja Modal Peralatan dan Mesin -Pengadaan Alat Keamanan dan Perlindungan,37000000,
+1.20 . 1.20.03 . 02 . 07 . 5 . 2 . 3 . 48 . 01,Belanja Modal Peralatan dan Mesin -Pengadaan Alat Bantu Kemanan,37000000,"APBD  
+ BM Pengadaan Teralis
+BM Pengadaan Teralis Gedung Komplek Manding1 ls x 22.000.000,00 = 22.000.000,00
+BM. Partisi1 ls x 15.000.000,00 = 15.000.000,00"
+1.20 . 1.20.03 . 02 . 12,Peningkatan Daya Listrik,49375000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Terpasangnya ATS di Gedung Bappeda Bantul
+Target     :  100"
+1.20 . 1.20.03 . 02 . 12 . 5 . 2 . 1,Belanja Pegawai,875000,
+1.20 . 1.20.03 . 02 . 12 . 5 . 2 . 1 . 01,Honorarium PNS,875000,
+1.20 . 1.20.03 . 02 . 12 . 5 . 2 . 1 . 01 . 02,Honorarium Tim Pengadaan Barang Dan Jasa,875000,"APBD  
+ Honor Panitia/Pengadaan Barang
+Honor PPK1 op x 350.000,00 = 350.000,00
+Honor Pejabat Pengadaan1 op x 300.000,00 = 300.000,00
+Pejabat Penerima & pemeriksa Barang1 op x 225.000,00 = 225.000,00"
+1.20 . 1.20.03 . 02 . 12 . 5 . 2 . 3,Belanja Modal,48500000,
+1.20 . 1.20.03 . 02 . 12 . 5 . 2 . 3 . 80,Belanja Modal Jalan^ Irigasi dan Jaringan - Pengadaan Jaringan Telepon,48500000,
+1.20 . 1.20.03 . 02 . 12 . 5 . 2 . 3 . 80 . 01,Belanja Modal Jalan^ Irigasi dan Jaringan - Pengadaan Jaringan Telepon Di atas Tanah,48500000,"APBD   
+BM Instalasi Listrik & TeleponPasang ATS di Gedung Bappeda1 ls x 48.500.000,00 = 48.500.000,00"
+1.20 . 1.20.03 . 02 . 22,Pemeliharaan rutin/berkala gedung kantor,378875000,"Sumber Dana : APBD, Dana Alokasi Khusus (D A K)
+Lokasi Kegiatan : Bantul
+Keluaran :  Pemeliharaan Gedung Kantor Pemda Bantul
+Target     :  80"
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 1,Belanja Pegawai,875000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 1 . 01,Honorarium PNS,875000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,875000,"APBD   
+Honor Pelaksana kegiatanPPK1 op x 350.000,00 = 350.000,00
+Pejabat Pengadaan1 op x 300.000,00 = 300.000,00
+Pejabat penerima & Pemeriksa Barang1 op x 225.000,00 = 225.000,00"
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2,Belanja Barang dan Jasa,378000000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,2500000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,2500000,"APBD  
+ Belanja ATK1 ls x 2.500.000,00 = 2.500.000,00"
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,42750000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 03 . 09,Belanja Jasa Transaksi Keuangan,42750000,"Dana Alokasi Khusus (D A K)   
+Belanja Transaksi keuangan
+B Pembayaran Pajak Bumi dan Bangunan1 ls x 42.750.000,00 = 42.750.000,00"
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,2750000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,2750000,"APBD  
+ Belanja Penggandaan1 ls x 2.750.000,00 = 2.750.000,00"
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 20,Belanja Pemeliharaan,330000000,
+1.20 . 1.20.03 . 02 . 22 . 5 . 2 . 2 . 20 . 05,Belanja Pemeliharan Gedung dan Bangunan,330000000,"APBD   
+Belanja Pemeliharaan Bangunan dan gedung
+Belanja Pemeliharaan Bangunan Gedung tempat kerja, Pemeliharaan gedung Kantor Perwakilan di jakarta1 ls x 330.000.000,00 = 330.000.000,00"
+1.20 . 1.20.03 . 02 . 24,Pemeliharaan rutin/berkala kendaraan dinas/operasional,450000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya Biaya Pemeliharaan, Pembelian Suku Cadang dan BBM Bagi Kendaraan Dinas/Operasional
+Target     :  90"
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 1,Belanja Pegawai,11256000,
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 1 . 03,Uang Lembur,11256000,
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 1 . 03 . 01,Uang Lembur PNS,11256000,"APBD  
+ Belanja lembur
+Golongan III 7 hri x 2 org x12 bln168 ob x 15.000,00 = 2.520.000,00
+Gol II 7 hrx9 orgx12 bln756 ob x 10.000,00 = 7.560.000,00
+Gol I, 7 hrix 2 orgx12 bln168 ob x 7.000,00 = 1.176.000,00"
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 2,Belanja Barang dan Jasa,438744000,
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 2 . 05,Belanja Perawatan Kendaraan Bermotor,438744000,
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 2 . 05 . 01,Belanja Jasa Service,75000000,"APBD   
+Belanja Servis & rehab Kendaraan dinas
+Belanja Jasa Servis & rehab kendaraan dinas1 bjj x 75.000.000,00 = 75.000.000,00"
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 2 . 05 . 02,Belanja Penggantian Suku Cadang,85000000,"APBD   
+Belanja Penggantian suku cadang
+Belanja Penggantian suku cadang, onderdil,ACCU, Ban dll1 ls x 75.000.000,00 = 75.000.000,00
+Aksesoris1 ls x 10.000.000,00 = 10.000.000,00"
+1.20 . 1.20.03 . 02 . 24 . 5 . 2 . 2 . 05 . 03,Belanja Bahan Bakar Minyak/Gas Dan Pelumas,278744000,"APBD  
+ Belanja Bahan Bakar Minyak/Gas dan Pelumas
+Belanja Bahan Bakar Minyak/ Gas dan pelumas1 ls x 278.744.000,00 = 278.744.000,00"
+1.20 . 1.20.03 . 02 . 30,Pemeliharaan rutin/berkala peralatan dan perlengkapan kantor,192076800,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Pemeliharaan Peralatan & perlengkapan Kantor
+Target     :  80"
+1.20 . 1.20.03 . 02 . 30 . 5 . 2 . 1,Belanja Pegawai,17075000,
+1.20 . 1.20.03 . 02 . 30 . 5 . 2 . 1 . 01,Honorarium PNS,17075000,
+1.20 . 1.20.03 . 02 . 30 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,17075000,"APBD  
+ Honor Panitia Pelaksana kegiatanPejabat Penerima & pemeriksa Barang1 op x 225.000,00 = 225.000,00
+Tim Monitoring Lapangan ( Santel )1 ls x 16.200.000,00 = 16.200.000,00PPK1 ls x 350.000,00 = 350.000,00
+Honor Pejabat Pengadaan1 ls x 300.000,00 = 300.000,00"
+1.20 . 1.20.03 . 02 . 30 . 5 . 2 . 2,Belanja Barang dan Jasa,175001800,
+1.20 . 1.20.03 . 02 . 30 . 5 . 2 . 2 . 20,Belanja Pemeliharaan,175001800,
+1.20 . 1.20.03 . 02 . 30 . 5 . 2 . 2 . 20 . 04,Belanja Pemeliharan Peralatan dan Mesin,175001800,"APBD
+   Belanja pemeliharaan Alat Kantor
+""Pemeliharaan sarana komunikasiemeliharaan PABX""1 ls x 7.000.000,00 = 7.000.000,00
+Pemeliharaan kursi meja1 ls x 25.000.000,00 = 25.000.000,00
+Isi Ulang APAR1 ls x 8.500.000,00 = 8.500.000,00
+Perawatan Alat musik/gamelan1 ls x 10.000.000,00 = 10.000.000,00
+Pemeliharaan Multimedia/perlengkapan listrik1 ls x 5.000.000,00 = 5.000.000,00
+Perawatan Insta Pompa Hydrant1 ls x 7.250.000,00 = 7.250.000,00
+Pemeliharaan genset3 unit x 7.000.000,00 = 21.000.000,00
+Perawatan AC1 ls x 37.500.000,00 = 37.500.000,00
+Perawatan mesin ketik1 ls x 1.101.800,00 = 1.101.800,00
+""Pemeliharaan Peralatan multimedia di Gedung Indukemeliharan Pompa air""1 bjj x 10.000.000,00 = 10.000.000,00
+Perawatan tata suara1 unit x 15.000.000,00 = 15.000.000,00
+Pemeliharaan Tower1 ls x 10.000.000,00 = 10.000.000,00
+Perbaiakan radio komunikasi, radio VHF Kecamatan, santel rumah dinas, reperter dan HT1 ls x 6.000.000,00 = 6.000.000,00
+Pemeliharaan faximile1 ls x 7.000.000,00 = 7.000.000,00
+Pemeliharaan komputer1 ls x 4.650.000,00 = 4.650.000,00"
+1.20 . 1.20.03 . 02 . 34,Pengadaan peralatan dan perlengkapan kantor,482375000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Peralatan dan Perlengkapan Kantor
+Target     :  80"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 1,Belanja Pegawai,875000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 1 . 01,Honorarium PNS,875000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,875000,"APBD  
+ Honor Pejabat Pengadaan1 ls x 875.000,00 = 875.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 2,Belanja Barang dan Jasa,65200000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,45200000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 2 . 01 . 09,Belanja pembelian bendera^papan nama,45200000,"APBD  
+ Belanja Bendera Merah Putih, papan nama dll
+Belanja bendera merah putih, papan nama, rumbai rumbai, tali bendera1 ls x 15.200.000,00 = 15.200.000,00
+Belanja Karangan Bunga1 ls x 30.000.000,00 = 30.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 2 . 02,Belanja Bahan/Material,20000000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 2 . 02 . 02,Belanja Bahan/Bibit Tanaman,20000000,"APBD  
+ Belanja bahan/bibit tanaman1 ls x 20.000.000,00 = 20.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3,Belanja Modal,416300000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 16,Belanja Modal Peralatan dan Mesin - Pengadaan Alat-alat Bantu,18500000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 16 . 05,Belanja Modal Peralatan dan Mesin - Pengadaan Pompa,18500000,"APBD
+   BM. Pompa air
+BM. Pompa Torishima1 ls x 15.000.000,00 = 15.000.000,002 unit x 750.000,00 = 1.500.000,001 unit x 2.000.000,00 = 2.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 27,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Kantor,69300000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 27 . 05,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Kantor,69300000,"APBD  
+ BM. Pengadaan pemotong rumput1 ls x 8.300.000,00 = 8.300.000,00
+BM. Kursi Lipat1 ls x 50.000.000,00 = 50.000.000,00
+BM. SumurBM. Sumur Buis1 ls x 1.500.000,00 = 1.500.000,00
+BM. Sumur Pantek1 ls x 2.000.000,00 = 2.000.000,00
+BM. Rangka Tenda1 ls x 7.500.000,00 = 7.500.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 28,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Rumah Tangga,49500000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 28 . 06,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Rumah Tangga  (Home Use),49500000,"APBD  
+ BM. Tangga Alumunium1 ls x 3.000.000,00 = 3.000.000,00
+BM. Pengadaan Penghias ruangan rumah tangga
+BM. Sarung Kursi100 buah x 35.000,00 = 3.500.000,00
+BM. Gordyn1 set x 40.000.000,00 = 40.000.000,00
+BM. Taplak Round table2 buah x 1.500.000,00 = 3.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 29,Belanja Modal Peralatan dan Mesin - Pengadaan  Komputer,10000000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 29 . 03,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Komputer Mainframe,10000000,"APBD  
+ BM. Desktop PC All In OneDesktop PC All In One1 ls x 10.000.000,00 = 10.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 32,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Komunikasi,224000000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 32 . 01,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Komunikasi Telephone,204000000,"APBD 
+  BM. HT2 unit x 6.000.000,00 = 12.000.000,00
+BM. Handset telepon10 unit x 200.000,00 = 2.000.000,00
+BM. PABX1 ls x 190.000.000,00 = 190.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 32 . 06,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Komunikasi Sosial,20000000,"APBD  
+ BM. Sound system1 ls x 20.000.000,00 = 20.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 80,Belanja Modal Jalan^ Irigasi dan Jaringan - Pengadaan Jaringan Telepon,35000000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 80 . 01,Belanja Modal Jalan^ Irigasi dan Jaringan - Pengadaan Jaringan Telepon Di atas Tanah,35000000,"APBD 
+  BM. Instalasi telepon
+BM. Intalasi telepon1 ls x 35.000.000,00 = 35.000.000,00"
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 85,Belanja Modal Aset Tetap Lainnya - Pengadaan Barang Bercorak Kebudayaan,10000000,
+1.20 . 1.20.03 . 02 . 34 . 5 . 2 . 3 . 85 . 03,Belanja Modal Aset Tetap Lainnya - Pengadaan Barang Bercorak Kebudayaan Alat Kesenian,10000000,"APBD 
+  BM. Tutup gamelan1 ls x 10.000.000,00 = 10.000.000,00"
+1.20 . 1.20.03 . 03,Program peningkatan disiplin aparatur,15500000,
+1.20 . 1.20.03 . 03 . 03,Pengadaan pakaian kerja lapangan,8000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Terpenuhinya Pakaian Kerja Petugas Santel
+Target     :  100"
+1.20 . 1.20.03 . 03 . 03 . 5 . 2 . 2,Belanja Barang dan Jasa,8000000,
+1.20 . 1.20.03 . 03 . 03 . 5 . 2 . 2 . 13,Belanja Pakaian Kerja,8000000,
+1.20 . 1.20.03 . 03 . 03 . 5 . 2 . 2 . 13 . 01,Belanja Pakaian Kerja Lapangan,8000000,"APBD   
+Belanja Pakaian Kerja Lapangan
+Belanja Pakaian Kerja Lapangan untuk petugas santel8 paket x 1.000.000,00 = 8.000.000,00"
+1.20 . 1.20.03 . 03 . 05,Pengadaan pakaian khusus hari-hari tertentu,7500000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  terpenuhinya Pakaian Kerja Petugas Seksi Konsumsi Acara Besar kedinasan
+Target     :  100"
+1.20 . 1.20.03 . 03 . 05 . 5 . 2 . 2,Belanja Barang dan Jasa,7500000,
+1.20 . 1.20.03 . 03 . 05 . 5 . 2 . 2 . 14,Belanja Pakaian khusus dan hari-hari tertentu,7500000,
+1.20 . 1.20.03 . 03 . 05 . 5 . 2 . 2 . 14 . 03,Belanja Pakaian Batik Tradisional,7500000,"APBD 
+  Belanja Pakaian Batik Tradisional
+Belanja Pakaian Batik untuk seksi konsumsi Bagian Umum30 paket x 250.000,00 = 7.500.000,00"
+1.20 . 1.20.03 . 05,Program Peningkatan Kapasitas Sumber Daya Aparatur,136800000,
+1.20 . 1.20.03 . 05 . 05,Pendidikan dan pelatihan teknis,136800000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Meningkatnya kemampuan dan pengetahuan SDM
+Target     :  100"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 1,Belanja Pegawai,3750000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 1 . 01,Honorarium PNS,3750000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,3750000,"APBD 
+  ""Honor Panitia pelaksana kegiatan 
+Honor Panitia penyelenggara ( kegiatan pelatihan teknis tugas dan fungsi PNSD Pengelolaan keu dan aset
+""Ketua1 op x 350.000,00 = 350.000,00
+Sekretaris1 op x 325.000,00 = 325.000,00
+Anggota3 op x 300.000,00 = 900.000,00
+Honor Panitia Penyelenggara kegiatan pelatihan teknis tugas dan fungsi PNSD Peningkatan Pelayanan Umum
+Ketua1 op x 350.000,00 = 350.000,00
+Sekretaris1 op x 325.000,00 = 325.000,00
+Anggota5 op x 300.000,00 = 1.500.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2,Belanja Barang dan Jasa,133050000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,1400000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,900000,"APBD 
+  Belanja ATK ( Pelatihan Pengelolaan keuangan & aset )
+Belanja ATK untuk pelatihan pengelolaan keuangan & aset1 ls x 900.000,00 = 900.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 01 . 11,Belanja Bahan medis (obat-obatan) habis pakai,500000,"APBD  
+ P3K ( Kegiatan Pelatihan teknis tugas & fungsi peningkatan SDM Pelayanan UmumP3K untuk pelatihan teknis tugas & fungsi peningkatan SDM pelayanan Umum1 paket x 500.000,00 = 500.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,500000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 03 . 13,Belanja Dokumentasi,0,"APBD  
+ Belanja Dokumentasi Kegiatan Pelatihan Peningkatan SDM Pelayanan Umum
+B. Dokumentasi keg pelatihan peningkatan SDM Pelayanan umum1 paket x 0,00 = 0,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 03 . 14,Belanja Dekorasi,500000,"APBD
+   Belanja Dekorasi kegiatan pelatihan peningkatan SDM pelayanan umumDekorasi1 ls x 500.000,00 = 500.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,2350000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,2350000,"APBD  
+ Belanja penyusunan laporan dan materi penggandaan
+B. penggandaan materi dan penyusunan laporan kegiatan pelatihan  teknis tugas dan fungsi PNSD Pengelola Keuangan dan aset1 ls x 2.000.000,00 = 2.000.000,00
+Penyusunan laporan /penggandaan kegiatan pelatihan peningkatan SDM pelayanan umum1 ls x 350.000,00 = 350.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 10,Belanja Sewa Perlengkapan dan Peralatan Kantor,12500000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 10 . 07,Belanja Sewa Sound System,2000000,"APBD
+   Belanja Sewa Sound sistem
+Belanja sound sistem1 ls x 2.000.000,00 = 2.000.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 10 . 13,Belanja sewa peralatan dan perlengkapan kegiatan,10500000,"APBD   
+Belanja Sewa Alat Tempat
+Belanja Sewa alat dan tempat15 paket x 700.000,00 = 10.500.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 11,Belanja Makanan dan  Minuman,9900000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 11 . 05,Belanja Makanan dan Minuman Pelaksanaan Kegiatan,9900000,"APBD   
+Makan & Minum ( kegiatan Pelatihan Teknis Tugas & Fungsi PNSD Pengelola keuangan dan asetSnack 30 org x 10.00030 dos x 10.000,00 = 300.000,00
+Makan 30 org30 dos x 20.000,00 = 600.000,00
+Makan & minum Kegiatan Pelatihan peningkatan SDM Pelayanan Umumsnack 2 x 100 org x 10.000200 dus x 10.000,00 = 2.000.000,00
+Makan 2 x 100 org x 35.000200 porsi x 35.000,00 = 7.000.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 14,Belanja Pakaian khusus dan hari-hari tertentu,15000000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 14 . 04,Belanja Pakaian Olahraga,15000000,"APBD 
+  Belanja Pekaian Olah raga ( kegiatan pelatihan teknis peningkatan SDM Pelayanan UmumBelanja pakaian olah raga ( kegiatan pelatihan teknis peningkatan SDM  pelayanan umum100 stel x 150.000,00 = 15.000.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 17,Belanja kursus^ pelatihan^ sosialisasi dan bimbingan teknis PNS,75000000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 17 . 01,Belanja Kursus-Kursus Singkat/Pelatihan,75000000,"APBD 
+  Kegiatan Pelatihan excelent service
+Kegiatan Pelatihan Service excelent untuk PNSD Bagian Umum1 ls x 75.000.000,00 = 75.000.000,00"
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 35,Jasa Narasumber^ Tenaga Ahli^ Yuri^ Entry Data^ Petugas Fogging dan Petugas Lapangan,16400000,
+1.20 . 1.20.03 . 05 . 05 . 5 . 2 . 2 . 35 . 01,Jasa Nara Sumber/Moderator/Tenaga Ahli,16400000,"APBD  
+ Honor  Narasumber kegiatan Pelatihan Teknis Pengelolaan keuangan dan aset
+Honor Narasumber ( 3 org x 2 jpl )6 jpl x 500.000,00 = 3.000.000,00
+Honor Narasumber Kegiatan Pelatihan Teknis Tugas & Fungsi PNSD Peningkatan Pelayanan Umum
+Honor pendamping petugas kesehatan3 op x 300.000,00 = 900.000,00
+Honor Narasumber ( 2 org x 4 jpl)8 jpl x 500.000,00 = 4.000.000,00
+Honor Fasilitator10 paket x 750.000,00 = 7.500.000,00
+Honor Narasumber pembuka & pengarah umum2 jpl x 500.000,00 = 1.000.000,00"
+1.20 . 1.20.03 . 06,Program peningkatan pengembangan sistem pelaporan capaian kinerja dan keuangan,73080000,
+1.20 . 1.20.03 . 06 . 08,Penyusunan laporan keuangan^ barang^ kepegawaian dan ketatausahaan,73080000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya Biaya lembur & Makan Minum lembur Pegawai
+Target     :  100"
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 1,Belanja Pegawai,56580000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 1 . 01,Honorarium PNS,33180000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,33180000,"APBD  
+ Honorarium Tim pelaksana kegiatan
+Anggota (Gol. III)24 ob x 135.000,00 = 3.240.000,00
+Anggota (Gol. II)36 ob x 125.000,00 = 4.500.000,00
+Anggota ( 9 orang )108 ob x 140.000,00 = 15.120.000,00
+""Honor Tim Inventarisasi dan verifikasi aset
+ Ketua""12 ob x 160.000,00 = 1.920.000,00
+Sekretaris12 ob x 140.000,00 = 1.680.000,00
+""Honor Tim verifikasi SPJembina""12 1 x 230.000,00 = 2.760.000,00
+Ketua12 ob x 170.000,00 = 2.040.000,00
+Sekretaris12 ob x 160.000,00 = 1.920.000,00"
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 1 . 03,Uang Lembur,23400000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 1 . 03 . 01,Uang Lembur PNS,23400000,"APBD 
+  Uang Lembur PNS
+Golongan III 8 org x 15.000 x 13  x 12 bl1,248 ob x 15.000,00 = 18.720.000,00
+Golongan II 3 org x 10.000 x 12 x 13 hri468 ob x 10.000,00 = 4.680.000,00"
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,16500000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,500000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,500000,"APBD 
+  B ATK1 ls x 500.000,00 = 500.000,00"
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,2000000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,2000000,"APBD 
+  B. Foto Copy
+Belanja Foto copy1 ls x 2.000.000,00 = 2.000.000,00"
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 11,Belanja Makanan dan  Minuman,13200000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 11 . 04,Belanja makanan dan minuman Lembur,13200000,"APBD   
+Belanja Makan Minum Lembur
+Belanja Makanan & minuman lembur660 porsi x 20.000,00 = 13.200.000,00"
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 15,Belanja Perjalanan Dinas,800000,
+1.20 . 1.20.03 . 06 . 08 . 5 . 2 . 2 . 15 . 01,Belanja Perjalanan Dinas Dalam Daerah,800000,"APBD   
+Rakor1 ls x 800.000,00 = 800.000,00"
+1.25 . 1.20.03 . 15,Program Pengembangan Komunikasi^ Informasi dan Media Massa,25000000,
+1.25 . 1.20.03 . 15 . 05,Pengkajian dan pengembangan sistem informasi,25000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Tersedianya jaringan aplikasi  Informasi Sarana & Prasarana Kantor
+Target     :  100"
+1.25 . 1.20.03 . 15 . 05 . 5 . 2 . 3,Belanja Modal,25000000,
+1.25 . 1.20.03 . 15 . 05 . 5 . 2 . 3 . 29,Belanja Modal Peralatan dan Mesin - Pengadaan  Komputer,25000000,
+1.25 . 1.20.03 . 15 . 05 . 5 . 2 . 3 . 29 . 06,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Jaringan,25000000,"APBD   
+Pengadaan Aplikasi Informasi Peminjaman sarana gedung kantor1 ls x 25.000.000,00 = 25.000.000,00"
+1.24 . 1.20.03 . 15,Program perbaikan sistem administrasi kearsipan,27000000,
+1.24 . 1.20.03 . 15 . 07,Pemeliharaan peralatan jaringan informasi kearsipan,27000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Pemeliharaan Aplikasi Persuratan Elektronik/ Kearsipan
+Target     :  100"
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 1,Belanja Pegawai,875000,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 1 . 01,Honorarium PNS,875000,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,875000,"APBD
+   Honor Pelaksana KegiatanHonor PPK1 op x 350.000,00 = 350.000,00
+Pejabat pengadaan1 op x 300.000,00 = 300.000,00
+Pejabat Penerima & Pemeriksa barang1 op x 225.000,00 = 225.000,00"
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2,Belanja Barang dan Jasa,15625000,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,0,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,0,"APBD   
+Belanja ATKB. ATK1 ls x 0,00 = 0,00"
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,0,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,0,"APBD
+   B. penggandaanPenggandaan1 ls x 0,00 = 0,00"
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2 . 20,Belanja Pemeliharaan,15625000,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 2 . 20 . 07,Belanja Pemeliharaan Jaringan dan Instalasi,15625000,"APBD  
+ B Pemeliharaan Jaringan aplikasi persuratan elektronik
+B. pemeliharaan jaringan aplikasi Persuratan Elektronik1 ls x 15.625.000,00 = 15.625.000,00"
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 3,Belanja Modal,10500000,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 3 . 29,Belanja Modal Peralatan dan Mesin - Pengadaan  Komputer,10500000,
+1.24 . 1.20.03 . 15 . 07 . 5 . 2 . 3 . 29 . 06,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Jaringan,10500000,"APBD 
+  BM. Peralatan/kelengkapan server
+BM. Kelengkapan server persuratan elektronik1 ls x 10.500.000,00 = 10.500.000,00"
+1.20 . 1.20.03 . 16,Program peningkatan pelayanan kedinasan kepala daerah/wakil kepala daerah,89320000,
+1.20 . 1.20.03 . 16 . 07,Fasilitasi ketugasan kepala daerah / wakil kepala daerah,89320000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Honor PTT, Narasumber, Pengamanan Rumah dinas Bupati
+Target     :  100"
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 1,Belanja Pegawai,7948000,
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 1 . 01,Honorarium PNS,7948000,
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,7948000,"APBD  
+ Honor Penyelenggara Kegiatan
+Ketua1 op x 325.000,00 = 325.000,00
+Sekretaris1 op x 300.000,00 = 300.000,00
+Pelaksana Teknis7 op x 200.000,00 = 1.400.000,00
+Pelaksana Teknis5 op x 600.000,00 = 3.000.000,00
+Pembantu Teknis4 op x 200.000,00 = 800.000,00
+""Honor Penyelenggara Kegiatan Jamming/Pengamanan Sinyal Kegiatan Bupati & Wakil Bupatiembina""1 op x 350.000,00 = 350.000,00
+""Honor Penyelenggara Kegiatan Sterilisasi R. Kerja Bupati & R. Kerja Wakil Bupati embina""1 op x 350.000,00 = 350.000,00
+Ketua1 op x 325.000,00 = 325.000,00
+Sekretaris1 op x 300.000,00 = 300.000,00
+Pembantu Teknis2 op x 200.000,00 = 400.000,00sisa1 ls x 398.000,00 = 398.000,00"
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 2,Belanja Barang dan Jasa,81372000,
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 2 . 11,Belanja Makanan dan  Minuman,2052000,
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 2 . 11 . 05,Belanja Makanan dan Minuman Pelaksanaan Kegiatan,2052000,"APBD   
+Penyediaan Makanan & Minuman pelaksanaan kegiatan
+""Pengadaan makanan & Minuman Kegiatan Sterilisasi R. Kerja Bupati & Wakil Bupati -Snack 12 org x 3 hari""36 dus x 8.500,00 = 306.000,00
+Makan 12 org x 3 hari36 dus x 20.000,00 = 720.000,00
+""Pengadaan makanan & Minuman kegiatan jamming Snack 12 org x 3 hari""36 dus x 8.500,00 = 306.000,00
+Makan 12 org x 3 hari36 dus x 20.000,00 = 720.000,00"
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 2 . 35,Jasa Narasumber^ Tenaga Ahli^ Yuri^ Entry Data^ Petugas Fogging dan Petugas Lapangan,79320000,
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 2 . 35 . 01,Jasa Nara Sumber/Moderator/Tenaga Ahli,1200000,"APBD 
+  ""Honor Nara Sumber
+ Honor Narasumber""Honorarium Narasumber12 oj x 100.000,00 = 1.200.000,00"
+1.20 . 1.20.03 . 16 . 07 . 5 . 2 . 2 . 35 . 06,Jasa Tenaga Harian Lepas,78120000,"APBD 
+  Honorarium Tenaga Harian lepas
+Honor tenaga customer servis36 ob x 1.100.000,00 = 39.600.000,00
+Honor PTT Tenaga Khusus Bupati 1 org @ 3.210.00012 o/b x 3.210.000,00 = 38.520.000,00"
+1.24 . 1.20.03 . 16,Program penyelamatan dan pelestarian dokumen/arsip daerah,30357500,
+1.24 . 1.20.03 . 16 . 02,Pendataan dan penataan dokumen/arsip daerah,30357500,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Pendataan & Penataan arsip Kantor
+Target     :  90"
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 1,Belanja Pegawai,26060000,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 1 . 01,Honorarium PNS,22550000,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,22550000,"APBD 
+  Honor Tim pelaksana kegiatan
+Anggota 11121 ob x 140.000,00 = 16.940.000,00
+Honor Pengarah11 ob x 180.000,00 = 1.980.000,00
+Ketua11 ob x 170.000,00 = 1.870.000,00
+Sekretaris11 ob x 160.000,00 = 1.760.000,00"
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 1 . 03,Uang Lembur,3510000,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 1 . 03 . 01,Uang Lembur PNS,3510000,"APBD  
+ Uang lembur
+Gol III ( 4 0rg x 5 hari x 6klix15.000)120 ob x 15.000,00 = 1.800.000,00
+Gol II ( 5 org x 5 hri x 6 x 10.000150 ob x 10.000,00 = 1.500.000,00
+Gol I ( 1 org x 5 harix6klx 7000)30 ob x 7.000,00 = 210.000,00"
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 2,Belanja Barang dan Jasa,1897500,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,672500,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 2 . 01 . 05,Belanja Peralatan Kebersihan Dan Bahan Pembersih,672500,"APBD 
+  Belanja peralatan kebersihan & bahan pembersih
+Belanja peralatan kebersihan & bahan pembersih( sarung tangan, masker, sabun, tisu serbet )1 ls x 672.500,00 = 672.500,00"
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 2 . 11,Belanja Makanan dan  Minuman,1225000,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 2 . 11 . 05,Belanja Makanan dan Minuman Pelaksanaan Kegiatan,1225000,"APBD  
+ Belanja Makanan & Minum kegiatan
+Belanja Makan Minum kegiatan70 porsi x 17.500,00 = 1.225.000,00"
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 3,Belanja Modal,2400000,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 3 . 27,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Kantor,2400000,
+1.24 . 1.20.03 . 16 . 02 . 5 . 2 . 3 . 27 . 05,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Kantor,2400000,"APBD  
+ BM Pengadaan Perlengkapan kantorBM Rak arsip2 buah x 1.200.000,00 = 2.400.000,00"
+1.25 . 1.20.03 . 17,Program fasilitasi Peningkatan SDM bidang komunikasi dan informasi,4700000,
+1.25 . 1.20.03 . 17 . 06,Sosialisasi Kesandian dan telekomunikasi,4700000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Terlaksanya Forum Komunikasi Sandi Daerah
+Target     :  100"
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2,Belanja Barang dan Jasa,4700000,
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 01,Belanja Bahan Pakai Habis,400000,
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 01 . 01,Belanja Alat Tulis Kantor,400000,"APBD  
+ Belanja ATK1 ls x 400.000,00 = 400.000,00"
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 03,Belanja Jasa Kantor,500000,
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 03 . 13,Belanja Dokumentasi,0,"APBD  
+ Belanja Dokumentasi1 ls x 0,00 = 0,00"
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 03 . 14,Belanja Dekorasi,500000,"APBD  
+ Belanja Dekorasi1 ls x 500.000,00 = 500.000,00"
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,500000,
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,500000,"APBD  
+ Belanja Penggandaan1 ls x 500.000,00 = 500.000,00"
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 11,Belanja Makanan dan  Minuman,1800000,
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 11 . 05,Belanja Makanan dan Minuman Pelaksanaan Kegiatan,1800000,"APBD  
+ Belanja Makanan dan Minumansnack60 dus x 10.000,00 = 600.000,00
+Makan60 dus x 20.000,00 = 1.200.000,00"
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 35,Jasa Narasumber^ Tenaga Ahli^ Yuri^ Entry Data^ Petugas Fogging dan Petugas Lapangan,1500000,
+1.25 . 1.20.03 . 17 . 06 . 5 . 2 . 2 . 35 . 01,Jasa Nara Sumber/Moderator/Tenaga Ahli,1500000,"APBD  
+ Honor Narasumber3 org x 500.000,00 = 1.500.000,00"
+1.06 . 1.20.03 . 21,Program perencanaan pembangunan daerah,5000000,
+1.06 . 1.20.03 . 21 . 08,Penyusunan rancangan RKPD,5000000,"Sumber Dana : APBD
+Lokasi Kegiatan : Bantul
+Keluaran :  Dokumen Renja Bagian Umum
+Target     :  100"
+1.06 . 1.20.03 . 21 . 08 . 5 . 2 . 1,Belanja Pegawai,2620000,
+1.06 . 1.20.03 . 21 . 08 . 5 . 2 . 1 . 01,Honorarium PNS,2620000,
+1.06 . 1.20.03 . 21 . 08 . 5 . 2 . 1 . 01 . 01,Honorarium Panitia Pelaksana Kegiatan,2620000,"APBD 
+  Honor Tim Penyusun Renja
+Ketua2 ob x 170.000,00 = 340.000,00
+Sekretaris2 ob x 160.000,00 = 320.000,00
+Anggota ( 7 orang )14 ob x 140.000,00 = 1.960.000,00"
+1.06 . 1.20.03 . 21 . 08 . 5 . 2 . 2,Belanja Barang dan Jasa,2380000,
+1.06 . 1.20.03 . 21 . 08 . 5 . 2 . 2 . 06,Belanja Cetak dan Penggandaan,2380000,
+1.06 . 1.20.03 . 21 . 08 . 5 . 2 . 2 . 06 . 02,Belanja Penggandaan,2380000,"APBD   
+Belanja Penggandaan/ Foto copy
+B. Foto Copy1 ls x 2.380.000,00 = 2.380.000,00"
+,SURPLUS / (DEFISIT),-17616406400,

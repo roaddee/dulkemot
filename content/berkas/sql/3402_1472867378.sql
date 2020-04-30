@@ -1,0 +1,1 @@
+INSERT INTO tweb_apbd(`lembaga_id`, `lembaga_kode`, `wilayah_kode`,`tahun`, `rekening_kode`, `uraian`, `nominal`,`nominal_sebelum`, `nominal_sesudah`, `nominal_perubahan`, `nominal_persen`, `keterangan`, `created_by`, `updated_by`) VALUES 

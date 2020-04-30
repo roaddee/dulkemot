@@ -1,0 +1,390 @@
+Judul,Penjabaran Anggaran Pendapatan dan Belanja Daerah,,
+Daerah,Kota Yogyakarta,,
+Tahun,2015,,
+Kode Organisasi,1.06.01,,
+Nama Organisasi,Badan Perencanaan Pembangunan Daerah,,
+Kolom,4,,
+Kode Rekening,Uraian,Jumlah,Keterangan
+1.06.01 ,Badan Perencanaan Pembangunan Daerah,"10494114863,00",
+1.06.1.06.01.000.000.5.1 ,BELANJA TIDAK LANGSUNG ,"2564721697,00",
+1.06.1.06.01.000.000.5.1.1 ,BELANJA PEGAWAI ,"2564721697,00",
+1.06.1.06.01.000.000.5.1.1.01 ,Belanja Gaji Dan Tunjangan ,"2564721697,00",
+1.06.1.06.01.000.000.5.1.1.01.01 ,Gaji Pokok PNS/Uang Representasi (DAU) ,"1932941345,00",Gaji Pokok PNS/Uang Representasi (DAU) 1932941345
+1.06.1.06.01.000.000.5.1.1.01.02 ,Tunjangan Keluarga (DAU) ,"183224451,00",Tunjangan Keluarga (DAU) 183224451
+1.06.1.06.01.000.000.5.1.1.01.03 ,Tunjangan Jabatan Struktural (DAU) ,"175157125,00",Tunjangan Jabatan Struktural (DAU) 175157125
+1.06.1.06.01.000.000.5.1.1.01.04 ,Tunjangan Jabatan Fungsional (DAU) ,"28355600,00",Tunjangan Jabatan Fungsional (DAU) 28355600
+1.06.1.06.01.000.000.5.1.1.01.05 ,Tunjangan Fungsional Umum (DAU) ,"68823625,00",Tunjangan Fungsional Umum (DAU) 68823625
+1.06.1.06.01.000.000.5.1.1.01.06 ,Tunjangan Beras (DAU) ,"129736857,00",Tunjangan Beras (DAU) 129736857
+1.06.1.06.01.000.000.5.1.1.01.07 ,Tunjangan  PPh/Tunjangan Khusus (DAU) ,"46445508,00",Tunjangan  PPh/Tunjangan Khusus (DAU) 46445508
+1.06.1.06.01.000.000.5.1.1.01.08 ,Pembulatan Gaji (DAU) ,"37186,00",Pembulatan Gaji (DAU) 37186
+1.06.1.06.01.000.000.5.2 ,BELANJA LANGSUNG ,"7929393166,00",
+1.06.1.06.01.001.000.5.2 ,Program Pelayanan Administrasi Perkantoran ,"691142684,00",
+1.06.1.06.01.001.001.5.2 ,Penyediaan jasa surat menyurat ,"4750000,00",
+1.06.1.06.01.001.001.5.2.2 ,BELANJA BARANG DAN JASA ,"4750000,00",
+1.06.1.06.01.001.001.5.2.2.01 ,Belanja Bahan Pakai Habis ,"4200000,00",
+1.06.1.06.01.001.001.5.2.2.01.04 ,"Belanja Perangko, Materai, dan Benda Pos ","4200000,00","Belanja Perangko, Materai, dan Benda Pos 4200000"
+1.06.1.06.01.001.001.5.2.2.03 ,Belanja Jasa Kantor ,"550000,00",
+1.06.1.06.01.001.001.5.2.2.03.07 ,Belanja Paket/Pengiriman ,"550000,00",Belanja Paket/Pengiriman 550000
+1.06.1.06.01.001.006.5.2 ,Penyediaan jasa pemeliharaan dan perizinan kendaraan dinas/operasinoal ,"6850000,00",
+1.06.1.06.01.001.006.5.2.2 ,BELANJA BARANG DAN JASA ,"6850000,00",
+1.06.1.06.01.001.006.5.2.2.05 ,Belanja Perawatan Kendaraan Bermotor ,"6850000,00",
+1.06.1.06.01.001.006.5.2.2.05.05 ,Belanja STNK ,"6850000,00",Belanja STNK 6850000
+1.06.1.06.01.001.007.5.2 ,Penyediaan jasa administrasi keuangan ,"45900000,00",
+1.06.1.06.01.001.007.5.2.1 ,BELANJA PEGAWAI ,"45900000,00",
+1.06.1.06.01.001.007.5.2.1.01 ,Honorarium PNS ,"45900000,00",
+1.06.1.06.01.001.007.5.2.1.01.04 ,Honorarium Pengelola Keuangan/Barang ,"45900000,00",Honorarium Pengelola Keuangan/Barang 45900000
+1.06.1.06.01.001.008.5.2 ,Penyediaan jasa kebersihan kantor ,"73842000,00",
+1.06.1.06.01.001.008.5.2.1 ,BELANJA PEGAWAI ,"250000,00",
+1.06.1.06.01.001.008.5.2.1.01 ,Honorarium PNS ,"250000,00",
+1.06.1.06.01.001.008.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"250000,00",Honorarium Tim Pengadaan Barang dan Jasa 250000
+1.06.1.06.01.001.008.5.2.2 ,BELANJA BARANG DAN JASA ,"73592000,00",
+1.06.1.06.01.001.008.5.2.2.01 ,Belanja Bahan Pakai Habis ,"10871000,00",
+1.06.1.06.01.001.008.5.2.2.01.05 ,Belanja Peralatan Kebersihan Dan Bahan Pembersih ,"10871000,00",Belanja Peralatan Kebersihan Dan Bahan Pembersih 10871000
+1.06.1.06.01.001.008.5.2.2.20 ,Belanja Pemeliharaan ,"62721000,00",
+1.06.1.06.01.001.008.5.2.2.20.09 ,Belanja Pemeliharaan Kebersihan ,"62721000,00",Belanja Pemeliharaan Kebersihan 62721000
+1.06.1.06.01.001.009.5.2 ,Penyediaan jasa perbaikan peralatan kerja ,"33125000,00",
+1.06.1.06.01.001.009.5.2.2 ,BELANJA BARANG DAN JASA ,"33125000,00",
+1.06.1.06.01.001.009.5.2.2.20 ,Belanja Pemeliharaan ,"33125000,00",
+1.06.1.06.01.001.009.5.2.2.20.04 ,Belanja Pemeliharaan Peralatan Dan Perlengkapan Kantor/Kerja/Kerumahtanggaan/Komunikasi/Studio ,"33125000,00",Belanja Pemeliharaan Peralatan Dan Perlengkapan Kantor/Kerja/Kerumahtanggaan/Komunikasi/Studio 33125000
+1.06.1.06.01.001.010.5.2 ,Penyediaan alat tulis kantor ,"47786750,00",
+1.06.1.06.01.001.010.5.2.1 ,BELANJA PEGAWAI ,"2250000,00",
+1.06.1.06.01.001.010.5.2.1.01 ,Honorarium PNS ,"2250000,00",
+1.06.1.06.01.001.010.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"2250000,00",Honorarium Panitia Pelaksana Kegiatan 2250000
+1.06.1.06.01.001.010.5.2.2 ,BELANJA BARANG DAN JASA ,"45536750,00",
+1.06.1.06.01.001.010.5.2.2.01 ,Belanja Bahan Pakai Habis ,"45536750,00",
+1.06.1.06.01.001.010.5.2.2.01.01 ,Belanja  Alat Tulis Kantor ,"45536750,00",Belanja  Alat Tulis Kantor 45536750
+1.06.1.06.01.001.011.5.2 ,Penyediaan barang cetakan dan penggandaan ,"42473550,00",
+1.06.1.06.01.001.011.5.2.2 ,BELANJA BARANG DAN JASA ,"42473550,00",
+1.06.1.06.01.001.011.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"42473550,00",
+1.06.1.06.01.001.011.5.2.2.06.01 ,Belanja Cetak ,"3750000,00",Belanja Cetak 3750000
+1.06.1.06.01.001.011.5.2.2.06.02 ,Belanja Penggandaan ,"38723550,00",Belanja Penggandaan 38723550
+1.06.1.06.01.001.012.5.2 ,Penyediaan komponen instalasi listrik/penerangan bangunan kantor ,"5404500,00",
+1.06.1.06.01.001.012.5.2.2 ,BELANJA BARANG DAN JASA ,"5404500,00",
+1.06.1.06.01.001.012.5.2.2.01 ,Belanja Bahan Pakai Habis ,"5404500,00",
+1.06.1.06.01.001.012.5.2.2.01.03 ,Belanja Alat Listrik Dan Elektronik ,"5404500,00",Belanja Alat Listrik Dan Elektronik 5404500
+1.06.1.06.01.001.013.5.2 ,Penyediaan peralatan dan perlengkapan kantor ,"37125000,00",
+1.06.1.06.01.001.013.5.2.2 ,BELANJA BARANG DAN JASA ,"37125000,00",
+1.06.1.06.01.001.013.5.2.2.02 ,Belanja Bahan/Material ,"20225000,00",
+1.06.1.06.01.001.013.5.2.2.02.06 ,Belanja Bahan Komputer/Printer ,"20225000,00",Belanja Bahan Komputer/Printer 20225000
+1.06.1.06.01.001.013.5.2.2.20 ,Belanja Pemeliharaan ,"16900000,00",
+1.06.1.06.01.001.013.5.2.2.20.11 ,Belanja Pemeliharaan Komputer ,"16900000,00",Belanja Pemeliharaan Komputer 16900000
+1.06.1.06.01.001.014.5.2 ,Penyediaan peralatan rumah tangga ,"17280000,00",
+1.06.1.06.01.001.014.5.2.2 ,BELANJA BARANG DAN JASA ,"17280000,00",
+1.06.1.06.01.001.014.5.2.2.10 ,Belanja Sewa Perlengkapan dan Peralatan Kantor ,"17280000,00",
+1.06.1.06.01.001.014.5.2.2.10.09 ,Belanja Sewa Perlengkapan/Peralatan ,"17280000,00",Belanja Sewa Perlengkapan/Peralatan 17280000
+1.06.1.06.01.001.015.5.2 ,Penyediaan bahan bacaan dan peraturan perundang-undangan ,"5512000,00",
+1.06.1.06.01.001.015.5.2.2 ,BELANJA BARANG DAN JASA ,"5512000,00",
+1.06.1.06.01.001.015.5.2.2.03 ,Belanja Jasa Kantor ,"5512000,00",
+1.06.1.06.01.001.015.5.2.2.03.05 ,Belanja Surat Kabar/Majalah ,"5512000,00",Belanja Surat Kabar/Majalah 5512000
+1.06.1.06.01.001.017.5.2 ,Penyediaan makanan dan minuman ,"67246000,00",
+1.06.1.06.01.001.017.5.2.2 ,BELANJA BARANG DAN JASA ,"67246000,00",
+1.06.1.06.01.001.017.5.2.2.11 ,Belanja Makanan Dan Minuman ,"67246000,00",
+1.06.1.06.01.001.017.5.2.2.11.01 ,Belanja Makanan Dan Minuman Pegawai ,"12826000,00",Belanja Makanan Dan Minuman Pegawai 12826000
+1.06.1.06.01.001.017.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"27720000,00",Belanja Makanan Dan Minuman Rapat 27720000
+1.06.1.06.01.001.017.5.2.2.11.03 ,Belanja Makanan Dan Minuman Tamu ,"26700000,00",Belanja Makanan Dan Minuman Tamu 26700000
+1.06.1.06.01.001.018.5.2 ,Rapat-rapat koordinasi dan konsultasi keluar daerah ,"269800000,00",
+1.06.1.06.01.001.018.5.2.2 ,BELANJA BARANG DAN JASA ,"269800000,00",
+1.06.1.06.01.001.018.5.2.2.15 ,Belanja Perjalanan Dinas ,"269800000,00",
+1.06.1.06.01.001.018.5.2.2.15.02 ,Belanja Perjalanan Dinas Luar Daerah ,"269800000,00",Belanja Perjalanan Dinas Luar Daerah 269800000
+1.06.1.06.01.001.019.5.2 ,Penyediaan Jasa Tenaga Bantuan ,"34047884,00",
+1.06.1.06.01.001.019.5.2.1 ,BELANJA PEGAWAI ,"34047884,00",
+1.06.1.06.01.001.019.5.2.1.02 ,Honorarium Non PNS ,"34047884,00",
+1.06.1.06.01.001.019.5.2.1.02.01 ,Honorarium Pegawai Honorer/Tidak Tetap ,"34047884,00",Honorarium Pegawai Honorer/Tidak Tetap 34047884
+1.06.1.06.01.002.000.5.2 ,Program Peningkatan Sarana dan Prasarana Aparatur ,"210148000,00",
+1.06.1.06.01.002.022.5.2 ,Pemeliharaan rutin/berkala gedung kantor ,"81660000,00",
+1.06.1.06.01.002.022.5.2.1 ,BELANJA PEGAWAI ,"600000,00",
+1.06.1.06.01.002.022.5.2.1.01 ,Honorarium PNS ,"600000,00",
+1.06.1.06.01.002.022.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"600000,00",Honorarium Tim Pengadaan Barang dan Jasa 600000
+1.06.1.06.01.002.022.5.2.2 ,BELANJA BARANG DAN JASA ,"16260000,00",
+1.06.1.06.01.002.022.5.2.2.20 ,Belanja Pemeliharaan ,"16260000,00",
+1.06.1.06.01.002.022.5.2.2.20.03 ,Belanja Pemeliharaan Bangunan Pemerintah ,"16260000,00",Belanja Pemeliharaan Bangunan Pemerintah 16260000
+1.06.1.06.01.002.022.5.2.3 ,BELANJA MODAL ,"64800000,00",
+1.06.1.06.01.002.022.5.2.3.11 ,Belanja Modal Pengadaan Perlengkapan Kantor ,"64800000,00",
+1.06.1.06.01.002.022.5.2.3.11.02 ,Belanja Modal Pengadaan Almari ,"64800000,00",Belanja Modal Pengadaan Almari 64800000
+1.06.1.06.01.002.024.5.2 ,Pemeliharaan rutin/berkala kendaraan dinas/operasional ,"128488000,00",
+1.06.1.06.01.002.024.5.2.2 ,BELANJA BARANG DAN JASA ,"128488000,00",
+1.06.1.06.01.002.024.5.2.2.05 ,Belanja Perawatan Kendaraan Bermotor ,"128488000,00",
+1.06.1.06.01.002.024.5.2.2.05.01 ,Belanja Jasa Service ,"19900000,00",Belanja Jasa Service 19900000
+1.06.1.06.01.002.024.5.2.2.05.02 ,Belanja  Penggantian Suku Cadang ,"34650000,00",Belanja  Penggantian Suku Cadang 34650000
+1.06.1.06.01.002.024.5.2.2.05.03 ,Belanja Bahan Bakar Minyak/Gas Dan Pelumas ,"73938000,00",Belanja Bahan Bakar Minyak/Gas Dan Pelumas 73938000
+1.06.1.06.01.005.000.5.2 ,Program Peningkatan Kapasitas Sumber Daya Aparatur ,"31695000,00",
+1.06.1.06.01.005.001.5.2 ,Pendidikan dan pelatihan formal ,"31695000,00",
+1.06.1.06.01.005.001.5.2.2 ,BELANJA BARANG DAN JASA ,"31695000,00",
+1.06.1.06.01.005.001.5.2.2.17 ,"Belanja Kursus, Pelatihan, Sosialisasi Dan Bimbingan Teknis PNS ","31695000,00",
+1.06.1.06.01.005.001.5.2.2.17.01 ,Belanja Kursus-Kursus Singkat/Pelatihan ,"31695000,00",Belanja Kursus-Kursus Singkat/Pelatihan 31695000
+1.06.1.06.01.006.000.5.2 ,Program Peningkatan Pengembangan Sistem Pelaporan Capaian Kinerja dan Keuangan,"55935000,00",
+1.06.1.06.01.006.001.5.2 ,Penyusunan laporan capaian kinerja dan ikhtisar realisasi kinerja SKPD ,"55935000,00",
+1.06.1.06.01.006.001.5.2.1 ,BELANJA PEGAWAI ,"42625000,00",
+1.06.1.06.01.006.001.5.2.1.01 ,Honorarium PNS ,"36225000,00",
+1.06.1.06.01.006.001.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"36225000,00",Honorarium Panitia Pelaksana Kegiatan 36225000
+1.06.1.06.01.006.001.5.2.1.03 ,Uang Lembur ,"6400000,00",
+1.06.1.06.01.006.001.5.2.1.03.01 ,Uang Lembur PNS ,"6400000,00",Uang Lembur PNS 6400000
+1.06.1.06.01.006.001.5.2.2 ,BELANJA BARANG DAN JASA ,"13310000,00",
+1.06.1.06.01.006.001.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"4140000,00",
+1.06.1.06.01.006.001.5.2.2.06.01 ,Belanja Cetak ,"1500000,00",Belanja Cetak 1500000
+1.06.1.06.01.006.001.5.2.2.06.02 ,Belanja Penggandaan ,"2640000,00",Belanja Penggandaan 2640000
+1.06.1.06.01.006.001.5.2.2.11 ,Belanja Makanan Dan Minuman ,"9170000,00",
+1.06.1.06.01.006.001.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"9170000,00",Belanja Makanan Dan Minuman Rapat 9170000
+1.06.1.06.01.063.000.5.2 ,Program Perencanaan Pembangunan Daerah ,"2191703900,00",
+1.06.1.06.01.063.001.5.2 ,Penyusunan Dokumen Perencanaan Pembangunan ,"687934100,00",
+1.06.1.06.01.063.001.5.2.1 ,BELANJA PEGAWAI ,"202275000,00",
+1.06.1.06.01.063.001.5.2.1.01 ,Honorarium PNS ,"202275000,00",
+1.06.1.06.01.063.001.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"202275000,00","Honorarium Panitia Pelaksana Kegiatan 202 275,000"
+1.06.1.06.01.063.001.5.2.2 ,BELANJA BARANG DAN JASA ,"485659100,00",
+1.06.1.06.01.063.001.5.2.2.03 ,Belanja Jasa Kantor ,"16589100,00",
+1.06.1.06.01.063.001.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"16589100,00",Belanja Jasa Penyedia /Tenaga Teknis 16589100
+1.06.1.06.01.063.001.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"49620000,00",
+1.06.1.06.01.063.001.5.2.2.06.02 ,Belanja Penggandaan ,"49620000,00",Belanja Penggandaan 49620000
+1.06.1.06.01.063.001.5.2.2.11 ,Belanja Makanan Dan Minuman ,"133550000,00",
+1.06.1.06.01.063.001.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"133550000,00",Belanja Makanan Dan Minuman Rapat 133550000
+1.06.1.06.01.063.001.5.2.2.21 ,Belanja Jasa Konsultansi ,"240000000,00",
+1.06.1.06.01.063.001.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"240000000,00",Belanja Jasa Konsultansi Penelitian 240000000
+1.06.1.06.01.063.001.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"45900000,00",
+1.06.1.06.01.063.001.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"45900000,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 45900000
+1.06.1.06.01.063.004.5.2 ,Pelaksanaan Musrenbang ,"323539100,00",
+1.06.1.06.01.063.004.5.2.1 ,BELANJA PEGAWAI ,"169400000,00",
+1.06.1.06.01.063.004.5.2.1.01 ,Honorarium PNS ,"169400000,00",
+1.06.1.06.01.063.004.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"168875000,00",Honorarium Panitia Pelaksana Kegiatan 168875000
+1.06.1.06.01.063.004.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"525000,00",Honorarium Tim Pengadaan Barang dan Jasa 525000
+1.06.1.06.01.063.004.5.2.2 ,BELANJA BARANG DAN JASA ,"154139100,00",
+1.06.1.06.01.063.004.5.2.2.01 ,Belanja Bahan Pakai Habis ,"11375000,00",
+1.06.1.06.01.063.004.5.2.2.01.01 ,Belanja  Alat Tulis Kantor ,"11375000,00",Belanja  Alat Tulis Kantor 11375000
+1.06.1.06.01.063.004.5.2.2.03 ,Belanja Jasa Kantor ,"18339100,00",
+1.06.1.06.01.063.004.5.2.2.03.13 ,"Belanja Dekorasi, Dokumentasi, Publikasi, Pembuatan Film ","1750000,00","Belanja Dekorasi, Dokumentasi, Publikasi, Pembuatan Film 1750000"
+1.06.1.06.01.063.004.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"16589100,00",Belanja Jasa Penyedia /Tenaga Teknis 16589100
+1.06.1.06.01.063.004.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"10985000,00",
+1.06.1.06.01.063.004.5.2.2.06.01 ,Belanja Cetak ,"1875000,00",Belanja Cetak 1875000
+1.06.1.06.01.063.004.5.2.2.06.02 ,Belanja Penggandaan ,"9035000,00",Belanja Penggandaan 9035000
+1.06.1.06.01.063.004.5.2.2.06.03 ,Belanja Cetak Foto ,"75000,00",Belanja Cetak Foto 75000
+1.06.1.06.01.063.004.5.2.2.10 ,Belanja Sewa Perlengkapan dan Peralatan Kantor ,"4600000,00",
+1.06.1.06.01.063.004.5.2.2.10.01 ,Belanja Sewa Meja Kursi ,"2000000,00",Belanja Sewa Meja Kursi 2000000
+1.06.1.06.01.063.004.5.2.2.10.09 ,Belanja Sewa Perlengkapan/Peralatan ,"2600000,00",Belanja Sewa Perlengkapan/Peralatan 2600000
+1.06.1.06.01.063.004.5.2.2.11 ,Belanja Makanan Dan Minuman ,"75990000,00",
+1.06.1.06.01.063.004.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"75990000,00",Belanja Makanan Dan Minuman Rapat 75990000
+1.06.1.06.01.063.004.5.2.2.15 ,Belanja Perjalanan Dinas ,"7000000,00",
+1.06.1.06.01.063.004.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"7000000,00",Belanja Perjalanan Dinas Dalam Daerah 7000000
+1.06.1.06.01.063.004.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"25850000,00",
+1.06.1.06.01.063.004.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"25850000,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 25850000
+1.06.1.06.01.063.005.5.2 ,Perencanaan Pembangunan Ekososbud ,"206452500,00",
+1.06.1.06.01.063.005.5.2.1 ,BELANJA PEGAWAI ,"130525000,00",
+1.06.1.06.01.063.005.5.2.1.01 ,Honorarium PNS ,"130525000,00",
+1.06.1.06.01.063.005.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"130000000,00",Honorarium Panitia Pelaksana Kegiatan 130000000
+1.06.1.06.01.063.005.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"525000,00",Honorarium Tim Pengadaan Barang dan Jasa 525000
+1.06.1.06.01.063.005.5.2.2 ,BELANJA BARANG DAN JASA ,"75927500,00",
+1.06.1.06.01.063.005.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"6652500,00",
+1.06.1.06.01.063.005.5.2.2.06.02 ,Belanja Penggandaan ,"6652500,00",Belanja Penggandaan 6652500
+1.06.1.06.01.063.005.5.2.2.11 ,Belanja Makanan Dan Minuman ,"19775000,00",
+1.06.1.06.01.063.005.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"19775000,00",Belanja Makanan Dan Minuman Rapat 19775000
+1.06.1.06.01.063.005.5.2.2.21 ,Belanja Jasa Konsultansi ,"49500000,00",
+1.06.1.06.01.063.005.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"49500000,00",Belanja Jasa Konsultansi Penelitian 49500000
+1.06.1.06.01.063.006.5.2 ,Perencanaan Pembangunan Sarpras dan Tata Ruang ,"973778200,00",
+1.06.1.06.01.063.006.5.2.1 ,BELANJA PEGAWAI ,"444250000,00",
+1.06.1.06.01.063.006.5.2.1.01 ,Honorarium PNS ,"444250000,00",
+1.06.1.06.01.063.006.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"444250000,00",Honorarium Panitia Pelaksana Kegiatan 444250000
+1.06.1.06.01.063.006.5.2.2 ,BELANJA BARANG DAN JASA ,"529528200,00",
+1.06.1.06.01.063.006.5.2.2.03 ,Belanja Jasa Kantor ,"233178200,00",
+1.06.1.06.01.063.006.5.2.2.03.17 ,Belanja Iuran ,"200000000,00","Belanja Iuran 200000000 Iuran Sekber Kartamantul 200000000 Lokasi Kegiatan kantor Sekber kartamantul, Koplek Kepatihan Yogyakarta"
+1.06.1.06.01.063.006.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"33178200,00",Belanja Jasa Penyedia /Tenaga Teknis 33178200
+1.06.1.06.01.063.006.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"10350000,00",
+1.06.1.06.01.063.006.5.2.2.06.02 ,Belanja Penggandaan ,"10350000,00",Belanja Penggandaan 10350000
+1.06.1.06.01.063.006.5.2.2.11 ,Belanja Makanan Dan Minuman ,"56000000,00",
+1.06.1.06.01.063.006.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"56000000,00",Belanja Makanan Dan Minuman Rapat 56000000
+1.06.1.06.01.063.006.5.2.2.21 ,Belanja Jasa Konsultansi ,"230000000,00",
+1.06.1.06.01.063.006.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"230000000,00",Belanja Jasa Konsultansi Penelitian 230000000
+1.06.1.06.01.064.000.5.2 ,Program Penelitian dan Pengembangan Daerah ,"592086000,00",
+1.06.1.06.01.064.001.5.2 ,Pengelolaan Jaringan Penelitian (Jarlit) ,"190573500,00",
+1.06.1.06.01.064.001.5.2.1 ,BELANJA PEGAWAI ,"62290000,00",
+1.06.1.06.01.064.001.5.2.1.01 ,Honorarium PNS ,"62290000,00",
+1.06.1.06.01.064.001.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"61965000,00",Honorarium Panitia Pelaksana Kegiatan 61965000
+1.06.1.06.01.064.001.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"325000,00",Honorarium Tim Pengadaan Barang dan Jasa 325000
+1.06.1.06.01.064.001.5.2.2 ,BELANJA BARANG DAN JASA ,"128283500,00",
+1.06.1.06.01.064.001.5.2.2.01 ,Belanja Bahan Pakai Habis ,"5375000,00",
+1.06.1.06.01.064.001.5.2.2.01.01 ,Belanja  Alat Tulis Kantor ,"5375000,00",Belanja  Alat Tulis Kantor 5375000
+1.06.1.06.01.064.001.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"18208500,00",
+1.06.1.06.01.064.001.5.2.2.06.02 ,Belanja Penggandaan ,"18208500,00",Belanja Penggandaan 18208500
+1.06.1.06.01.064.001.5.2.2.11 ,Belanja Makanan Dan Minuman ,"38775000,00",
+1.06.1.06.01.064.001.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"38775000,00",Belanja Makanan Dan Minuman Rapat 38775000
+1.06.1.06.01.064.001.5.2.2.15 ,Belanja Perjalanan Dinas ,"5375000,00",
+1.06.1.06.01.064.001.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"5375000,00",Belanja Perjalanan Dinas Dalam Daerah 5375000
+1.06.1.06.01.064.001.5.2.2.21 ,Belanja Jasa Konsultansi ,"49500000,00",
+1.06.1.06.01.064.001.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"49500000,00",Belanja Jasa Konsultansi Penelitian 49500000
+1.06.1.06.01.064.001.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"11050000,00",
+1.06.1.06.01.064.001.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"11050000,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 11050000
+1.06.1.06.01.064.004.5.2 ,Penjaringan Aspirasi Masyarakat ,"128085000,00",
+1.06.1.06.01.064.004.5.2.1 ,BELANJA PEGAWAI ,"6935000,00",
+1.06.1.06.01.064.004.5.2.1.01 ,Honorarium PNS ,"6935000,00",
+1.06.1.06.01.064.004.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"6935000,00",Honorarium Panitia Pelaksana Kegiatan 6935000
+1.06.1.06.01.064.004.5.2.2 ,BELANJA BARANG DAN JASA ,"121150000,00",
+1.06.1.06.01.064.004.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"2475000,00",
+1.06.1.06.01.064.004.5.2.2.06.02 ,Belanja Penggandaan ,"2475000,00",Belanja Penggandaan 2475000
+1.06.1.06.01.064.004.5.2.2.11 ,Belanja Makanan Dan Minuman ,"3675000,00",
+1.06.1.06.01.064.004.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"3675000,00",Belanja Makanan Dan Minuman Rapat 3675000
+1.06.1.06.01.064.004.5.2.2.21 ,Belanja Jasa Konsultansi ,"115000000,00",
+1.06.1.06.01.064.004.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"115000000,00",Belanja Jasa Konsultansi Penelitian 115000000
+1.06.1.06.01.064.005.5.2 ,"Penelitian dan Pengembangan Ekonomi, Sosial, dan Budaya (Eksosbud) ","99760000,00",
+1.06.1.06.01.064.005.5.2.1 ,BELANJA PEGAWAI ,"11540000,00",
+1.06.1.06.01.064.005.5.2.1.01 ,Honorarium PNS ,"11540000,00",
+1.06.1.06.01.064.005.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"11540000,00",Honorarium Panitia Pelaksana Kegiatan 11540000
+1.06.1.06.01.064.005.5.2.2 ,BELANJA BARANG DAN JASA ,"88220000,00",
+1.06.1.06.01.064.005.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"1920000,00",
+1.06.1.06.01.064.005.5.2.2.06.02 ,Belanja Penggandaan ,"1920000,00",Belanja Penggandaan 1920000
+1.06.1.06.01.064.005.5.2.2.11 ,Belanja Makanan Dan Minuman ,"6300000,00",
+1.06.1.06.01.064.005.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"6300000,00",Belanja Makanan Dan Minuman Rapat 6300000
+1.06.1.06.01.064.005.5.2.2.21 ,Belanja Jasa Konsultansi ,"80000000,00",
+1.06.1.06.01.064.005.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"80000000,00",Belanja Jasa Konsultansi Penelitian 80000000
+1.06.1.06.01.064.006.5.2 ,Penelitian dan Pengembangan Sarana dan Prasarana  (Sarpas) ,"173667500,00",
+1.06.1.06.01.064.006.5.2.1 ,BELANJA PEGAWAI ,"10855000,00",
+1.06.1.06.01.064.006.5.2.1.01 ,Honorarium PNS ,"10855000,00",
+1.06.1.06.01.064.006.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"10530000,00",Honorarium Panitia Pelaksana Kegiatan 10530000
+1.06.1.06.01.064.006.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"325000,00",Honorarium Tim Pengadaan Barang dan Jasa 325000
+1.06.1.06.01.064.006.5.2.2 ,BELANJA BARANG DAN JASA ,"162812500,00",
+1.06.1.06.01.064.006.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"3967500,00",
+1.06.1.06.01.064.006.5.2.2.06.02 ,Belanja Penggandaan ,"3967500,00",Belanja Penggandaan 3967500
+1.06.1.06.01.064.006.5.2.2.11 ,Belanja Makanan Dan Minuman ,"9345000,00",
+1.06.1.06.01.064.006.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"9345000,00",Belanja Makanan Dan Minuman Rapat 9345000
+1.06.1.06.01.064.006.5.2.2.21 ,Belanja Jasa Konsultansi ,"149500000,00",
+1.06.1.06.01.064.006.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"149500000,00",Belanja Jasa Konsultansi Penelitian 149500000
+1.06.1.06.01.065.000.5.2 ,Program Pengendalian dan Evaluasi Pembangunan ,"1464342800,00",
+1.06.1.06.01.065.001.5.2 ,Pengendalian dan Evaluasi Program Pembangunan ,"328274400,00",
+1.06.1.06.01.065.001.5.2.1 ,BELANJA PEGAWAI ,"83800000,00",
+1.06.1.06.01.065.001.5.2.1.01 ,Honorarium PNS ,"83800000,00",
+1.06.1.06.01.065.001.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"83800000,00",Honorarium Panitia Pelaksana Kegiatan 83800000
+1.06.1.06.01.065.001.5.2.2 ,BELANJA BARANG DAN JASA ,"244474400,00",
+1.06.1.06.01.065.001.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"38151000,00",
+1.06.1.06.01.065.001.5.2.2.06.02 ,Belanja Penggandaan ,"38151000,00",Belanja Penggandaan 38151000
+1.06.1.06.01.065.001.5.2.2.11 ,Belanja Makanan Dan Minuman ,"35210000,00",
+1.06.1.06.01.065.001.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"35210000,00",Belanja Makanan Dan Minuman Rapat 35210000
+1.06.1.06.01.065.001.5.2.2.21 ,Belanja Jasa Konsultansi ,"150000000,00",
+1.06.1.06.01.065.001.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"150000000,00",Belanja Jasa Konsultansi Penelitian 150000000
+1.06.1.06.01.065.001.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"21113400,00",
+1.06.1.06.01.065.001.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"21113400,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 21113400
+1.06.1.06.01.065.004.5.2 ,Pengendalian dan Evaluasi Sarana Prasarana dan Tata Ruang ,"729977000,00",
+1.06.1.06.01.065.004.5.2.1 ,BELANJA PEGAWAI ,"349250000,00",
+1.06.1.06.01.065.004.5.2.1.01 ,Honorarium PNS ,"349250000,00",
+1.06.1.06.01.065.004.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"349050000,00",Honorarium Panitia Pelaksana Kegiatan 349050000
+1.06.1.06.01.065.004.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"200000,00",Honorarium Tim Pengadaan Barang dan Jasa 200000
+1.06.1.06.01.065.004.5.2.2 ,BELANJA BARANG DAN JASA ,"380727000,00",
+1.06.1.06.01.065.004.5.2.2.03 ,Belanja Jasa Kantor ,"33903200,00",
+1.06.1.06.01.065.004.5.2.2.03.13 ,"Belanja Dekorasi, Dokumentasi, Publikasi, Pembuatan Film ","725000,00","Belanja Dekorasi, Dokumentasi, Publikasi, Pembuatan Film 725000"
+1.06.1.06.01.065.004.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"33178200,00",Belanja Jasa Penyedia /Tenaga Teknis 33178200
+1.06.1.06.01.065.004.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"20527000,00",
+1.06.1.06.01.065.004.5.2.2.06.02 ,Belanja Penggandaan ,"20527000,00",Belanja Penggandaan 20527000
+1.06.1.06.01.065.004.5.2.2.11 ,Belanja Makanan Dan Minuman ,"104170000,00",
+1.06.1.06.01.065.004.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"104170000,00",Belanja Makanan Dan Minuman Rapat 104170000
+1.06.1.06.01.065.004.5.2.2.21 ,Belanja Jasa Konsultansi ,"185000000,00",
+1.06.1.06.01.065.004.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"185000000,00",Belanja Jasa Konsultansi Penelitian 185000000
+1.06.1.06.01.065.004.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"37126800,00",
+1.06.1.06.01.065.004.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"37126800,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 37126800
+1.06.1.06.01.065.005.5.2 ,"Pengendalian dan Evaluasi Ekonomi, Sosial dan Budaya ","406091400,00",
+1.06.1.06.01.065.005.5.2.1 ,BELANJA PEGAWAI ,"238775000,00",
+1.06.1.06.01.065.005.5.2.1.01 ,Honorarium PNS ,"238775000,00",
+1.06.1.06.01.065.005.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"238575000,00",Honorarium Panitia Pelaksana Kegiatan 238575000
+1.06.1.06.01.065.005.5.2.1.01.02 ,Honorarium Tim Pengadaan Barang dan Jasa ,"200000,00",Honorarium Tim Pengadaan Barang dan Jasa 200000
+1.06.1.06.01.065.005.5.2.2 ,BELANJA BARANG DAN JASA ,"167316400,00",
+1.06.1.06.01.065.005.5.2.2.03 ,Belanja Jasa Kantor ,"33928200,00",
+1.06.1.06.01.065.005.5.2.2.03.13 ,"Belanja Dekorasi, Dokumentasi, Publikasi, Pembuatan Film ","750000,00","Belanja Dekorasi, Dokumentasi, Publikasi, Pembuatan Film 750000"
+1.06.1.06.01.065.005.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"33178200,00",Belanja Jasa Penyedia /Tenaga Teknis 33178200
+1.06.1.06.01.065.005.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"17737000,00",
+1.06.1.06.01.065.005.5.2.2.06.02 ,Belanja Penggandaan ,"17737000,00",Belanja Penggandaan 17737000
+1.06.1.06.01.065.005.5.2.2.11 ,Belanja Makanan Dan Minuman ,"74450000,00",
+1.06.1.06.01.065.005.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"74450000,00",Belanja Makanan Dan Minuman Rapat 74450000
+1.06.1.06.01.065.005.5.2.2.15 ,Belanja Perjalanan Dinas ,"750000,00",
+1.06.1.06.01.065.005.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"750000,00",Belanja Perjalanan Dinas Dalam Daerah 750000
+1.06.1.06.01.065.005.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"40451200,00",
+1.06.1.06.01.065.005.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"40451200,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 40451200
+1.06.1.06.01.066.000.5.2 ,Program Penanggulangan Kemiskinan ,"955942300,00",
+1.06.1.06.01.066.003.5.2 ,Koordinasi Penanggulangan Kemiskinan ,"955942300,00",
+1.06.1.06.01.066.003.5.2.1 ,BELANJA PEGAWAI ,"210165000,00",
+1.06.1.06.01.066.003.5.2.1.01 ,Honorarium PNS ,"210165000,00",
+1.06.1.06.01.066.003.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"210165000,00",Honorarium Panitia Pelaksana Kegiatan 210165000
+1.06.1.06.01.066.003.5.2.2 ,BELANJA BARANG DAN JASA ,"745777300,00",
+1.06.1.06.01.066.003.5.2.2.01 ,Belanja Bahan Pakai Habis ,"16875000,00",
+1.06.1.06.01.066.003.5.2.2.01.01 ,Belanja  Alat Tulis Kantor ,"16875000,00",Belanja  Alat Tulis Kantor 16875000
+1.06.1.06.01.066.003.5.2.2.03 ,Belanja Jasa Kantor ,"49767300,00",
+1.06.1.06.01.066.003.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"49767300,00",Belanja Jasa Penyedia /Tenaga Teknis 49767300
+1.06.1.06.01.066.003.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"22575000,00",
+1.06.1.06.01.066.003.5.2.2.06.02 ,Belanja Penggandaan ,"22575000,00",Belanja Penggandaan 22575000
+1.06.1.06.01.066.003.5.2.2.11 ,Belanja Makanan Dan Minuman ,"271510000,00",
+1.06.1.06.01.066.003.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"271510000,00",Belanja Makanan Dan Minuman Rapat 271510000
+1.06.1.06.01.066.003.5.2.2.15 ,Belanja Perjalanan Dinas ,"250750000,00",
+1.06.1.06.01.066.003.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"145750000,00",Belanja Perjalanan Dinas Dalam Daerah 145750000
+1.06.1.06.01.066.003.5.2.2.15.02 ,Belanja Perjalanan Dinas Luar Daerah ,"105000000,00",Belanja Perjalanan Dinas Luar Daerah 105000000
+1.06.1.06.01.066.003.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"134300000,00",
+1.06.1.06.01.066.003.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"134300000,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 134300000
+1.06.1.06.01.185.000.5.2 ,Program Penataan Kawasan Sungai ,"103374100,00",
+1.06.1.06.01.185.001.5.2 ,Penataan Kawasan Sungai ,"103374100,00",
+1.06.1.06.01.185.001.5.2.1 ,BELANJA PEGAWAI ,"55350000,00",
+1.06.1.06.01.185.001.5.2.1.01 ,Honorarium PNS ,"55350000,00",
+1.06.1.06.01.185.001.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"55350000,00",Honorarium Panitia Pelaksana Kegiatan 55350000
+1.06.1.06.01.185.001.5.2.2 ,BELANJA BARANG DAN JASA ,"48024100,00",
+1.06.1.06.01.185.001.5.2.2.03 ,Belanja Jasa Kantor ,"16589100,00",
+1.06.1.06.01.185.001.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"16589100,00",Belanja Jasa Penyedia /Tenaga Teknis 16589100
+1.06.1.06.01.185.001.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"3135000,00",
+1.06.1.06.01.185.001.5.2.2.06.02 ,Belanja Penggandaan ,"3135000,00",Belanja Penggandaan 3135000
+1.06.1.06.01.185.001.5.2.2.11 ,Belanja Makanan Dan Minuman ,"21250000,00",
+1.06.1.06.01.185.001.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"21250000,00",Belanja Makanan Dan Minuman Rapat 21250000
+1.06.1.06.01.185.001.5.2.2.15 ,Belanja Perjalanan Dinas ,"1000000,00",
+1.06.1.06.01.185.001.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"1000000,00",Belanja Perjalanan Dinas Dalam Daerah 1000000
+1.06.1.06.01.185.001.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"6050000,00",
+1.06.1.06.01.185.001.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"6050000,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 6050000
+1.23.1.06.01.184.000.5.2 ,Program Pengembangan Data/Informasi ,"1633023382,00",
+1.23.1.06.01.184.001.5.2 ,Pengembangan Pusat Data Perencanaan Pembangunan ,"623727700,00",
+1.23.1.06.01.184.001.5.2.1 ,BELANJA PEGAWAI ,"189075000,00",
+1.23.1.06.01.184.001.5.2.1.01 ,Honorarium PNS ,"189075000,00",
+1.23.1.06.01.184.001.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"189075000,00",Honorarium Panitia Pelaksana Kegiatan 189075000
+1.23.1.06.01.184.001.5.2.2 ,BELANJA BARANG DAN JASA ,"434652700,00",
+1.23.1.06.01.184.001.5.2.2.03 ,Belanja Jasa Kantor ,"33178200,00",
+1.23.1.06.01.184.001.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"33178200,00",Belanja Jasa Penyedia /Tenaga Teknis 33178200
+1.23.1.06.01.184.001.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"24694500,00",
+1.23.1.06.01.184.001.5.2.2.06.02 ,Belanja Penggandaan ,"24694500,00",Belanja Penggandaan 24694500
+1.23.1.06.01.184.001.5.2.2.11 ,Belanja Makanan Dan Minuman ,"24780000,00",
+1.23.1.06.01.184.001.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"24780000,00",Belanja Makanan Dan Minuman Rapat 24780000
+1.23.1.06.01.184.001.5.2.2.21 ,Belanja Jasa Konsultansi ,"352000000,00",
+1.23.1.06.01.184.001.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"352000000,00",Belanja Jasa Konsultansi Penelitian 352000000
+1.23.1.06.01.184.002.5.2 ,Pengelolaan dan Informasi Data Statistik ,"374758050,00",
+1.23.1.06.01.184.002.5.2.1 ,BELANJA PEGAWAI ,"67550000,00",
+1.23.1.06.01.184.002.5.2.1.01 ,Honorarium PNS ,"67550000,00",
+1.23.1.06.01.184.002.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"67550000,00",Honorarium Panitia Pelaksana Kegiatan 67550000
+1.23.1.06.01.184.002.5.2.2 ,BELANJA BARANG DAN JASA ,"307208050,00",
+1.23.1.06.01.184.002.5.2.2.01 ,Belanja Bahan Pakai Habis ,"960000,00",
+1.23.1.06.01.184.002.5.2.2.01.01 ,Belanja  Alat Tulis Kantor ,"960000,00",Belanja  Alat Tulis Kantor 960000
+1.23.1.06.01.184.002.5.2.2.02 ,Belanja Bahan/Material ,"2293100,00",
+1.23.1.06.01.184.002.5.2.2.02.06 ,Belanja Bahan Komputer/Printer ,"2293100,00",Belanja Bahan Komputer/Printer 2293100
+1.23.1.06.01.184.002.5.2.2.03 ,Belanja Jasa Kantor ,"222639500,00",
+1.23.1.06.01.184.002.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"222639500,00",Belanja Jasa Penyedia /Tenaga Teknis 222639500
+1.23.1.06.01.184.002.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"48765450,00",
+1.23.1.06.01.184.002.5.2.2.06.01 ,Belanja Cetak ,"42550200,00",Belanja Cetak 42550200
+1.23.1.06.01.184.002.5.2.2.06.02 ,Belanja Penggandaan ,"6215250,00",Belanja Penggandaan 6215250
+1.23.1.06.01.184.002.5.2.2.11 ,Belanja Makanan Dan Minuman ,"25830000,00",
+1.23.1.06.01.184.002.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"25830000,00",Belanja Makanan Dan Minuman Rapat 25830000
+1.23.1.06.01.184.002.5.2.2.15 ,Belanja Perjalanan Dinas ,"1920000,00",
+1.23.1.06.01.184.002.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"1920000,00",Belanja Perjalanan Dinas Dalam Daerah 1920000
+1.23.1.06.01.184.002.5.2.2.31 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"4800000,00",
+1.23.1.06.01.184.002.5.2.2.31.01 ,Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator ,"4800000,00",Belanja Jasa Tenaga Ahli/Instruktur/Narasumber/Moderator 4800000
+1.23.1.06.01.184.003.5.2 ,Analisa Data ,"108483000,00",
+1.23.1.06.01.184.003.5.2.1 ,BELANJA PEGAWAI ,"8155000,00",
+1.23.1.06.01.184.003.5.2.1.01 ,Honorarium PNS ,"8155000,00",
+1.23.1.06.01.184.003.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"8155000,00",Honorarium Panitia Pelaksana Kegiatan 8155000
+1.23.1.06.01.184.003.5.2.2 ,BELANJA BARANG DAN JASA ,"100328000,00",
+1.23.1.06.01.184.003.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"1863000,00",
+1.23.1.06.01.184.003.5.2.2.06.02 ,Belanja Penggandaan ,"1863000,00",Belanja Penggandaan 1863000
+1.23.1.06.01.184.003.5.2.2.11 ,Belanja Makanan Dan Minuman ,"3465000,00",
+1.23.1.06.01.184.003.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"3465000,00",Belanja Makanan Dan Minuman Rapat 3465000
+1.23.1.06.01.184.003.5.2.2.21 ,Belanja Jasa Konsultansi ,"95000000,00",
+1.23.1.06.01.184.003.5.2.2.21.01 ,Belanja Jasa Konsultansi Penelitian ,"95000000,00",Belanja Jasa Konsultansi Penelitian 95000000
+1.23.1.06.01.184.004.5.2 ,Pengelolaan Data Kewilayahan ,"526054632,00",
+1.23.1.06.01.184.004.5.2.1 ,BELANJA PEGAWAI ,"206200000,00",
+1.23.1.06.01.184.004.5.2.1.01 ,Honorarium PNS ,"206200000,00",
+1.23.1.06.01.184.004.5.2.1.01.01 ,Honorarium Panitia Pelaksana Kegiatan ,"206200000,00",Honorarium Panitia Pelaksana Kegiatan 206200000
+1.23.1.06.01.184.004.5.2.2 ,BELANJA BARANG DAN JASA ,"319854632,00",
+1.23.1.06.01.184.004.5.2.2.01 ,Belanja Bahan Pakai Habis ,"450,00",
+1.23.1.06.01.184.004.5.2.2.01.01 ,Belanja  Alat Tulis Kantor ,"450,00",Belanja  Alat Tulis Kantor 450000
+1.23.1.06.01.184.004.5.2.2.03 ,Belanja Jasa Kantor ,"198655632,00",
+1.23.1.06.01.184.004.5.2.2.03.27 ,Belanja Jasa Penyedia /Tenaga Teknis ,"198655632,00",Belanja Jasa Penyedia /Tenaga Teknis 198655632
+1.23.1.06.01.184.004.5.2.2.06 ,Belanja Cetak Dan Penggandaan ,"22275000,00",
+1.23.1.06.01.184.004.5.2.2.06.02 ,Belanja Penggandaan ,"22275000,00",Belanja Penggandaan 22275000
+1.23.1.06.01.184.004.5.2.2.11 ,Belanja Makanan Dan Minuman ,"36974000,00",
+1.23.1.06.01.184.004.5.2.2.11.02 ,Belanja Makanan Dan Minuman Rapat ,"36974000,00",Belanja Makanan Dan Minuman Rapat 36974000
+1.23.1.06.01.184.004.5.2.2.15 ,Belanja Perjalanan Dinas ,"61500000,00",
+1.23.1.06.01.184.004.5.2.2.15.01 ,Belanja Perjalanan Dinas Dalam Daerah ,"61500000,00",Belanja Perjalanan Dinas Dalam Daerah 61500000
+,JUMLAH BELANJA ,"10494114863,00",

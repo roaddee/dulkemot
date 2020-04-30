@@ -1,0 +1,156 @@
+								
+<!-- APBD -->
+
+				<div class="nav-tabs-custom">
+					<ul class="nav nav-tabs pull-right">
+						<?php
+						if(count($tahuns) > 0){
+							
+							if(count($tahuns) > 2){
+								for($i=0; $i<2; $i++){
+									$strA = ($tahuns[$i] == $tahun)  ? "class=\"active\"":"";
+									echo "<li ".$strA."><a href=\"".site_url('apbd/opd/'.$lembaga['id'].'/'.fixNamaUrl($lembaga['nama']).'/?tahun='.$tahuns[$i])."\">".$tahuns[$i]."</a></li>";
+								}
+								
+								echo "
+									<li class=\"dropdown\">
+										<a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">
+											Tahun sblmnya <span class=\"caret\"></span>
+										</a>
+										<ul class=\"dropdown-menu\">";
+										for ($i=2;$i < count($tahuns); $i++){
+											echo "<li><a href=\"".site_url('apbd/opd/'.$lembaga['id'].'/'.fixNamaUrl($lembaga['nama']).'/?tahun='.$tahuns[$i])."\">".$tahuns[$i]."</a></li>";
+										}
+										
+										echo "
+										</ul>
+									</li>
+								";
+								
+							}else{
+
+								foreach($tahuns as $thn){
+									$strA = ($thn == $tahun)  ? "class=\"active\"":"";
+									echo "<li ".$strA."><a href=\"".site_url('apbd/opd/'.$lembaga['id'].'/'.fixNamaUrl($lembaga['nama']).'/?tahun='.$thn)."\">".$thn."</a></li>";
+								}
+							}
+						}
+						
+						?>
+						<li class="pull-left header"><i class="fa fa-th"></i> Rincian APBD <?php echo $tahun;?></li>
+					</ul>
+					<div class="tab-content">
+						<div class="tab-pane active" id="tab_<?php echo $tahun; ?>">
+							<?php
+
+								echo "
+								<h2 class=\"logo-font\">".$lembaga['nama'] ."</h2>
+								<h4 class=\"sublogo-font\">".$lembaga['namawilayah'] ."</h4>
+								";
+
+							if($apbd){
+								
+								if($program){
+									echo "
+									<div class=\"box box-default\">
+										<div class=\"box-header with-border\"><h3 class=\"box-title\">Daftar Program Penanggulangan Kemiskinan</h3></div>
+										<div class=\"box-body no-padding\">
+											<table class=\"table table-bordered datatables\">
+											<thead><tr><th style=\"width:30px;\">#</th>
+												<th>Kode Rekening</th>
+												<th>Uraian</th>
+												<th>Nominal</th>
+											</tr></thead>
+											<tbody>";
+											$nomer = 1;
+											foreach($apbd['data'] as $key=>$rs){
+												
+												echo "<tr><td class=\"angka\">".$nomer."</td>
+												<td>".$rs['rekening_kode']."</td>
+												<td>".$rs['uraian']."</td>
+												<td class=\"angka\">".number_format($rs['nominal'],2)."</td>
+												</tr>";
+												$nomer++;
+											}
+											echo "
+											</tbody>
+											</table>
+										</div>
+									</div>
+									";
+								}
+
+								echo "
+								<div class=\"box box-default\">
+									<div class=\"box-header with-border\"><h3 class=\"box-title\">Rincian APBD</h3></div>
+									<div class=\"box-body no-padding\">
+										<table class=\"table table-bordered datatables\">
+										<thead><tr><th style=\"width:30px;\">#</th>
+											<th>Kode Rekening</th>
+											<th>Uraian</th>
+											<th>Nominal</th>
+										</tr></thead>
+										<tbody>";
+										$nomer = 1;
+										foreach($apbd['data'] as $key=>$rs){
+											
+											echo "<tr><td class=\"angka\">".$nomer."</td>
+											<td>".$rs['rekening_kode']."</td>
+											<td>".$rs['uraian']."</td>
+											<td class=\"angka\">".number_format($rs['nominal'],2)."</td>
+											</tr>";
+											$nomer++;
+										}
+										echo "
+										</tbody>
+										</table>
+									</div>
+								</div>
+								";
+								
+								if(count($apbd['berkas']) > 0){
+									echo "
+									<div class=\"box box-primary\">
+										<div class=\"box-header with-border\">
+											<h3 class=\"box-title\"><i class=\"fa fa-file-o\"></i> Berkas Terunggah</h3>
+										</div>
+										<div class=\"box-body\">
+										<table class=\"table table-bordered table-responsive\">
+										<thead><tr><th>#</th>
+											<th>Nama Berkas</th>
+											<th>Diunggah Oleh / pada</th>
+										</tr></thead>
+										<tbody>
+										";
+										$nomer = 1;
+										foreach($apbd['berkas'] as $key=>$berkas){
+											echo "<tr><td class=\"angka\">".$nomer."</td>
+												<td>".$berkas['nasli']."</td>
+												<td>".$berkas['unama']."
+													<br />".date("j F Y H:i",strtotime($berkas['created_at']))."
+												</td>
+											</tr>";
+											$nomer++;
+										}
+										echo "	
+										</tbody>
+										</table>
+										</div>
+									</div>";
+								}
+								
+							}else{
+								echo "
+								<div class=\"callout callout-danger\">
+									<h4>Data TIDAK BISA DITAMPILKAN</h4>
+									<p>Maaf, data yang anda inginkan tidak bisa ditampilkan disini, karena ketidaktersediaan data tersebut.</p>
+								</div>
+								";
+							}
+
+							?>
+						</div>
+					</div><!--/.tabs-content-->
+				</div><!--/.nav-tabs-custom-->
+<!-- APBD -->
+								

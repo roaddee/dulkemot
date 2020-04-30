@@ -1,0 +1,43 @@
+"Judul","Ringkasan Anggaran Pendapatan dan Belanja Daerah Berdasarkan Rincian Obyek Pendapatan, Belanja, dan Pembiayaan",,,,
+"Daerah","Kabupaten Bantul",,,,
+"Tahun",2014,,,,
+"Kode Organisasi",0,,,,
+"Nama Organisasi","Kabupaten Bantul",,,,
+"Kolom",4,,,,
+"Kode Rekening","Uraian","Sebelum Perubahan","Sesudah Perubahan","Selisih","Prosentase"
+4,"PENDAPATAN ","1687985457801.34","1733247144497.78",45261686696,"2,68"
+"4 . 1 ","PENDAPATAN ASLI DAERAH ","265128264613.9","288038728992.34",22910464378,"8,64"
+"4 . 1 . 1 ","Pajak Daerah ",70946200000,77892200000,6946000000,"9,79"
+"4 . 1 . 2 ","Retribusi Daerah ",20725748717,26470454741,5744706024,"27,72"
+"4 . 1 . 3 ","Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan ",9809855547,12638557151,2828701604,"28,84"
+"4 . 1 . 4 ","Lain-lain Pendapatan Asli Daerah yang Sah ","163646460350","171037517100",7391056750,"4,52"
+"4 . 2 ","DANA PERIMBANGAN ","1042469208676","1042578600994",109392318,"0,01"
+"4 . 2 . 1 ","Bagi Hasil Pajak/Bagi Hasil Bukan Pajak ",32302650676,32412042994,109392318,"0,34"
+"4 . 2 . 2 ","Dana Alokasi Umum ","949252188000","949252188000",0,0
+"4 . 2 . 3 ","Dana Alokasi Khusus ",60914370000,60914370000,0,0
+"4 . 3 ","LAIN-LAIN PENDAPATAN DAERAH YANG SAH ","380387984511.44","402629814511.44",22241830000,"5,85"
+"4 . 3 . 1 ","Pendapatan Hibah ",0,1877580000,1877580000,0
+"4 . 3 . 3 ","Dana Bagi Hasil Pajak dari Provinsi dan Pemerintah Daerah Lainnya ",77287001711,83287001711,6000000000,"7,76"
+"4 . 3 . 4 ","Dana Penyesuaian dan Otonomi Khusus ","271483020000","285847270000",14364250000,"5,29"
+"4 . 3 . 5 ","Bantuan Keuangan Dari Provinsi/Kabupaten/Kota Lainnya ",31617962800,"31617962800",0,0
+5,"BELANJA ","1734327106969.34","1901355826511.47","167028719542.13","9,63"
+"5 . 1 ","BELANJA TIDAK LANGSUNG ","1035223417095.34","1103697182625.47",68473765530,"6,61"
+"5 . 1 . 1 ","Belanja Pegawai ","955321212631","1008895356969",53574144338,"5,61"
+"5 . 1 . 2 ","Belanja Bunga ",10500000,10500000,0,0
+"5 . 1 . 4 ","Belanja Hibah ",5952744000,8952744000,3000000000,"50,4"
+"5 . 1 . 5 ","Belanja Bantuan Sosial ",11583475000,12969925000,1386450000,"11,97"
+"5 . 1 . 7 ","Belanja Bantuan Keuangan Kepada Provinsi/Kabupaten/Kota dan Pemerintahan Desa ",55239725100,59939587100,4699862000,"8,51"
+"5 . 1 . 8 ","Belanja Tidak Terduga ",7115760364,12929069556,5813309192,"81,7"
+"5 . 2 ","BELANJA LANGSUNG ","699103689874","797658643886",98554954012,"14,1"
+"5 . 2 . 1 ","Belanja Pegawai ","123625082768","119076607317",-4548475451,"-3,68"
+"5 . 2 . 2 ","Belanja Barang dan Jasa ","285590848818","348815942641",63225093823,"22,14"
+"5 . 2 . 3 ","Belanja Modal ","289887758288","329766093928",39878335640,"13,76"
+,"SURPLUS / (DEFISIT) ","-46341649168","-168108682013.69","-121767032845.69","262,76"
+6,"PEMBIAYAAN DAERAH",46341649168,"168108682013.69","121767032845.69","262,76"
+"6 . 1 ","PENERIMAAN PEMBIAYAAN DAERAH ",88690880168,"211628963013.69","122938082845.69","138,61"
+"6 . 1 . 1 ","Sisa Lebih Perhitungan Anggaran Tahun Anggaran Sebelumnya ",81456880168,"204394963013.69","122938082845.69","150,92"
+"6 . 1 . 6 ","Penerimaan Kembali Investasi Dana Bergulir ",7234000000,7234000000,0,0
+"6 . 2 ","PENGELUARAN PEMBIAYAAN DAERAH ",42349231000,43520281000,1171050000,"2,77"
+"6 . 2 . 2 ","Penyertaan Modal (Investasi) Pemerintah Daerah ",35000000000,35000000000,0,0
+"6 . 2 . 3 ","Pembayaran Pokok Utang ",115231000,115281000,50000,"0,04"
+"6 . 2 . 4 ","Dana Bergulir ",7234000000,8405000000,1171000000,"16,19"

@@ -1,0 +1,1964 @@
+Judul,Penjabaran Anggaran Pendapatan dan Belanja Daerah,,
+Daerah,Kabupaten Bantul,,
+Tahun,2016,,
+Kode Organisasi,1.06.01,,
+Nama Organisasi,Badan Perencanaan Pembangunan Daerah,,
+Kolom,4,,
+No. Rekening,Uraian,Jumlah,Keterangan
+1.06 . 1.06.01 . 00 . 00 . 5 ,BELANJA ,11392124300,
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 ,BELANJA TIDAK LANGSUNG ,3391707300,
+1.06 . 1.06.01 . 00 . 00 ,Non Kegiatan ,3391707300,Sumber Dana : 
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 ,Belanja Pegawai ,3391707300,
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 ,Belanja Gaji dan Tunjangan ,3391707300,
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 01 ,Gaji Pokok PNS/Uang Representasi ,2609508540,"Gaji Pokok1 th x 2.609.508.540,00 = 2.609.508.540,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 02 ,Tunjangan Keluarga ,253094408,"Tunjangan Keluarga1 th x 253.094.408,00 = 253.094.408,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 03 ,Tunjangan Jabatan ,250542600,"Tunjangan Jabatan1 th x 250.542.600,00 = 250.542.600,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 04 ,Tunjangan Fungsional ,10710000,"Tunjangan Fungsional1 th x 10.710.000,00 = 10.710.000,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 05 ,Tunjangan Fungsional Umum ,78682800,"Tunjganan Fungsional Umum1 th x 78.682.800,00 = 78.682.800,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 06 ,Tunjangan Beras ,152685980,"Tunjangan Beras1 th x 152.685.980,00 = 152.685.980,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 07 ,Tunjangan PPh/Tunjangan Khusus ,36448843,"Tunjjangan PPh/Tunjangan Khusus1 th x 36.448.843,00 = 36.448.843,00"
+1.06 . 1.06.01 . 00 . 00 . 5 . 1 . 1 . 01 . 08 ,Pembulatan Gaji ,34129,"Pembulatan Gaji1 th x 34.129,00 = 34.129,00"
+1.06 . 1.06.01 . 01 . 01 . 5 . 2 ,BELANJA LANGSUNG ,8000417000,
+1.06 . 1.06.01 . 01 ,Program Pelayanan Administrasi Perkantoran ,1280000000,
+1.06 . 1.06.01 . 01 . 01 ,Penyediaan jasa surat menyurat ,1000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Terkirimnya dokumen_x000D_
+Target: 10 kali"
+1.06 . 1.06.01 . 01 . 01 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,1000000,
+1.06 . 1.06.01 . 01 . 01 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,1000000,
+1.06 . 1.06.01 . 01 . 01 . 5 . 2 . 2 . 03 . 07 ,Belanja Paket/Pengiriman ,1000000,"Belanja Pengiriman Dokumen lewat Pos/TIKI1 tahun x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 01 . 02 ,"Penyediaan jasa komunikasi, sumber daya air dan listrik ",25000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Terbayarnya biaya telepon dan internet_x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 01 . 02 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,25000000,
+1.06 . 1.06.01 . 01 . 02 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,25000000,
+1.06 . 1.06.01 . 01 . 02 . 5 . 2 . 2 . 03 . 01 ,Belanja Telepon ,5000000,"Belanja Telepon1 th x 5.000.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 01 . 02 . 5 . 2 . 2 . 03 . 06 ,Belanja Kawat/Faksimili/Internet/Intranet/TV Kabel/TV Satelit ,20000000,"Belanja Internet/TV Kabel/TV Satelit1 th x 20.000.000,00 = 20.000.000,00"
+1.06 . 1.06.01 . 01 . 07 ,Penyediaan jasa administrasi keuangan ,45000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Terlaksananya pengelolaan keuangan dan barang_x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 1 ,Belanja Pegawai ,39570000,
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 1 . 01 ,Honorarium PNS ,39570000,
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 1 . 01 . 06 ,Honor Pengelola Keuangan dan Barang ,39570000,"Honor Pengelola keuangan dan Barang_x000D_
+Honor Pejabat Penatausahaan Keuangan (PPK)12 ob x 402.500,00 = 4.830.000,00_x000D_
+Honor Bendahara Pengeluaran12 ob x 345.000,00 = 4.140.000,00_x000D_
+Honor Pembantu PPK (pembuat SPP/SPM, Verifikasi, Lap Neraca)36 ob x 250.000,00 = 9.000.000,00_x000D_
+Honor Pembantu Bendahara (Kasir, Pembuat Dokumen)48 ob x 250.000,00 = 12.000.000,00_x000D_
+Honor Pengurus Gaji12 ob x 150.000,00 = 1.800.000,00_x000D_
+Honor Pengurus Kepegawaian12 ob x 150.000,00 = 1.800.000,00_x000D_
+Honor Pengurus Barang12 ob x 250.000,00 = 3.000.000,00_x000D_
+Honor Penyimpan Barang12 ob x 250.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,5430000,
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2220000,
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2220000,"Belanja Alat Tulis Kantor_x000D_
+Belanja ATK1 ls x 2.220.000,00 = 2.220.000,00"
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1500000,
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1500000,"Belanja Penggandaan1 ls x 1.500.000,00 = 1.500.000,00"
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1710000,
+1.06 . 1.06.01 . 01 . 07 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1710000,"Belanja Jamuan Rapat Koordinasi_x000D_
+Minum Snack Rapat Koordinasi60 dos x 8.500,00 = 510.000,00_x000D_
+Makan Minum Rapat Koordinasi60 dos x 20.000,00 = 1.200.000,00"
+1.06 . 1.06.01 . 01 . 08 ,Penyediaan jasa kebersihan kantor ,2500000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Tersedianya peralatan kebersihan_x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 01 . 08 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,2500000,
+1.06 . 1.06.01 . 01 . 08 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2500000,
+1.06 . 1.06.01 . 01 . 08 . 5 . 2 . 2 . 01 . 05 ,Belanja Peralatan Kebersihan Dan Bahan Pembersih ,2500000,"Belanja Peralatan Kebersihan dan Bahan Pembersih1 th x 2.500.000,00 = 2.500.000,00"
+1.06 . 1.06.01 . 01 . 10 ,Penyediaan alat tulis kantor ,20000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Tersedianya alat tulis kantor_x000D_
+Target: 15 jenis"
+1.06 . 1.06.01 . 01 . 10 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,20000000,
+1.06 . 1.06.01 . 01 . 10 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,20000000,
+1.06 . 1.06.01 . 01 . 10 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,20000000,"Belanja Alat Tulis Kantor1 th x 20.000.000,00 = 20.000.000,00"
+1.06 . 1.06.01 . 01 . 11 ,Penyediaan barang cetakan dan penggandaan ,14990000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Tersedianya kartu kendali surat masuk/ keluar, lembar disposisi, boks arsip, bend 26a, amplop berkop, SSPD, stopmap berlogo_x000D_
+Target: 10 rim"
+1.06 . 1.06.01 . 01 . 11 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,14990000,
+1.06 . 1.06.01 . 01 . 11 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,14990000,
+1.06 . 1.06.01 . 01 . 11 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,10440000,"Belanja Cetak1 th x 10.440.000,00 = 10.440.000,00"
+1.06 . 1.06.01 . 01 . 11 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,4550000,"Belanja Penggandaan130 lb x 35.000,00 = 4.550.000,00"
+1.06 . 1.06.01 . 01 . 12 ,Penyediaan komponen instalasi listrik/penerangan bangunan kantor ,15000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Bappeda_x000D_
+Keluaran : Tersedianya komponen alat listrik_x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 01 . 12 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,15000000,
+1.06 . 1.06.01 . 01 . 12 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,15000000,
+1.06 . 1.06.01 . 01 . 12 . 5 . 2 . 2 . 01 . 03 ,"Belanja Alat Listrik Dan Elektronik (Lampu Pijar, Battery Kering) ",15000000,"Belanja Alat Listrik dan Elektronik1 th x 15.000.000,00 = 15.000.000,00"
+1.06 . 1.06.01 . 01 . 15 ,Penyediaan bahan bacaan dan peraturan perundang-undangan ,8500000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Tersedianya surat kabar (Harian Kedaulatan Rakyat dan Kompas)_x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 01 . 15 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,8500000,
+1.06 . 1.06.01 . 01 . 15 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,8500000,
+1.06 . 1.06.01 . 01 . 15 . 5 . 2 . 2 . 03 . 05 ,Belanja Surat Kabar/Majalah ,8500000,"Belanja Surat Kabar/Majalah1 th x 6.250.000,00 = 6.250.000,00_x000D_
+Belanja Buku Bacaan/Peraturan Perundang-undangan1 th x 2.250.000,00 = 2.250.000,00"
+1.06 . 1.06.01 . 01 . 17 ,Penyediaan makanan dan minuman ,20000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Tersedianya makanan dan minuman rapat_x000D_
+Target: 800 Dos"
+1.06 . 1.06.01 . 01 . 17 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,20000000,
+1.06 . 1.06.01 . 01 . 17 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,20000000,
+1.06 . 1.06.01 . 01 . 17 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,16000000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack Minum Rapat Koordinasi800 dos x 8.500,00 = 6.800.000,00_x000D_
+Belanja Makan Minum Rapat Koordinasi460 dos x 20.000,00 = 9.200.000,00"
+1.06 . 1.06.01 . 01 . 17 . 5 . 2 . 2 . 11 . 03 ,Belanja Makanan Dan Minuman Tamu ,4000000,"Belanja Makanan dan Minuman Tamu_x000D_
+Snack minum Tamu200 dos x 10.000,00 = 2.000.000,00_x000D_
+Makan Minum Tamu100 dos x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 01 . 18 ,Rapat-rapat koordinasi dan konsultasi ke luar daerah ,1128010000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Koordinasi ke dalam daerah (Kab/DIY)dan ke luar daerah _x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 01 . 18 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,1128010000,
+1.06 . 1.06.01 . 01 . 18 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,1128010000,
+1.06 . 1.06.01 . 01 . 18 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,95050000,"Belanja Perjalanan Dinas Dalam DIY_x000D_
+Gol. IV 346 oj x 100.000,00 = 34.600.000,00_x000D_
+Gol. I, II, III 346 oj x 75.000,00 = 25.950.000,00_x000D_
+Belanja Perjalanan Dinas Dalam Kabupaten_x000D_
+Gol. IV 260 oj x 75.000,00 = 19.500.000,00_x000D_
+Gol. I, II, III 300 oj x 50.000,00 = 15.000.000,00"
+1.06 . 1.06.01 . 01 . 18 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,1032960000,"Perjalanan Dinas ke Luar Pulau Jawa, Jabodetabek_x000D_
+Gol. IV 202 oj x 1.770.000,00 = 357.540.000,00_x000D_
+Gol. III 100 oj x 1.580.000,00 = 158.000.000,00_x000D_
+Gol. II 10 oj x 1.370.000,00 = 13.700.000,00_x000D_
+Perjalanan dinas di Pulau Jawa (luar DIY)_x000D_
+Gol. IV 52 oj x 1.530.000,00 = 79.560.000,00_x000D_
+Gol. III 40 oj x 1.080.000,00 = 43.200.000,00_x000D_
+Gol. II 4 oj x 1.030.000,00 = 4.120.000,00_x000D_
+Tiket Pergi PulangTiket Pesawat PP140 oj x 2.270.000,00 = 317.800.000,00_x000D_
+Tiket Kereta PP82 oj x 720.000,00 = 59.040.000,00"
+1.06 . 1.06.01 . 02 ,Program Peningkatan Sarana dan Prasarana Aparatur ,1065100000,
+1.06 . 1.06.01 . 02 . 03 ,Pembangunan gedung kantor ,200000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Rehab ruang_x000D_
+Target: 1 ruang"
+1.06 . 1.06.01 . 02 . 03 . 5 . 2 . 3 ,Belanja Modal ,200000000,
+1.06 . 1.06.01 . 02 . 03 . 5 . 2 . 3 . 49 ,Belanja Modal Gedung dan Bangunan - Pengadaan Bangunan Gedung Tempat Kerja,200000000,
+1.06 . 1.06.01 . 02 . 03 . 5 . 2 . 3 . 49 . 01 ,Belanja Modal Gedung dan Bangunan - Pengadaan Bangunan Gedung Kantor,200000000,"Belanja modal rehab interior dan pengadaan meubeleir1 paket x 195.000.000,00 = 195.000.000,00_x000D_
+Belanja administrasi pengadaanHonorarium Pejabat Pembuat Komitmen1 ok x 500.000,00 = 500.000,00_x000D_
+Honorarium Tim Pengadaan1 bjj x 1.250.000,00 = 1.250.000,00_x000D_
+Honorarium Tim Pemeriksa/ Penerima Barang1 bjj x 1.000.000,00 = 1.000.000,00_x000D_
+Alat Tulis Kantor1 paket x 300.000,00 = 300.000,00_x000D_
+_x000D_
+Snack Rapat Pengadaan100 dos x 8.500,00 = 850.000,00_x000D_
+Makan Rapat Pengadaan55 dos x 20.000,00 = 1.100.000,00"
+1.06 . 1.06.01 . 02 . 05 ,pengadaan Kendaraan dinas/operasional ,202000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Pengadaan kendaraan roda dua_x000D_
+Target: 11 Unit"
+1.06 . 1.06.01 . 02 . 05 . 5 . 2 . 3 ,Belanja Modal ,202000000,
+1.06 . 1.06.01 . 02 . 05 . 5 . 2 . 3 . 17 ,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Angkutan Darat Bermotor,202000000,
+1.06 . 1.06.01 . 02 . 05 . 5 . 2 . 3 . 17 . 01 ,Belanja Modal Peralatan dan Mesin - Pengadaan Kendaraan Dinas Bermotor Perorangan,202000000,"Belanja Pengadaan Kendaraan Dinas Roda 2_x000D_
+Pengadaan Sepeda Motor10 unit x 17.290.000,00 = 172.900.000,00_x000D_
+Pengadaan Sepeda Motor1 unit x 27.000.000,00 = 27.000.000,00_x000D_
+Honorarium Panitia Pengadaan1 bjj x 1.350.000,00 = 1.350.000,00_x000D_
+Jamuan rapat pengadaan28 dos x 8.500,00 = 238.000,00_x000D_
+Alat tulis kantor1 paket x 212.000,00 = 212.000,00_x000D_
+Honorarium pemeriksa/ penerima barang1 ob x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 02 . 24 ,Pemeliharaan rutin/berkala kendaraan dinas/operasional ,115000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Terpeliharanya kendaraan dinas_x000D_
+Target: 24 kendaraan dinas"
+1.06 . 1.06.01 . 02 . 24 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,115000000,
+1.06 . 1.06.01 . 02 . 24 . 5 . 2 . 2 . 05 ,Belanja Perawatan Kendaraan Bermotor ,115000000,
+1.06 . 1.06.01 . 02 . 24 . 5 . 2 . 2 . 05 . 01 ,Belanja Jasa Service ,4000000,"Belanja Service_x000D_
+Belanja Service Kendaraan DInas Roda 4 dan Roda 21 th x 4.000.000,00 = 4.000.000,00"
+1.06 . 1.06.01 . 02 . 24 . 5 . 2 . 2 . 05 . 02 ,Belanja Penggantian Suku Cadang ,59400000,"Belanja Suku Cadang Kendaraan Dinas_x000D_
+Mobil AB 16 B1 unit x 4.000.000,00 = 4.000.000,00_x000D_
+Mobil AB 1038 UB, AB 1069 UB, AB 1047 IB, AB 1249 UB, AB 1302 UB5 unit x 5.000.000,00 = 25.000.000,00_x000D_
+Sepeda motor19 unit x 1.600.000,00 = 30.400.000,00"
+1.06 . 1.06.01 . 02 . 24 . 5 . 2 . 2 . 05 . 03 ,Belanja Bahan Bakar Minyak/Gas Dan Pelumas ,47000000,"Belanja BBM_x000D_
+Belanja BBM 5 Mobil dan 19 Sepeda Motor1 th x 47.000.000,00 = 47.000.000,00"
+1.06 . 1.06.01 . 02 . 24 . 5 . 2 . 2 . 05 . 07 ,Belanja Surat Tanda Nomor Kendaraan ,4600000,"Belanja Perpanjangan STNK_x000D_
+Belanja Perpanjangan STNK Kendaraan DInas1 th x 4.600.000,00 = 4.600.000,00"
+1.06 . 1.06.01 . 02 . 30 ,Pemeliharaan rutin/berkala peralatan dan perlengkapan kantor ,35000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Terpeliharanya peralatan dan perlengkapan kantor (AC, komputer, faksimili, PABX, mesin ketik, dll)_x000D_
+Target: 12 bulan"
+1.06 . 1.06.01 . 02 . 30 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,35000000,
+1.06 . 1.06.01 . 02 . 30 . 5 . 2 . 2 . 20 ,Belanja Pemeliharaan ,35000000,
+1.06 . 1.06.01 . 02 . 30 . 5 . 2 . 2 . 20 . 04 ,Belanja Pemeliharan Peralatan dan Mesin ,35000000,"Belanja Pemeliharaan Peralatan dan Perlengkapan Kantor1 th x 35.000.000,00 = 35.000.000,00"
+1.06 . 1.06.01 . 02 . 34 ,Pengadaan peralatan dan perlengkapan kantor ,513100000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Komputer, printer, USB, laptop, LCD, kamera, Faksimili_x000D_
+Target: 51 unit barang"
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 ,Belanja Modal ,513100000,
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,399450000,
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 29 . 02 ,Belanja Modal Peralatan dan Mesin - Pengadaan Personal Komputer ,322850000,"Belanja Modal Pengadaan Komputer PC14 unit x 14.000.000,00 = 196.000.000,00_x000D_
+Belanja Modal Pengadaan Laptop9 unit x 14.000.000,00 = 126.000.000,00_x000D_
+Honor Pejabat Pengadaan_x000D_
+Honor Pejabat pembuat komitmen1 op x 350.000,00 = 350.000,00_x000D_
+Honor Pejabat pengadaan1 op x 300.000,00 = 300.000,00_x000D_
+Honor Pejabat penerima barang1 op x 200.000,00 = 200.000,00"
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 29 . 05 ,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Personal Komputer,76600000,"Belanja Modal Pengadaan Peralatan Personal Komputer_x000D_
+Belanja Pengadaan Kelengkapan Komputer1 ls x 29.600.000,00 = 29.600.000,00_x000D_
+Belanja Pengadaan Printer1 unit x 4.000.000,00 = 4.000.000,00_x000D_
+Belanja Pengadaan Printer2 unit x 4.500.000,00 = 9.000.000,00_x000D_
+Belanja Pengadaan Printer3 unit x 6.000.000,00 = 18.000.000,00_x000D_
+Belanja Pengadaan Printer3 unit x 2.500.000,00 = 7.500.000,00_x000D_
+Belanja Pengadaan Printer1 unit x 8.500.000,00 = 8.500.000,00"
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 31 ,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Studio ,62000000,
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 31 . 01 ,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Studio Visual ,62000000,"Belanja Modal Pengadaan Peralatan Studio Visual_x000D_
+Belanja Pengadaan TV1 unit x 10.000.000,00 = 10.000.000,00_x000D_
+Belanja Pengadaan LCD Projector3 unit x 12.000.000,00 = 36.000.000,00_x000D_
+Belanja Pengadaan Kamera2 unit x 8.000.000,00 = 16.000.000,00"
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 32 ,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Komunikasi ,51650000,
+1.06 . 1.06.01 . 02 . 34 . 5 . 2 . 3 . 32 . 01 ,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Komunikasi Telephone,51650000,"Belanja Modal Pengadaan Alat Komunikasi_x000D_
+Belanja Pengadaan Sarana Komunikasi dan Pemindaian dokumen1 paket x 51.650.000,00 = 51.650.000,00"
+1.06 . 1.06.01 . 03 ,Program peningkatan disiplin aparatur ,15000000,
+1.06 . 1.06.01 . 03 . 06 ,Pembinaan Disiplin Aparatur ,15000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Pembinaan disiplin_x000D_
+Target: 2 kali"
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,15000000,
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,725000,
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,725000,"Belanja alat tulis kantor4 Paket x 181.250,00 = 725.000,00"
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,233000,
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,233000,"Belanja penggandaan1,864 lembar x 125,00 = 233.000,00"
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,3200000,
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 07 . 02 ,Belanja Sewa Gedung/Kantor/Tempat ,3200000,"Sewa tempat workshop1 Paket x 3.200.000,00 = 3.200.000,00"
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,8842000,
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,8842000,"Belanja makan minum rapat_x000D_
+Belanja minum dan snack162 Dos x 8.500,00 = 1.377.000,00_x000D_
+Belanja minum dan makan162 Dos x 20.000,00 = 3.240.000,00_x000D_
+Konsumsi workshop65 Orang x 65.000,00 = 4.225.000,00"
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 35 ,Jasa Narasumber Tenaga Ahli Yuri Entry Data Petugas Fogging dan Petugas Lapangan,2000000,
+1.06 . 1.06.01 . 03 . 06 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,2000000,"Honorarium narasumber_x000D_
+Honorarium narasumber diklat/ lokakarya/ workshop4 Jpl x 250.000,00 = 1.000.000,004 Jpl x 250.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 05 ,Program Peningkatan Kapasitas Sumber Daya Aparatur ,152120000,
+1.06 . 1.06.01 . 05 . 04 ,Pembinaan Tugas Pokok dan Fungsi ,60000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Kegiatan luar ruang (out bond)Target: 1 kali"
+1.06 . 1.06.01 . 05 . 04 . 5 . 2 . 1 ,Belanja Pegawai ,650000,
+1.06 . 1.06.01 . 05 . 04 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 05 . 04 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,650000,"Pejabat Pembuat Komitmen_x000D_
+Honor Pejabat Pembuat Komitmen1 ok x 350.000,00 = 350.000,00_x000D_
+Pejabat PengadaanHonor Pejabat Pengadaan1 ok x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 05 . 04 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,59350000,
+1.06 . 1.06.01 . 05 . 04 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,59350000,
+1.06 . 1.06.01 . 05 . 04 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,59350000,"Belanja Jasa Peningkatan kapasitas SDM_x000D_
+Belanja jasa peningkatan kapsitas SDM1 Paket x 59.350.000,00 = 59.350.000,00"
+1.06 . 1.06.01 . 05 . 05 ,Peningkatan Kapasitas Sumberdaya Perencanaan ,92120000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Jumlah karyawan mengikuti bimtek/ kursus/ pelatihan_x000D_
+Target: 10 Orang"
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,92120000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,4500000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,4500000,"Belanja Alat Tulis Kantor4 paket x 1.125.000,00 = 4.500.000,00"
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,23450000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 03 . 12 ,Belanja Transportasi dan Akomodasi ,23450000,"Belanja Transprotasi dan Akomodasi_x000D_
+Belanja transportasi6 pp x 2.200.000,00 = 13.200.000,00_x000D_
+Belanja Penginapan8 hari x 750.000,00 = 6.000.000,00_x000D_
+Transportasi Lokal17 pp x 250.000,00 = 4.250.000,00"
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2000000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2000000,"Belanja Penggandaan_x000D_
+Belanja Penggandaan Materi4 paket x 500.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,4670000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,4670000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack dan Minum300 dos x 8.500,00 = 2.550.000,00_x000D_
+Belanja Makan dan Minuman106 dos x 20.000,00 = 2.120.000,00"
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 17 ,"Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS",30000000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 17 . 03 ,Belanja Bimbingan Teknis,30000000,"Belanja Bimbingan Teknis/ Pelatihan/ Kursus3 kali x 10.000.000,00 = 30.000.000,00"
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 35,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",27500000,
+1.06 . 1.06.01 . 05 . 05 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli,27500000,"Jasa Narasumber/ Moderator/ Tenaga Ahli22 jpl x 1.250.000,00 = 27.500.000,00"
+1.06 . 1.06.01 . 06,Program peningkatan pengembangan sistem pelaporan capaian kinerja dan keuangan,5430000,
+1.06 . 1.06.01 . 06 . 01 ,Penyusunan laporan capaian kinerja dan ikhtisar realisasi kinerja SKPD,5430000,"Sumber Dana :_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen AKIP, IKM, LPPD_x000D_
+Target : 3 Dokumen"
+1.06 . 1.06.01 . 06 . 01 . 5 . 2 . 2 ,Belanja Barang dan Jasa,5430000,
+1.06 . 1.06.01 . 06 . 01 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan,1000000,
+1.06 . 1.06.01 . 06 . 01 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan,1000000,"Belanja Penggandaan8,000 lembar x 125,00 = 1.000.000,00"
+1.06 . 1.06.01 . 06 . 01 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman,4430000,
+1.06 . 1.06.01 . 06 . 01 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat,4430000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack dan Minuman300 dos x 8.500,00 = 2.550.000,00_x000D_
+Belanja Makan dan Minuman Rapat94 dos x 20.000,00 = 1.880.000,00"
+1.06 . 1.06.01 . 15 ,Program pengembangan data/informasi,224980000,
+1.06 . 1.06.01 . 15 . 05 ,Penyusunan profile daerah,70900000,"Sumber Dana :_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen profil daerah_x000D_
+Target : 1 Dokumen"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 1 ,Belanja Pegawai,770000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 1 . 01 ,Honorarium PNS,0,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan,0,"honor tim pengarah_x000D_
+pengarah0 orang/bulan x 0,00 = 0,00_x000D_
+ketua0 orang/bulan x 0,00 = 0,00_x000D_
+sekretaris0 orang/bulan x 0,00 = 0,00_x000D_
+anggota0 orang/bulan x 0,00 = 0,00_x000D_
+honor tim teknis pengumpul dataketua0 orang/bulan x 0,00 = 0,00_x000D_
+anggota0 orang/bulan x 0,00 = 0,00_x000D_
+staf skretaris0 orang/bulan x 0,00 = 0,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 1 . 03 ,Uang Lembur ,770000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 1 . 03 . 01 ,Uang Lembur PNS ,770000,"uang lembur PNS_x000D_
+golongan IV & III 40 orang/hari x 15.000,00 = 600.000,00_x000D_
+golongan II 10 orang/hari x 10.000,00 = 100.000,00_x000D_
+golongan I 10 orang/hari x 7.000,00 = 70.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,70130000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2430000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2430000,"belanja ATK1 ls x 2.430.000,00 = 2.430.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,39000000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,37500000,"belanja cetak_x000D_
+belanja cetak buku profil100 buku x 300.000,00 = 30.000.000,00_x000D_
+belanja cetak buku agenda100 buku x 75.000,00 = 7.500.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1500000,"belanja Fotocopy penggandaan1 ls x 1.500.000,00 = 1.500.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,5200000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,4000000,"belanja makan minum rapat200 orang/kegiatan x 20.000,00 = 4.000.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 11 . 04 ,Belanja makanan dan minuman Lembur ,1200000,"belanja makan minum lembur60 orang /kegiatan x 20.000,00 = 1.200.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,18600000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,3600000,"belanja perjalanan dalam daerah_x000D_
+golongan IV 18 orang/hari x 100.000,00 = 1.800.000,00_x000D_
+golongan I,II,III 24 orang/hari x 75.000,00 = 1.800.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,15000000,"belanja perjalanan luar daerah1 ls x 15.000.000,00 = 15.000.000,00"
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",4900000,
+1.06 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,4900000,"jasa narasumber, moderator, tenaga ahli_x000D_
+jasa narasumber, modertor, tenaga ahli35 orang/bulan x 140.000,00 = 4.900.000,00"
+1.06 . 1.06.01 . 15 . 08 ,Penyusunan peta tematik ,71320000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Peta batas dusun_x000D_
+Target: 52 desa"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 1 ,Belanja Pegawai ,650000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"honor tim pengarah_x000D_
+pengarah0 orang/bulan x 0,00 = 0,00_x000D_
+ketua tim0 orang/bulan x 0,00 = 0,00_x000D_
+sekretaris0 orang/bulan x 0,00 = 0,00_x000D_
+anggota0 orang/bulan x 0,00 = 0,00"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,650000,"honor tim pengadaan Penyusunan Peta Tematik_x000D_
+honor PPK1 orang/kegiatan x 350.000,00 = 350.000,00_x000D_
+honor pejabat pengadaan1 orang/kegiatan x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,70670000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2170000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2170000,"Belanja ATK1 ls x 2.170.000,00 = 2.170.000,00"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2000000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2000000,"belanja fotocopy _x000D_
+penggandaan1 ls x 2.000.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,3000000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,3000000,"belanja makan minum rapat150 orang/kegiatan x 20.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,13500000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,13500000,"perjalanan dinas luar daerah1 ls x 13.500.000,00 = 13.500.000,00"
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 15 . 08 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"pembuatan peta tematik1 ls x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 15 . 12 ,Sistem Informasi Pembangunan Daerah ( SIPD ) ,82760000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen informasi pembangunan daerah_x000D_
+Target: 1 Set data"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 1 ,Belanja Pegawai ,3980000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 1 . 01 ,Honorarium PNS ,3060000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,3060000,"honor tim teknis pengelola SIPD_x000D_
+anggota18 orang/bulan x 140.000,00 = 2.520.000,00_x000D_
+staf sekretariat6 orang/bulan x 90.000,00 = 540.000,00_x000D_
+ketua0 orang/bulan x 0,00 = 0,00_x000D_
+sekretaris0 orang/bulan x 0,00 = 0,00_x000D_
+honor tim pengarahpengarah0 orang/bulan x 0,00 = 0,00_x000D_
+ketua0 orang/bulan x 0,00 = 0,00_x000D_
+sekretaris0 orang/bulan x 0,00 = 0,00_x000D_
+anggota0 orang/bulan x 0,00 = 0,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 1 . 03 ,Uang Lembur ,920000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 1 . 03 . 01 ,Uang Lembur PNS ,920000,"lembur PNS_x000D_
+golongan IV & III 50 orang/hari x 15.000,00 = 750.000,00_x000D_
+golongan II 10 orang/hari x 10.000,00 = 100.000,00_x000D_
+golongan I 10 orang/hari x 7.000,00 = 70.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,78780000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2780000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2780000,"belanja ATK1 ls x 2.780.000,00 = 2.780.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 04 ,Belanja Premi Asuransi ,500000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 04 . 01 ,Belanja Premi Asuransi Kesehatan ,500000,"Belanja premi asuransi kesehatan10 orang/bulan x 50.000,00 = 500.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,21800000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,20000000,"belanja cetak100 buku x 200.000,00 = 20.000.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1800000,"belanja fotocopy penggandaan1 ls x 1.800.000,00 = 1.800.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,4400000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,3000000,"belanja makan minum rapat150 orang/kegiatan x 20.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 11 . 04 ,Belanja makanan dan minuman Lembur ,1400000,"belanja makan minum lembur70 orang/kegiatan x 20.000,00 = 1.400.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,22300000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,4800000,"belanja perjalanan dinas dalam daerah_x000D_
+golongan IV30 orang/hari x 100.000,00 = 3.000.000,00_x000D_
+golongan 1,2,324 orang/hari x 75.000,00 = 1.800.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,17500000,"belanja perjalanan dinas luar daerah_x000D_
+perjalanan dinas luar daerah1 ls x 17.500.000,00 = 17.500.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",27000000,
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,12000000,"tenaga ahli bidang data dan statistik24 orang/bulan x 500.000,00 = 12.000.000,00"
+1.06 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 35 . 06 ,Jasa Tenaga Harian Lepas ,15000000,"honor tenaga honorer_x000D_
+honor tenaga harian lepas10 orang/bulan x 1.500.000,00 = 15.000.000,00"
+1.23 . 1.06.01 . 15 ,Program pengembangan data/informasi/statistik daerah ,65700000,
+1.23 . 1.06.01 . 15 . 05 ,Jaring Informasi Riset Daerah ,65700000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Jurnal riset daerah_x000D_
+Target: 4 edisi"
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,65700000,
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2200000,
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2200000,"belanja ATK1 ls x 2.200.000,00 = 2.200.000,00"
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,1500000,
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 03 . 07 ,Belanja Paket/Pengiriman ,1500000,"paket pengiriman1 ls x 1.500.000,00 = 1.500.000,00"
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,31000000,
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,30000000,"belanja cetak400 buku x 75.000,00 = 30.000.000,00"
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1000000,"belanja penggandaan1 ls x 1.000.000,00 = 1.000.000,00"
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,16000000,
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,16000000,"belanja makan minum rapat800 orang/kegiatan x 20.000,00 = 16.000.000,00"
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",15000000,
+1.23 . 1.06.01 . 15 . 05 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,15000000,"honor penyaji/peneliti20 orang/r x 750.000,00 = 15.000.000,00_x000D_
+honor moderator0 orang/r x 0,00 = 0,00"
+1.25 . 1.06.01 . 15 ,"Program Pengembangan Komunikasi, Informasi dan Media Massa ",30600000,
+1.25 . 1.06.01 . 15 . 07 ,Perencanaan dan pengembangan Kebijakan Serta Pembangunan Jaringan LAN,30600000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Perawatan jaringan dan komputer_x000D_
+Target: 1 jaringan"
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,21600000,
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 2 . 04 ,Belanja Premi Asuransi ,600000,
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 2 . 04 . 01 ,Belanja Premi Asuransi Kesehatan ,600000,"Belanja Premi Asuransi Kesehatan_x000D_
+Belanja Premi Asuransi Kesehatan Tenaga TI12 ob x 50.000,00 = 600.000,00"
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",21000000,
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 2 . 35 . 06 ,Jasa Tenaga Harian Lepas ,21000000,"Honor Tenaga Harian Lepas12 bl x 1.750.000,00 = 21.000.000,00"
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 3 ,Belanja Modal ,9000000,
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,9000000,
+1.25 . 1.06.01 . 15 . 07 . 5 . 2 . 3 . 29 . 06 ,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Jaringan ,9000000,"Belanja Pengadaan Jaringan_x000D_
+Belanja Pengadaan Peralatan Jaringan Komputer/Intranet/Internet1 th x 9.000.000,00 = 9.000.000,00"
+1.04 . 1.06.01 . 15 ,Program Pengembangan Perumahan ,160415000,
+1.04 . 1.06.01 . 15 . 12 ,"Penyusunan Analisis Implikasi Kebijakan Tata Ruang, Daya Dukung dan Penyusunan Analisis Implikasi Kebijakan Tata Ruang, Daya Dukung dan Daya Tampung Wilayah Terhadap Pengembangan Perumahan",53685000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen rekomendasi_x000D_
+Target: 1 Dokumen"
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,53685000,
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1705000,
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1705000,"Pembelian Alat Tulis Kantor_x000D_
+Pembelian ATK1 paket x 1.705.000,00 = 1.705.000,00"
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2600000,
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2600000,"Penggandaan/fotocopy1 paket x 2.600.000,00 = 2.600.000,00"
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2280000,
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2280000,"Makan Minum Rapat_x000D_
+Makan Rapat80 oh x 20.000,00 = 1.600.000,00_x000D_
+Snak Rapat80 oh x 8.500,00 = 680.000,00"
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",47100000,
+1.04 . 1.06.01 . 15 . 12 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,47100000,"Jasa Tenaga Ahli Harian Lepas_x000D_
+Tenaga Ahli Perencanaan Wilayah & Kota/Team Leader3 ob x 3.500.000,00 = 10.500.000,00_x000D_
+Tenaga Ahli Lingkungan3 ob x 3.000.000,00 = 9.000.000,00_x000D_
+Tenaga Ahli Prasarana Wilayah3 ob x 3.000.000,00 = 9.000.000,00_x000D_
+Tenaga Ahli Geografi3 ob x 3.000.000,00 = 9.000.000,00_x000D_
+Asisten Tenaga Ahli6 ob x 1.600.000,00 = 9.600.000,00"
+1.04 . 1.06.01 . 15 . 13 ,"Penyusunan Proyeksi, Persoalan dan Tantangan Pembangunan dan Pengembangan Perumahan",53685000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen proyeksi_x000D_
+Target: 1 Dokumen"
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,53685000,
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1705000,
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1705000,"Pembelian Alat Tullis Kantor_x000D_
+Pembelian ATK1 paket x 1.705.000,00 = 1.705.000,00"
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2600000,
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2600000,"Penggandaan/Fotocopy1 paket x 2.600.000,00 = 2.600.000,00"
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2280000,
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2280000,"Makan dan Minum Rapat_x000D_
+Makan Rapat80 oh x 20.000,00 = 1.600.000,00_x000D_
+_x000D_
+Snak Rapat80 oh x 8.500,00 = 680.000,00"
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",47100000,
+1.04 . 1.06.01 . 15 . 13 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,47100000,"Jasa Tenaga Ahli Harian Lepas_x000D_
+Ahli Perencanaan Wilayah & Kota/Team Leader3 ob x 3.500.000,00 = 10.500.000,00_x000D_
+Ahli Teknik Lingkungan3 ob x 3.000.000,00 = 9.000.000,00_x000D_
+Ahli Teknik Prasarana Wilayah3 ob x 3.000.000,00 = 9.000.000,00_x000D_
+Ahli Geografi3 ob x 3.000.000,00 = 9.000.000,00_x000D_
+Asisten Tenaga Ahli6 ob x 1.600.000,00 = 9.600.000,00"
+1.04 . 1.06.01 . 15 . 14 ,Penyusunan Rancangan Peraturan Bupati tentang Penyediaan Air Baku Usaha Perhotelan dan Perumahan,53045000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Raperbup_x000D_
+Target: 1 Dokumen"
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 1 ,Belanja Pegawai ,250000,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 1 . 01 ,Honorarium PNS ,250000,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,250000,"Honor Pejabat Pengadaan/Penunukan Langsung_x000D_
+Honor Pejabat Pengadaan/Penunjukan Langsung1 paket x 250.000,00 = 250.000,00"
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,52795000,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,732500,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,732500,"Pembelian ATK1 paket x 732.500,00 = 732.500,00"
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,780000,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,780000,"Penggandaan/Fotocopy6,000 lembar x 130,00 = 780.000,00"
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1282500,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1282500,"Makan Minum Rapat_x000D_
+Makan Rapat45 oh x 20.000,00 = 900.000,00_x000D_
+Snak Rapat45 oh x 8.500,00 = 382.500,00"
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.04 . 1.06.01 . 15 . 14 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"Jasa Pihak Ketiga_x000D_
+Penyusunan Rancangan Peraturan Bupati tentang Penyediaan Air Baku Usaha Perhotelan dan Perumahan1 paket x 50.000.000,00 = 50.000.000,00"
+1.05 . 1.06.01 . 15 ,Program Perencanaan Tata Ruang ,487345000,
+1.05 . 1.06.01 . 15 . 30 ,Forum Badan Koordinasi Penataan Ruang Daerah (BKPRD) ,39475000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Pengendalian penggunaan ruang kawasan_x000D_
+Target: 17 kecamatan"
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,39475000,
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2725000,
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2725000,"Belanja Alat Tulis KantorPembelian ATK1 paket x 2.725.000,00 = 2.725.000,00"
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,4000000,
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,4000000,"Penggandaan/Fotocopy32,000 lembar x 125,00 = 4.000.000,00"
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,32750000,
+1.05 . 1.06.01 . 15 . 30 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,32750000,"Makan Minum Rapat_x000D_
+Makan rapat1,000 ok x 20.000,00 = 20.000.000,00_x000D_
+Snak Rapat1,500 ok x 8.500,00 = 12.750.000,00"
+1.05 . 1.06.01 . 15 . 36 ,Review Rencana Tata Ruang Wilah (RTRW) dan KLHS ,366890000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+_x000D_
+Keluaran : Dokumen review RTRW dan KLHS_x000D_
+Target: 2 Dokumen"
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 1 ,Belanja Pegawai ,1750000,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 1 . 01 ,Honorarium PNS ,1750000,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,1750000,"Honor Panitia Pengadaan1 paket x 1.750.000,00 = 1.750.000,00"
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,365140000,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2202500,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2202500,"Pembelian Alat Tulis KantorPembelian ATK1 paket x 2.202.500,00 = 2.202.500,00"
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,4387500,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,4387500,"Penggandaan/fotocopy33,750 lembar x 130,00 = 4.387.500,00"
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,8550000,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,8550000,"Makan minum rapat_x000D_
+Makan Rapat300 oh x 20.000,00 = 6.000.000,00_x000D_
+Snak Rapat300 oh x 8.500,00 = 2.550.000,00"
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,350000000,
+1.05 . 1.06.01 . 15 . 36 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,350000000,"Jasa Pihak KetigaReview RTRW dan Penyusunan KLHS1 paket x 350.000.000,00 = 350.000.000,00"
+1.05 . 1.06.01 . 15 . 37 ,Sinkronisasi Perencanaan Sarana Prasarana Wilayah ,80980000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Perencanaan Sarana prasarana wilayah_x000D_
+Target: 1 Dokumen"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,80980000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,6130000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,6130000,"Pembelian Alat Tulis KantorPembelian ATK1 paket x 6.130.000,00 = 6.130.000,00"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 04 ,Belanja Premi Asuransi ,550000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 04 . 01 ,Belanja Premi Asuransi Kesehatan ,550000,"Belanja Premi Asuransi Tenaga Harian Lepas_x000D_
+Belanja Premi Asuransi11 bulan x 50.000,00 = 550.000,00"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,11250000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,11250000,"Penggandaan/fotocopy75,000 lembar x 150,00 = 11.250.000,00"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,45250000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,45250000,"Makan dan Minum Rapat_x000D_
+Makan Rapat1,200 orang x 20.000,00 = 24.000.000,00_x000D_
+Snak Rapat2,500 orang x 8.500,00 = 21.250.000,00"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 17 ,"Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS ",1000000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 17 . 02 ,Belanja Sosialisasi ,1000000,"Sosialisasi Program/Kegiatan lewat Media Massa_x000D_
+Sosialisasi Program/Kegiatan2 kali x 500.000,00 = 1.000.000,00"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",16800000,
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,300000,"Honor Narasumber Sosialisasi Program/Kegiatan_x000D_
+Honor Narasumber2 kali x 150.000,00 = 300.000,00"
+1.05 . 1.06.01 . 15 . 37 . 5 . 2 . 2 . 35 . 06 ,Jasa Tenaga Harian Lepas ,16500000,"Honor Tenaga Ahli_x000D_
+Honor Tenaga Ahli Harian Lepas11 bulan x 1.500.000,00 = 16.500.000,00"
+1.06 . 1.06.01 . 16 ,Program Kerjasama Pembangunan ,20880000,
+1.06 . 1.06.01 . 16 . 06 ,"Pelayanan Perijinan, Penelitian dan Pengabdian Masyarakat ",20880000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Penerbitan ijin penelitian dan pengabdian kepada masyaraka_x000D_
+tTarget: 4.000 surat perijinan"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 1 ,Belanja Pegawai ,1680000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 1 . 01 ,Honorarium PNS ,1680000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,1680000,"honor tim teknisanggota12 orang/bulan x 140.000,00 = 1.680.000,00"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,19200000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,4000000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,4000000,"belanja ATK1 ls x 4.000.000,00 = 4.000.000,00"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1150000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1150000,"belanja fotocopy penggandaanbelanja fotocopy penggandan1 ls x 1.150.000,00 = 1.150.000,00"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,10000000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,10000000,"belanja makan minum rapat500 orang/kegiatan x 20.000,00 = 10.000.000,00"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,3400000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,3400000,"perjalanan dinas dalam daerah_x000D_
+golongan IV 25 orang/hari x 100.000,00 = 2.500.000,00_x000D_
+golongan I, II, III 12 orang/hari x 75.000,00 = 900.000,00"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 17 ,"Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS ",500000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 17 . 02 ,Belanja Sosialisasi ,500000,"belanja sosialisasi program1 kali x 500.000,00 = 500.000,00"
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",150000,
+1.06 . 1.06.01 . 16 . 06 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,150000,"jasa narasumberhonor narasumber1 orang/hari x 150.000,00 = 150.000,00"
+1.24 . 1.06.01 . 16 ,Program penyelamatan dan pelestarian dokumen/arsip daerah ,22000000,
+1.24 . 1.06.01 . 16 . 02 ,Pendataan dan penataan dokumen/arsip daerah ,22000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Penataan arsip_x000D_
+Target: 2 Bidang"
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 1 ,Belanja Pegawai ,16200000,
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 1 . 02 ,Honorarium Non PNS ,16200000,
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 1 . 02 . 03 ,Honorarium Pegawai Kontrak ,16200000,"Honorarium penata arsip_x000D_
+Honorarium petugas kearsipan12 ob x 1.300.000,00 = 15.600.000,00_x000D_
+Pembayaran iuran BPJS12 ob x 50.000,00 = 600.000,00"
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,5800000,
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2712500,
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2712500,"Pengadaan bok arsip_x000D_
+Pembelian bok arsip100 bok x 18.000,00 = 1.800.000,00_x000D_
+Pembelian Alat Tulis Kantor1 paket x 201.500,00 = 201.500,00_x000D_
+Pembelian Kertas Samson1 ls x 711.000,00 = 711.000,00"
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,3087500,
+1.24 . 1.06.01 . 16 . 02 . 5 . 2 . 2 . 11 . 05 ,Belanja Makanan dan Minuman Pelaksanaan Kegiatan ,3087500,"Belanja Makanan dan Minuman_x000D_
+Belanja snack175 om x 8.500,00 = 1.487.500,00_x000D_
+Belanja Makan80 om x 20.000,00 = 1.600.000,00"
+1.02 . 1.06.01 . 21 ,Program Pengembangan Lingkungan Sehat ,37010500,
+1.02 . 1.06.01 . 21 . 01 ,Pengkajian pengembangan lingkungan sehat ,37010500,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Terbinanya forum komunikasi kecamatan sehat_x000D_
+Target: 11 kecamatan"
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 1 ,Belanja Pegawai ,8700000,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 1 . 01 ,Honorarium PNS ,8700000,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,8700000,"Honor Tim Pelaksana_x000D_
+Penasehat I11 ob x 180.000,00 = 1.980.000,00_x000D_
+Penasehat II0 ob x 0,00 = 0,00_x000D_
+Ketua0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anngota 7 Org 8 bln0 0b x 0,00 = 0,00_x000D_
+Anggota 6 org 8 bln48 ob x 140.000,00 = 6.720.000,00"
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,28310500,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1260500,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1260500,"Alat Tulis KAntor1 ls x 1.260.500,00 = 1.260.500,00"
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3000000,"PenggandaanPenggandaan dan F. copi1 ls x 3.000.000,00 = 3.000.000,00"
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,14260000,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,14260000,"Belanja Makan minum rapatmakan minum rapat475 or x 20.000,00 = 9.500.000,00_x000D_
+snak minum rapat560 or x 8.500,00 = 4.760.000,00"
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",5350000,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,5350000,"Honor Moderator & Narasumber_x000D_
+Honor Narasumber15 jpl x 250.000,00 = 3.750.000,00_x000D_
+Honor moderator8 jpl x 200.000,00 = 1.600.000,00"
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 36 ,Belanja Jasa Transport Petugas/Peserta ,4440000,
+1.02 . 1.06.01 . 21 . 01 . 5 . 2 . 2 . 36 . 02 ,Honorarium Peserta Rapat/Sosialisasi ,4440000,"honor Peserta Sosialisasi148 or x 30.000,00 = 4.440.000,00"
+1.06 . 1.06.01 . 21 ,Program perencanaan pembangunan daerah ,1715145000,
+1.06 . 1.06.01 . 21 . 12 ,Penyusunan laporan Keterangan Pertanggung Jawaban (LKPJ) ,96240000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen LKPJ tahun 2015_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 1 ,Belanja Pegawai ,59630000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 1 . 01 ,Honorarium PNS ,58390000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,58390000,"Honorarium Panitia Pelaksana Kegiatan_x000D_
+Honorarium Panitia Pelaksana Kegitan1 bjj x 58.390.000,00 = 58.390.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 1 . 03 ,Uang Lembur ,1240000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 1 . 03 . 01 ,Uang Lembur PNS ,1240000,"lembur PNS_x000D_
+Golongan IV & III 60 orang/hari x 15.000,00 = 900.000,00_x000D_
+Golongan II 20 orang/hari x 10.000,00 = 200.000,00_x000D_
+golongan I 20 orang/hari x 7.000,00 = 140.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,36610000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,3500000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,3500000,"belanja alat tulis kantorbelanja ATK1 ls x 3.500.000,00 = 3.500.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,21610000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,20000000,"belanja cetak100 buku x 200.000,00 = 20.000.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1610000,"belanja penggandaan fotocopy_x000D_
+belanja pengandaan fotocopy1 ls x 1.610.000,00 = 1.610.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,10000000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,8000000,"belanja makan minum rapat400 orang/kegiatan x 20.000,00 = 8.000.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 11 . 04 ,Belanja makanan dan minuman Lembur,2000000,"belanja makan minum lembur100 orang/kegiatan x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 35,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",1500000,
+1.06 . 1.06.01 . 21 . 12 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli,1500000,"jasa narasumber3 orang/bulan x 500.000,00 = 1.500.000,00"
+1.06 . 1.06.01 . 21 . 13," Monitoring, evaluasi dan pelaporan",51300000,"Sumber Dana :_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Laporan DAK TP_x000D_
+Target : 4 laporan"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 1 ,Belanja Pegawai,0,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 1 . 01 ,Honorarium PNS,0,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan,0,"Belanja honorarium Pelaksana kegiatan_x000D_
+Belanja honorarium Tim teknis Monev DAK TP0 bjj x 0,00 = 0,00_x000D_
+Belanja TPK Pokja Pengendalian Perencanaan PembangunanDaerah_x000D_
+Belanja TPK Tim Pokja pengendalian perencanaanpembangunan daerah0 bjj x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 ,Belanja Barang dan Jasa,51300000,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis,9260000,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 01 . 01, Belanja Alat Tulis Kantor,9260000,"Belanja ATK1 pkt x 9.260.000,00 = 9.260.000,00"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 03, Belanja Jasa Kantor,1450000,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 03 . 07 ,Belanja Paket/Pengiriman,1450000,"Belanja pengiriman dokumenBelanja pengiriman dokumen ke pusat1 tahun x 1.450.000,00 = 1.450.000,00"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan,4500000,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan,4500000,"Belanja penggandaan dan foto copy30,000 lbr x 150,00 = 4.500.000,00"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman,17100000,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat,17100000,"Belanja makan minum dan snack rapat_x000D_
+Belanja minum dan snack rapat600 ok x 8.500,00 = 5.100.000,00_x000D_
+Belanja makan minum rapat600 ok x 20.000,00 = 12.000.000,00"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,18990000,
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,0,"Belanja perjalanan dinas dalam daerah10 oh x 0,00 = 0,0020 oh x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 13 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,18990000,"Belanja perjalanan dinas ke DIY24 ok x 0,00 = 0,0012 ok x 0,00 = 0,00_x000D_
+Belanja perjalanan dinas luar DIYGol IV 6 oh x 1.358.000,00 = 8.148.000,00_x000D_
+Gol III 6 oh x 1.057.000,00 = 6.342.000,00_x000D_
+Tiket pesawat 2 PP x 2.250.000,00 = 4.500.000,00"
+1.06 . 1.06.01 . 21 . 14 ,Penyusunan KUA dan PPAS ,171600000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen Kebijakan Umum Anggaran (KUA) dan Prioritas dan Plafon Anggaran Sementara (PPAS)_x000D_
+Target: 4 dokumen"
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 1 ,Belanja Pegawai ,65000000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 1 . 01 ,Honorarium PNS ,65000000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,65000000,"Belanja TPK Tim/Panitia_x000D_
+Belanja TPK Tim Penyusun KUA PPAS tahun 20171 bjj x 35.000.000,00 = 35.000.000,00_x000D_
+Belanja TPK Tim Penyusun KUA PPAS Perubahan Tahun 20161 bjj x 30.000.000,00 = 30.000.000,00"
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,106600000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,21350000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,21350000,"Belanja ATK1 pkt x 21.350.000,00 = 21.350.000,00"
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,37500000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,37500000,"Belanja foto copy dan penggandaan250,000 lbr x 150,00 = 37.500.000,00"
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,5000000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 07 . 03 ,Belanja Sewa Ruang Rapat/Pertemuan ,5000000,"Belanja sewa ruang / kamar_x000D_
+Belanja sewa ruang/kamar1 ls x 5.000.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,42750000,
+1.06 . 1.06.01 . 21 . 14 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,42750000,"Belanja makan minum dan snack rapat_x000D_
+belanja minum snack rapat1,500 ok x 8.500,00 = 12.750.000,00_x000D_
+Belanja makan minum rapat1,500 ok x 20.000,00 = 30.000.000,00"
+1.06 . 1.06.01 . 21 . 16 ,Pengendalian dan evaluasi terhadap pelaksanan RKPD ,10000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen pengendalian kebijakan dan pelaksanaan RKPD_x000D_
+Target: 2 dokumen"
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"Belanja Penitia Pelaksana KegiatanBelanja honorarium Tim Teknis0 bjj x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,10000000,
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,4150000,
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,4150000,"Belanja ATKBelanja ASTK1 pkt x 4.150.000,00 = 4.150.000,00"
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3000000,"Belanja foto copy dan penggandaan20,000 lbr x 150,00 = 3.000.000,00"
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2850000,
+1.06 . 1.06.01 . 21 . 16 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2850000,"Belanja makan minum dan snack rapat_x000D_
+Belanja minum dan snack rapat100 ok x 8.500,00 = 850.000,00_x000D_
+Belanja makan minum rapat100 ok x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 17 ,Evaluasi terhadap hasil RKPD ,15000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen evaluasi hasil RKPD_x000D_
+Target: 2 dokumen"
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"Belanja honorarium Pelaksana Kegiatan_x000D_
+Belanja honorarium Tim Teknis0 bjj x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,15000000,
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,5475000,
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,5475000,"Belanja ATK1 pkt x 5.475.000,00 = 5.475.000,00"
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,5250000,
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,5250000,"Belanja foto copy dan penggandaan35,000 lbr x 150,00 = 5.250.000,00"
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,4275000,
+1.06 . 1.06.01 . 21 . 17 . 5 . 2 . 2 . 11 . 01 ,Belanja Makanan Dan Minuman Harian Pegawai ,4275000,"Belanja makan minum dan snack rapat_x000D_
+Belanja minum snack rapat150 ok x 8.500,00 = 1.275.000,00_x000D_
+Belanja makan minum rapat150 ok x 20.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 21 . 18 ,Pengembangan sistem inovasi daerah ,143870000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Road map sistem inovasi daerah, pedoman pengembangan desa inovasi dan dukungan kegiatan IPTEKMAS_x000D_
+Target: 2 dokumen"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 1 ,Belanja Pegawai ,16980000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 1 . 01 ,Honorarium PNS ,16980000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,15680000,"honor tim koordinasi SID_x000D_
+Aanggota112 orang/bulan x 140.000,00 = 15.680.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,1300000,"Honor tim pengadaan penyusunan roadmap SIDA kab Bantul_x000D_
+Honor PPK1 orang/kegiatan x 350.000,00 = 350.000,00_x000D_
+Honor pejabat pengadaan1 orang/kegiatan x 300.000,00 = 300.000,00_x000D_
+Honor tim penyusunan buku pedoman Inovasi Bantulhonor PPK1 orang/kegiatan x 350.000,00 = 350.000,00_x000D_
+honor pejabat pengadaan1 orang/kegiatan x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,126890000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,3460000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,3460000,"belanja ATK1 ls x 3.460.000,00 = 3.460.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1500000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1500000,"belanja penggandaan1 ls x 1.500.000,00 = 1.500.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,19600000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,9600000,"belanja makan minum rapat480 orang/kegiatan x 20.000,00 = 9.600.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 11 . 05 ,Belanja Makanan dan Minuman Pelaksanaan Kegiatan ,10000000,"belanja makan minum kegiatan400 orang/kegiatan x 25.000,00 = 10.000.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,0,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,0,"belanja perjalanan dinas luar daerah1 ls x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 17 ,"Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS ",500000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 17 . 02 ,Belanja Sosialisasi ,500000,"belanja sosialisasi programbelanja sosialisasi1 kali x 500.000,00 = 500.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,100000000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,100000000,"Penyusunan Roadmap SIDA Kabupaten Bantulbelanja jasa ketiga penyusunan roadmap SID Kabupaten Bantul1 ls x 50.000.000,00 = 50.000.000,00_x000D_
+Penyusunan buku pedomanDesa Inovasi Kabupaten Bantulbelanja jasa ketiga penyusunan buku pedoman Desa Inovasi Kabupaten Bantul1 ls x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",1830000,
+1.06 . 1.06.01 . 21 . 18 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,1830000,"narasumber sosialisasi1 orang/hari x 150.000,00 = 150.000,00_x000D_
+tenaga ahli bidang energi baru terbarukan12 orang/bulan x 140.000,00 = 1.680.000,00"
+1.06 . 1.06.01 . 21 . 26 ,Penyusunan perencanaan umum dan musrenbang ,301260000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten BantulK_x000D_
+eluaran : Dokumen RKPD, Bimbingan teknis perencanaan, peningkatan SIM_x000D_
+Target: 50 Orang"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 1 ,Belanja Pegawai ,136800000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 1 . 01 ,Honorarium PNS ,136800000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,136150000,"TPK Tim Perencana dan pelaksana musrenbangPembina5 ob x 450.000,00 = 2.250.000,00_x000D_
+Wakil Pembina5 ob x 400.000,00 = 2.000.000,00_x000D_
+Pengarah/penasehat0 ob x 0,00 = 0,00_x000D_
+Ketua0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00_x000D_
+Tim Teknis penyusun RKPD_x000D_
+Ketua0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00_x000D_
+Koordinator bidangKoordinator0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00_x000D_
+Pembantu pelaksana0 ob x 0,00 = 0,00_x000D_
+Honorarium tenaga TIHonor tenaga TI22 ob x 1.450.000,00 = 31.900.000,00_x000D_
+Uang lemburGol IV0 ob x 0,00 = 0,00Gol III0 ob x 0,00 = 0,00_x000D_
+Honorarium NarasumberHonor Narasumber8 jpl x 750.000,00 = 6.000.000,00_x000D_
+Honorarium Moderator0 jpl x 0,00 = 0,00_x000D_
+Honorarium Panitia Pelaksana Kegiatan1 bjj x 94.000.000,00 = 94.000.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,650000,"Belanja honorarium PPK1 ok x 350.000,00 = 350.000,00_x000D_
+Belanja honorarium pejabat pengadaan tenaga kontrak non PNS1 ok x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,131460000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,19160000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,19160000,"Belanja ATK1 pkt x 19.160.000,00 = 19.160.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,3500000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 03 . 14 ,Belanja Dekorasi ,500000,"Belanja dekorasiBelanja dekorasi rakor1 kali x 500.000,00 = 500.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,3000000,"Belanja jasa publikasi1 tahun x 3.000.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,40000000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,2500000,"Belanja cetak_x000D_
+Belanja cetak undangan250 lbr x 10.000,00 = 2.500.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,37500000,"Belanja Foto copy dan penggandaan250,000 lbr x 150,00 = 37.500.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,47200000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,46400000,"Belanja makan minum rapat koordinasi dan konsultasi publik_x000D_
+Belanja minum sanack rapat1,600 ok x 8.500,00 = 13.600.000,00_x000D_
+Belanja makan minum rapat1,600 ok x 20.000,00 = 32.000.000,00_x000D_
+Belanja makan minum lemburBelanja makan minum lembur pekerjaan40 ok x 20.000,00 = 800.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 11 . 04 ,Belanja makanan dan minuman Lembur ,800000,"Belanja makan minum lemburbelanja makan minum lembur pekerjaan40 org x 20.000,00 = 800.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 14 ,Belanja Pakaian khusus dan hari-hari tertentu ,19500000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 14 . 03 ,Belanja Pakaian Batik Tradisional ,19500000,"Belanja pakian hari hari tertentu_x000D_
+Belanja pakian batik78 potong x 250.000,00 = 19.500.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,0,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,0,"Belanja perjalanan dinas dalam daerah32 org x 0,00 = 0,0064 org x 0,00 = 0,00_x000D_
+belanja perjalanan dinas ke DIY12 org x 0,00 = 0,0020 org x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,0,"Perjalanan dinas luar daerah tujuan DKI/luar jawa14 ok x 0,00 = 0,0021 ok x 0,00 = 0,00_x000D_
+Perjalanan dinas luar DIY dalam pulau jawa6 ok x 0,00 = 0,006 ok x 0,00 = 0,0012 PP x 0,00 = 0,001 kali x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 17 ,"Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS ",1000000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 17 . 02 ,Belanja Sosialisasi ,1000000,"Belanja sosialisasi_x000D_
+Belanja sosialisasi keg pembengunan di Bantul radio1 pkt x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 32 ,Belanja Jaminan Pemeliharaan Kesehatan ,1100000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 2 . 32 . 01 ,Belanja Jaminan Pemeliharaan Kesehatan ,1100000,"Belanja iuran BPJS tenaga kontrak_x000D_
+Belanja iuran BPJS tenaga kontrak ( Tenaga TI )22 ob x 50.000,00 = 1.100.000,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 3 ,Belanja Modal ,33000000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,33000000,
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 3 . 29 . 02 ,Belanja Modal Peralatan dan Mesin - Pengadaan Personal Komputer ,0,"2 unit x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 26 . 5 . 2 . 3 . 29 . 03 ,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Komputer Mainframe,33000000,"Belanja pengadaan komputer_x000D_
+Belanja pengadaan koputer PC2 unit x 12.000.000,00 = 24.000.000,00_x000D_
+Belanja printer3 unit x 3.000.000,00 = 9.000.000,00"
+1.06 . 1.06.01 . 21 . 29 ,Pengendalian dan evaluasi terhadap pelaksanaan RPJMD ,11000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen pengendalian_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"Belanja honor Panitia pelaksana kegiatan_x000D_
+Belanja honorarium Tim Teknis0 bjj x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,11000000,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,5150000,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,5150000,"Belanja ATK1 pkt x 5.150.000,00 = 5.150.000,00"
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3000000,"Belanja foto copy dan penggandaan20,000 lbr x 150,00 = 3.000.000,00"
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2850000,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2850000,"Belanja makan minum dan snack rapat_x000D_
+Belanja minum snack rapat100 ok x 8.500,00 = 850.000,00_x000D_
+Belanja makan minum rapat100 ok x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 3 ,Belanja Modal ,0,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,0,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 3 . 29 . 01 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer Unit Jaringan ,0,"1 unit x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 3 . 31 ,Belanja Modal Peralatan dan Mesin - Pengadaan Alat Studio ,0,
+1.06 . 1.06.01 . 21 . 29 . 5 . 2 . 3 . 31 . 01 ,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Studio Visual ,0,"1 unit x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 31 ,Sosialisasi kebijakan perencanaan pembangunan daerah ,20000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Kendaraan hias_x000D_
+Target: 1 unit"
+1.06 . 1.06.01 . 21 . 31 . 5 . 2 . 1 ,Belanja Pegawai ,650000,
+1.06 . 1.06.01 . 21 . 31 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 21 . 31 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,650000,"Honorarium Tim Pengadaan Barang dan Jasa_x000D_
+Honorarium Pejabat Pengadaan1 ob x 300.000,00 = 300.000,00_x000D_
+Honorarium Pejabat Pembuat Komitmen1 ob x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 21 . 31 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,19350000,
+1.06 . 1.06.01 . 21 . 31 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,19350000,
+1.06 . 1.06.01 . 21 . 31 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,19350000,"Belanja PublikasiPembuatan kendaraan hias1 unit x 18.750.000,00 = 18.750.000,00_x000D_
+Belanja sosialisasi kegiatanSiaran radio1 kali x 500.000,00 = 500.000,00_x000D_
+Honorarium narasumber1 kali x 100.000,00 = 100.000,00"
+1.06 . 1.06.01 . 21 . 32 ,Penyusunan Rencana Strategis (Renstra) SKPD ,6450000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen renstra SKPD_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 21 . 32 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,6450000,
+1.06 . 1.06.01 . 21 . 32 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,750000,
+1.06 . 1.06.01 . 21 . 32 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,750000,"Belanja CetakBelanja Cetak Renstra25 buku x 30.000,00 = 750.000,00"
+1.06 . 1.06.01 . 21 . 32 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,5700000,
+1.06 . 1.06.01 . 21 . 32 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,5700000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack dan Minuman Rapat200 dos x 8.500,00 = 1.700.000,00_x000D_
+Belanja Makan dan Minuman Rapat200 dos x 20.000,00 = 4.000.000,00"
+1.06 . 1.06.01 . 21 . 33 ,Penyusunan Rencana Kerja (Renja) SKPD ,3465000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumjen perencanaan tahunan_x000D_
+Target: 2 dokumen"
+1.06 . 1.06.01 . 21 . 33 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,3465000,
+1.06 . 1.06.01 . 21 . 33 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,870000,
+1.06 . 1.06.01 . 21 . 33 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,870000,"Belanja Cetak_x000D_
+Belanja Cetak Renja29 buku x 30.000,00 = 870.000,00"
+1.06 . 1.06.01 . 21 . 33 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2595000,
+1.06 . 1.06.01 . 21 . 33 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2595000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack dan Minuman Rapat110 dos x 8.500,00 = 935.000,00_x000D_
+Belanja Makan dan Minuman Rapat83 dos x 20.000,00 = 1.660.000,00"
+1.06 . 1.06.01 . 21 . 36 ,Penyusunan RPJMD ,214040000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten bantul_x000D_
+Keluaran : Dokumen RPJMD_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 1 ,Belanja Pegawai ,2610000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 1 . 01 ,Honorarium PNS ,2610000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,2310000,"Belanja honorarium Tim Penyusun dan pengolahan_x000D_
+P jawab4 ob x 250.000,00 = 1.000.000,00_x000D_
+Ketua4 ob x 240.000,00 = 960.000,00_x000D_
+Wkl ketua0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00_x000D_
+Ketua tim teknis0 ob x 0,00 = 0,00_x000D_
+sekretraris tim teknis0 ob x 0,00 = 0,00_x000D_
+koord pokja bidang0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00_x000D_
+Staf pelaksana0 ob x 0,00 = 0,00_x000D_
+Belanja honorarium PPK1 ok x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,300000,"Belanja honorarium pejabat pengadaan1 ok x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,211430000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,410000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,410000,"Belanja ATK1 pkt x 410.000,00 = 410.000,00"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,41100000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 03 . 12 ,Belanja Transportasi dan Akomodasi ,41100000,"Belanja transportasi dan akomodasi_x000D_
+Belanja transport12 PP x 1.600.000,00 = 19.200.000,00_x000D_
+Belanja penginapan24 oh x 600.000,00 = 14.400.000,00_x000D_
+Belanja transport lokal12 ok x 250.000,00 = 3.000.000,00_x000D_
+Belanja transport peserta konsultasi publik150 ok x 30.000,00 = 4.500.000,00"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,15000000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,15000000,"Belanja penggandaan dan foto copy100,000 lbr x 150,00 = 15.000.000,00"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,14820000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 11 . 01 ,Belanja Makanan Dan Minuman Harian Pegawai ,14820000,"Belanja makan minum dan snack rapat_x000D_
+Belanja minum snack rapat520 ok x 8.500,00 = 4.420.000,00_x000D_
+Belanja makan minum rapat520 ok x 20.000,00 = 10.400.000,00_x000D_
+Belanja akomodasi hotel dalam rangka konsultasi publik0 ok x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",140100000,
+1.06 . 1.06.01 . 21 . 36 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,140100000,"Belanja narasumber dan moderator_x000D_
+Belanja honor tenaga ahli36 ob x 3.600.000,00 = 129.600.000,00_x000D_
+Belanja honor narasumber nasional6 jpl x 1.000.000,00 = 6.000.000,00_x000D_
+Belanja narasumber BAPPEDA DIY2 jpl x 750.000,00 = 1.500.000,00_x000D_
+Belanja narasumber Bupati Bantul2 jpl x 750.000,00 = 1.500.000,00_x000D_
+Belanja narasumber BAPPEDA Bantul0 jpl x 0,00 = 0,00_x000D_
+Belanja narasumber DPRD Bantul2 jpl x 750.000,00 = 1.500.000,00_x000D_
+Belanja Moderator0 jpl x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 38 ,Verifikasi Rencana Strategis (Renstra) SKPD ,7805000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bnatul_x000D_
+Keluaran : Renstra selaras RPJMD_x000D_
+Target: 52 SKPD"
+1.06 . 1.06.01 . 21 . 38 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,7805000,
+1.06 . 1.06.01 . 21 . 38 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,680000,
+1.06 . 1.06.01 . 21 . 38 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,680000,"Belanja Penggandaan5,440 lembar x 125,00 = 680.000,00"
+1.06 . 1.06.01 . 21 . 38 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,7125000,
+1.06 . 1.06.01 . 21 . 38 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,7125000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack dan Minuman Rapat250 dos x 8.500,00 = 2.125.000,00_x000D_
+Belanja Makan dan Minuman Rapat250 dos x 20.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 21 . 39 ,Verifikasi Rencana Kerja (Renja) SKPD ,7805000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen rencana kerja SKPD terverifikasi_x000D_
+Target: 52 SKPD"
+1.06 . 1.06.01 . 21 . 39 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,7805000,
+1.06 . 1.06.01 . 21 . 39 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,680000,
+1.06 . 1.06.01 . 21 . 39 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,680000,"Belanja Penggandaan5,440 lembar x 125,00 = 680.000,00"
+1.06 . 1.06.01 . 21 . 39 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,7125000,
+1.06 . 1.06.01 . 21 . 39 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,7125000,"Belanja Makanan dan Minuman Rapat_x000D_
+Belanja Snack dan Minuman Rapat250 dos x 8.500,00 = 2.125.000,00_x000D_
+Belanja Makan dan Minuman Rapat250 dos x 20.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 21 . 44 ,Evaluasi terhadap Hasil RPJMD ,20000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen EvaluasiTarget: 1 Dokumen"
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 1 ,Belanja Pegawai ,12000000,
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 1 . 01 ,Honorarium PNS ,12000000,
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,12000000,"Belanja honorarium panitia pelaksana kegiatan_x000D_
+Belanja honorarium Tim Teknis1 bjj x 12.000.000,00 = 12.000.000,00"
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,8000000,
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2150000,
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2150000,"Belanja ATK1 ls x 2.150.000,00 = 2.150.000,00"
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3000000,"Belanja penggandaan dan foto copy20,000 lbr x 150,00 = 3.000.000,00"
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2850000,
+1.06 . 1.06.01 . 21 . 44 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2850000,"Belanja makan minum snak rapat_x000D_
+Belanja minum snak rapat100 ok x 8.500,00 = 850.000,00_x000D_
+Belanja makan minum rapat100 ok x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 45 ,Studi Potensi Batuan Mulia di Kawasan Sungai Oya Bantul ,55160000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen potensi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 1 ,Belanja Pegawai ,550000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 1 . 01 ,Honorarium PNS ,550000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,550000,"honor tim pengadaan barang dan jasa_x000D_
+honor pejabat pengadaan1 orang/kegiatan x 250.000,00 = 250.000,00_x000D_
+honor PPK1 orang/kegiatan x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,54610000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1110000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1110000,"belanja ATK1 ls x 1.110.000,00 = 1.110.000,00"
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1500000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1500000,"belanja penggandaan1 ls x 1.500.000,00 = 1.500.000,00"
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2000000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2000000,"belanja makan minum rapat100 orang/kegiatan x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 21 . 45 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"studi potensi batuan muliastudi potensi batuan mulia di kawasan sungai oyo Bantul1 ls x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 21 . 46 ,Pembangunan SIM Perencanaan ,375650000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Sistem informasi terintegrasi_x000D_
+Target: 1 SIM"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"Belanja honorarium panitia pelaksana kegiatan_x000D_
+Belanja honorarium PPK0 op x 0,00 = 0,00_x000D_
+Ketua0 ok x 0,00 = 0,00_x000D_
+Sekretaris0 ok x 0,00 = 0,00_x000D_
+Anggota0 ok x 0,00 = 0,00_x000D_
+Pejabat penerima barang0 ok x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,2600000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,925000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,925000,"Belanja ATK1 pkt x 925.000,00 = 925.000,00"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,250000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,250000,"Belanja penggandaan dan foto copy1 ls x 250.000,00 = 250.000,00"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1425000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1425000,"Belanja makan minum dan snak rapat_x000D_
+Belanja minum snak rapat50 ok x 8.500,00 = 425.000,00_x000D_
+Belanja makan minum rapat50 ok x 20.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 3 ,Belanja Modal ,373050000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,170650000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 3 . 29 . 01 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer Unit Jaringan ,40000000,"Belanja pengadaan unit komputer jaringan_x000D_
+Belanja pengadaan server1 unit x 40.000.000,00 = 40.000.000,00"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 3 . 29 . 02 ,Belanja Modal Peralatan dan Mesin - Pengadaan Personal Komputer ,130650000,"Belanja pengadaan apple macbook_x000D_
+Belanja pengadaan apple macbook pro dan air5 unit x 26.000.000,00 = 130.000.000,00_x000D_
+Belanja honor pejabat pengadaan apple macbook dan server1 ok x 300.000,00 = 300.000,00_x000D_
+Belanja honor PPK1 ok x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 3 . 91 ,Belanja Modal Aset Tak Berwujud ,202400000,
+1.06 . 1.06.01 . 21 . 46 . 5 . 2 . 3 . 91 . 01 ,Software ,202400000,"Belanja pembangunan SIM_x000D_
+Belanja Pembangunan SIM Perencanaan dan Pengendalian terintegrasi1 ls x 200.000.000,00 = 200.000.000,00_x000D_
+Belanja honor ketua panitia pengadaan SIM1 ok x 300.000,00 = 300.000,00_x000D_
+Belanja honor sekretaris panitia pengadaan SIM1 ok x 300.000,00 = 300.000,00_x000D_
+Belanja honor anggota panitia pengadaan SIM3 ok x 300.000,00 = 900.000,00_x000D_
+belanja honor panitia penerima barang3 ok x 300.000,00 = 900.000,00"
+1.06 . 1.06.01 . 21 . 47 ,Workshop Penyusunan Dokumen Perencanaan dan Pengendalian ,89200000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Bagian program yang mengikuti workshop_x000D_
+Target: 54 Orang"
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 1 ,Belanja Pegawai ,40000000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 1 . 01 ,Honorarium PNS ,40000000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,40000000,"Honorarium panitia penyelenggara_x000D_
+Ketua0 oh x 0,00 = 0,00_x000D_
+Sekretaris0 oh x 0,00 = 0,00A_x000D_
+nggota0 oh x 0,00 = 0,00_x000D_
+Uang saku peserta0 oh x 0,00 = 0,00_x000D_
+Honorarium Narasumber_x000D_
+Belanja honorarium Nara sumber regional32 jpl x 750.000,00 = 24.000.000,00_x000D_
+Honorarium Nara sumber Nasional8 jpl x 1.250.000,00 = 10.000.000,00_x000D_
+Honorarium Nara sumber lokal8 jpl x 750.000,00 = 6.000.000,00_x000D_
+Honorarium Moderator0 jpl x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,49200000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,33725000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,33725000,"Belanja ATK1 pkt x 33.725.000,00 = 33.725.000,00"
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,4000000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 03 . 14 ,Belanja Dekorasi ,1000000,"Belanja dekorasi2 kali x 500.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,3000000,"Belanja publikasi2 kali x 1.500.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1500000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1500000,"Belanja penggandaan dan foto copy10,000 lbr x 150,00 = 1.500.000,00"
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,9975000,
+1.06 . 1.06.01 . 21 . 47 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,9975000,"Belanja makan minum rapat_x000D_
+Belanja minum snak rapat350 ok x 8.500,00 = 2.975.000,00350 ok x 20.000,00 = 7.000.000,00"
+1.06 . 1.06.01 . 21 . 48 ,Studi Analisis Efektivitas Pelaksanaan Musrenbang Kecamatan ,57650000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen analisis_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 1 ,Belanja Pegawai ,650000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,650000,"Belanja honorarium Panitia pelaksana kegiatan_x000D_
+Belanja honorarium PPK1 op x 350.000,00 = 350.000,00_x000D_
+Belanja honorarium Pejabat Pengadaan1 op x 300.000,00 = 300.000,00_x000D_
+Belanja honorarium Tim Teknis_x000D_
+Ketua0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,57000000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,3150000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,3150000,"Belanja ATK1 pkt x 3.150.000,00 = 3.150.000,00"
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1000000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1000000,"Belanja penggandaan dan foto copy1 pkt x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2850000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2850000,"Belanja makan minum dan snack rapat_x000D_
+Belanja minum snak rapat100 ok x 8.500,00 = 850.000,00_x000D_
+Belanja makan minum rapat100 ok x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 21 . 48 . 5 . 2 . 2 . 21 . 01 ,Belanja Jasa Konsultansi Penelitian ,50000000,"Belanja jasa konsultasi_x000D_
+Belanja jasa konsultasi study efektifitas pelaksanaan musrenbang Kecamatan1 pkt x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 21 . 49 ,Studi Analisis Pemanfaatan Dana Alokasi Khusus ,57650000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen studi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 1 ,Belanja Pegawai ,650000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,650000,"Belanja Panitia pelaksana kegiatan_x000D_
+Belanja honorarium PPK1 op x 350.000,00 = 350.000,00_x000D_
+Belanja honorarium Pejabat pengadaan1 op x 300.000,00 = 300.000,00_x000D_
+Belanja honorarium Tim teknis_x000D_
+Ketua0 ok x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota0 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,57000000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,3150000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,3150000,"Belanja ATK1 pkt x 3.150.000,00 = 3.150.000,00"
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1000000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1000000,"Belanja penggandaan dan foto copy1 ls x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2850000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2850000,"Belanja makan minum snack rapat_x000D_
+Belanja minum snack rapat100 ok x 8.500,00 = 850.000,00_x000D_
+Belanja makan minum rapat100 ok x 20.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 21 . 49 . 5 . 2 . 2 . 21 . 01 ,Belanja Jasa Konsultansi Penelitian ,50000000,"Belanja jasa konsultasi_x000D_
+Belanja jasa konsultasi study pemanfaatan Dana Alokasi Khusus1 pkt x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 22 ,Program perencanaan pembangunan ekonomi ,1223710000,
+1.06 . 1.06.01 . 22 . 02 ,Penyusunan indikator ekonomi daerah ,133910000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : PDRB tahunan, PDRB triwulan, PDRB kecamatan, Gini ratio, tingkat inflasi, nilai tukar petani, ICOR_x000D_
+Target: 7 dokumen"
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 1 ,Belanja Pegawai ,120560000,
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 1 . 01 ,Honorarium PNS ,120560000,
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,120560000,"APBD_x000D_
+Honor Tim Pengarah Penyusunan PDRBKetua0 ob x 180.000,00 = 0,00_x000D_
+Sekretaris0 ob x 170.000,00 = 0,00_x000D_
+Anggota0 ob x 160.000,00 = 0,00_x000D_
+Honor Tim Teknis Penyusunan PDRB Tahunan dan Triwulan_x000D_
+Ketua11 ob x 160.000,00 = 1.760.000,00_x000D_
+Sekretaris11 ob x 150.000,00 = 1.650.000,00_x000D_
+Anggota121 ob x 140.000,00 = 16.940.000,00_x000D_
+Honor Tim Teknis Penyusunan PDRB Kecamatan_x000D_
+Ketua11 ob x 160.000,00 = 1.760.000,00_x000D_
+Sekretaris11 ob x 150.000,00 = 1.650.000,00_x000D_
+Anggota121 ob x 140.000,00 = 16.940.000,00_x000D_
+Honor Tim Teknis Penyusunan Gini Ratio_x000D_
+Ketua11 ob x 160.000,00 = 1.760.000,00_x000D_
+Sekretaris11 ob x 150.000,00 = 1.650.000,00_x000D_
+Anggota121 ob x 140.000,00 = 16.940.000,00_x000D_
+Honor Tim Teknis Penyusunan Inflasi_x000D_
+Ketua11 ob x 160.000,00 = 1.760.000,00_x000D_
+Sekretaris11 ob x 150.000,00 = 1.650.000,00_x000D_
+Anggota121 ob x 140.000,00 = 16.940.000,00_x000D_
+Honor Tim Teknis Penyusunan Nilai Tukar Petani_x000D_
+Ketua11 ob x 160.000,00 = 1.760.000,00_x000D_
+Sekretaris11 ob x 150.000,00 = 1.650.000,00_x000D_
+Anggota110 ob x 140.000,00 = 15.400.000,00_x000D_
+Honor Tim Teknis Penyusunan ICOR Kab. Bantul_x000D_
+Ketua11 ob x 160.000,00 = 1.760.000,00_x000D_
+Sekretaris11 ob x 150.000,00 = 1.650.000,00_x000D_
+Anggota121 ob x 140.000,00 = 16.940.000,00"
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,13350000,
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2650000,
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2650000,"APBD_x000D_
+Belanja Alat Tulis Kantor1 ls x 2.650.000,00 = 2.650.000,00"
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,5000000,
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,5000000,"APBD_x000D_
+Belanja Penggandaan1 ls x 5.000.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,5700000,
+1.06 . 1.06.01 . 22 . 02 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,5700000,"APBD_x000D_
+Makan Minum Rapat_x000D_
+Belanja makan minum rapat200 ok x 28.500,00 = 5.700.000,00"
+1.06 . 1.06.01 . 22 . 12 ,Implementasi pengembangan ekonomi daerah ,345090000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Workshop pengembangan potensi ekonomi daerah, dokumen studi_x000D_
+Target: 6 dokumen"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 1 ,Belanja Pegawai ,9500000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 1 . 01 ,Honorarium PNS ,9500000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,7700000,"APBD_x000D_
+Honorarium Tim Pengembangan Ekonomi LokalPengarah0 ob x 170.000,00 = 0,00_x000D_
+Ketua0 ob x 160.000,00 = 0,00_x000D_
+Sekretaris0 ob x 150.000,00 = 0,00_x000D_
+Anggota55 ob x 140.000,00 = 7.700.000,00_x000D_
+Honorarium Panitia Workshop_x000D_
+Ketua0 oh x 90.000,00 = 0,00_x000D_
+Sekretaris0 oh x 80.000,00 = 0,00_x000D_
+Anggota0 oh x 70.000,00 = 0,00_x000D_
+Honorarium Tim Studi Pengemb ekonomi Pedesaan di Kec. Bambanglipuro_x000D_
+Pengarah0 ob x 160.000,00 = 0,00_x000D_
+Ketua0 ob x 150.000,00 = 0,00Sekretaris0 ob x 140.000,00 = 0,00_x000D_
+Anggota0 ob x 130.000,00 = 0,00_x000D_
+Honorarium Tim Studi Pengemb Ekonomi Pedesaan di Kec. Sedayu_x000D_
+Pengarah0 ob x 160.000,00 = 0,00_x000D_
+Ketua0 ob x 150.000,00 = 0,00_x000D_
+Sekretaris0 ob x 140.000,00 = 0,00_x000D_
+Anggota0 ob x 130.000,00 = 0,00_x000D_
+Honorarium Tim Studi Pengemb Ekonomi Pedesaan di Kec. Piyungan_x000D_
+Pengarah0 ob x 160.000,00 = 0,00_x000D_
+Ketua0 ob x 150.000,00 = 0,00_x000D_
+Sekretaris0 ob x 140.000,00 = 0,00Anggota0 ob x 130.000,00 = 0,00_x000D_
+Honorarium tim Studi Akselerasi Pengembangan PUD Kab. Bantul_x000D_
+Pengarah0 ob x 160.000,00 = 0,00_x000D_
+Ketua0 ob x 150.000,00 = 0,00_x000D_
+Sekretaris0 ob x 140.000,00 = 0,00_x000D_
+Anggota0 ob x 130.000,00 = 0,00_x000D_
+Honorarium Tim Kajian Revitalisasi Pasar Pleret_x000D_
+Pengarah0 ob x 160.000,00 = 0,00_x000D_
+Ketua0 ob x 150.000,00 = 0,00_x000D_
+Sekretaris0 ob x 140.000,00 = 0,00_x000D_
+Anggota0 ob x 130.000,00 = 0,00_x000D_
+Honorarium Tim Studi Potensi Penerapan BLUD di Balai Benih Pertanian Barongan_x000D_
+Pengarah0 ob x 160.000,00 = 0,00_x000D_
+Ketua0 ob x 150.000,00 = 0,00_x000D_
+Sekretaris0 ob x 140.000,00 = 0,00_x000D_
+Anggota0 ob x 130.000,00 = 0,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,1800000,"APBD_x000D_
+Honorarium Pejabat Pengadaan6 pkt x 300.000,00 = 1.800.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,335590000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,9560000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,9560000,"APBD_x000D_
+Belanja Alat Tulis Kantor1 ls x 9.560.000,00 = 9.560.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,750000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,750000,"APBD_x000D_
+Belanja jasa publikasiBelanja spanduk3 pkt x 250.000,00 = 750.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,6200000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,6200000,"APBD_x000D_
+Belanja Penggandaan1 ls x 6.200.000,00 = 6.200.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,19380000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,13395000,"APBD_x000D_
+Belanja makan minum rapat470 ok x 28.500,00 = 13.395.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 11 . 05 ,Belanja Makanan dan Minuman Pelaksanaan Kegiatan ,5985000,"APBD_x000D_
+Belanja makan minum pelaksanaan kegiatan_x000D_
+Belanja makan minum pelaks kegiatan210 ok x 28.500,00 = 5.985.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 17 ,"Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS ",1000000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 17 . 02 ,Belanja Sosialisasi ,1000000,"APBD_x000D_
+Belanja sosialisasi melalui Bantul Radio2 pkt x 500.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,284000000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,284000000,"APBD_x000D_
+studi Pengemb Ekonomi Pedesaan di Kec. Bambanglipuro1 pkt x 46.000.000,00 = 46.000.000,00_x000D_
+Studi Pengemb Ekonomi Pedesaan di Kec. SedayuStudi Pengembangan Ekonomi Pedesaan di Kecamatan Sedayu1 Pkt x 46.000.000,00 = 46.000.000,00_x000D_
+Studi Pengemb ekonomi Pedesaan di Kec. PiyunganStudi Pengembangan Ekonomi Pedesaan di Kecamatan Piyungan1 Pkt x 46.000.000,00 = 46.000.000,00_x000D_
+Studi Akselerasi Pengemb PUD Kabupaten BantulStudi Akselerasi Pengembangan PUD Kabupaten Bantul1 Pkt x 46.000.000,00 = 46.000.000,00_x000D_
+Kajian Revitalisasi Pasar Pleret1 Pkt x 50.000.000,00 = 50.000.000,00_x000D_
+Studi Potensi Penerapan BLUD di Balai Benih Pertanian Barongan1 Pkt x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",9300000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,9300000,"APBD_x000D_
+Honorarium Narasumber Workshop PELNarasumber18 Jpl x 300.000,00 = 5.400.000,00_x000D_
+Narasumber Sosialisasi Melalui Media Massa2 Kali x 150.000,00 = 300.000,00_x000D_
+Moderator18 Jpl x 200.000,00 = 3.600.000,00"
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 36 ,Belanja Jasa Transport Petugas/Peserta ,5400000,
+1.06 . 1.06.01 . 22 . 12 . 5 . 2 . 2 . 36 . 02 ,Honorarium Peserta Rapat/Sosialisasi ,5400000,"APBD_x000D_
+Honorarium HarianUang Saku Peserta Workshop180 Oh x 30.000,00 = 5.400.000,00"
+1.06 . 1.06.01 . 22 . 22 ,Pengelolaan Pengendalian Inflasi Daerah ,20120000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Pengendalian harga di tingkat konsumen_x000D_
+Target: 5 lapangan usaha ekonomi"
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 1 ,Belanja Pegawai ,12240000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 1 . 01 ,Honorarium PNS ,12240000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,12240000,"APBD_x000D_
+Tim Pengarah TPID Kab. Bantul_x000D_
+Ketua I0 ob x 175.000,00 = 0,00_x000D_
+Ketua II0 ob x 165.000,00 = 0,00_x000D_
+Anggota24 ob x 160.000,00 = 3.840.000,00_x000D_
+Tim Pelaksana TPID Kab. Bantul_x000D_
+Ketua I0 ob x 160.000,00 = 0,00_x000D_
+Ketua II0 ob x 160.000,00 = 0,00_x000D_
+Sekretaris0 ob x 150.000,00 = 0,00_x000D_
+Anggota60 ob x 140.000,00 = 8.400.000,00_x000D_
+Sekretariat TPID Kab. Bantul0 ob x 100.000,00 = 0,00"
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,7880000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,640000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,640000,"APBD_x000D_
+Belanja Alat Tulis Kantor1 ls x 640.000,00 = 640.000,00"
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,665000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,665000,"APBD_x000D_
+Belanja Penggandaan1 ls x 665.000,00 = 665.000,00"
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,4275000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,4275000,"APBD_x000D_
+Belanja makan minum rapat150 ok x 28.500,00 = 4.275.000,00"
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,2300000,
+1.06 . 1.06.01 . 22 . 22 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,2300000,"APBD_x000D_
+Perjalanan Dinas ke Propinsi DIY/Kab/Kota_x000D_
+Perjalanan Dinas Dalam Daerah1 Ls x 2.300.000,00 = 2.300.000,00"
+1.06 . 1.06.01 . 22 . 27 ,Penyusunan Rencana Detail Kawasan Parisiwata (RDKP) ,198320000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen rencana detil kawasan pariwisata (Kretek, Sanden, Srandakan)_x000D_
+Target: 3 dokumen"
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 1 ,Belanja Pegawai ,675000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 1 . 01 ,Honorarium PNS ,675000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Panitia Pelaksana Kegiatan_x000D_
+Pengarah0 ob x 180.000,00 = 0,00_x000D_
+Ketua0 ob x 170.000,00 = 0,00_x000D_
+Sekretaris0 ob x 160.000,00 = 0,00_x000D_
+Anggota0 ob x 150.000,00 = 0,00"
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,675000,"APBD_x000D_
+Honor Tim Pengadaan Barang dan Jasa_x000D_
+Honorarium Panitia Pengadaan1 pkt x 675.000,00 = 675.000,00"
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,197645000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1000000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1000000,"APBD_x000D_
+Belanja Alat Tulis Kantor1 ls x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1800000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1800000,"APBD_x000D_
+Belanja Penggandaan1 ls x 1.800.000,00 = 1.800.000,00"
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,4845000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,4845000,"APBD_x000D_
+Belanja makan minum rapat170 ok x 28.500,00 = 4.845.000,00"
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,190000000,
+1.06 . 1.06.01 . 22 . 27 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,190000000,"APBD_x000D_
+Belanja jasa konsultansi Perencanaan_x000D_
+Belanja jasa penyusunan RDKP Kec. Imogiri, Kasihan dan Sewon1 pkt x 190.000.000,00 = 190.000.000,00"
+1.06 . 1.06.01 . 22 . 32 ,Studi Pengembangan Rumah Potong Hewan ( RPH ) ,51270000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Segoroyoso_x000D_
+Keluaran : Dokumen studi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 1 ,Belanja Pegawai ,300000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 1 . 01 ,Honorarium PNS ,300000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Tim Studi Pengembangan Rumah Potong Hewan (RPH)_x000D_
+Pengarah0 Org/Bulan x 160.000,00 = 0,00_x000D_
+Ketua0 Org/Bln x 150.000,00 = 0,00_x000D_
+Sekretaris0 Org/Bln x 140.000,00 = 0,00_x000D_
+Anggota0 Org/Bln x 130.000,00 = 0,00"
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,300000,"APBD_x000D_
+Pejabat Pengadaan1 Org/Paket x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,50970000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,250000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,250000,"APBD_x000D_
+Belanja Alat Tulis Kantor1 Ls x 250.000,00 = 250.000,00"
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,150000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,150000,"APBD_x000D_
+Belanja PenggandaanPenggandaan1 Ls x 150.000,00 = 150.000,00"
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,570000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,570000,"APBD_x000D_
+Makan Minum Rapat20 Ok x 28.500,00 = 570.000,00"
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 22 . 32 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"APBD_x000D_
+StudinPengembangan Rumah Potong Hewan (RPH) Segoroyoso_x000D_
+Studi Pengembangan Rumah Potong Hewan (RPH) Segoroyoso1 Paket x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 22 . 33 ,Studi Analisis Kontribusi Sektor Pariwisata terhadap Perekonomian Daerah,100000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen dan Data sumbangan pariwisata_x000D_
+Target: 1 Dokumen/ Set data"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 1 ,Belanja Pegawai ,1025000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 1 . 01 ,Honorarium PNS ,1025000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,1025000,"Honorarium Panitia Pengadaan1 Paket x 675.000,00 = 675.000,00_x000D_
+Honorarium PPK1 ok x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,98975000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,677500,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,677500,"Belanja Alat Tulis Kantor1 Ls x 677.500,00 = 677.500,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,250000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,250000,"Belanja Spanduk1 Paket x 250.000,00 = 250.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,900000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,900000,"Belanja Penggandaan1 Ls x 900.000,00 = 900.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,3847500,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1710000,"Belanja Makanan dan Minuman60 om x 28.500,00 = 1.710.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 11 . 05 ,Belanja Makanan dan Minuman Pelaksanaan Kegiatan ,2137500,"Belanja Makan dan Minum_x000D_
+Belanja Makanan dan Minuman75 om x 28.500,00 = 2.137.500,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,18500000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,18500000,"Belanja Perjalanan Dinas Luar Daerah1 Ls x 18.500.000,00 = 18.500.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,70000000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,70000000,"Belanja Konsultansi PerencanaanStudi Analisis Kontribusi Sektor Pariwisata terhadap Perekonomian Daerah1 Ls x 70.000.000,00 = 70.000.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",4800000,
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,3000000,"Honorarium Narasumber/ Moderator_x000D_
+Honorarium Narasumber6 Jpl x 300.000,00 = 1.800.000,00_x000D_
+Honorarium Moderator6 Jpl x 200.000,00 = 1.200.000,00"
+1.06 . 1.06.01 . 22 . 33 . 5 . 2 . 2 . 35 . 05 ,Jasa Peserta Seminar/Simposium /Workshop/Sosialisasi ,1800000,"Uang saku peserta pelatihan60 orang x 30.000,00 = 1.800.000,00"
+1.06 . 1.06.01 . 22 . 34 ,Implementasi Perlindungan Lahan Pertanian Pangan Berkelanjutan ,375000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Peta rencana kawasan perlindungan lahan pertanian pangan_x000D_
+Target: 1 set peta"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 1 ,Belanja Pegawai ,2925000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 1 . 01 ,Honorarium PNS ,2925000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,1300000,"Honorium PNS_x000D_
+Honorarium Tim Teknis10 ob x 130.000,00 = 1.300.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,1625000,"Honorarium Tim Pengadan Barang dan Jasa_x000D_
+Ketua1 ob x 375.000,00 = 375.000,00_x000D_
+Sekretaris1 ob x 350.000,00 = 350.000,00_x000D_
+Anggota1 ob x 325.000,00 = 325.000,00_x000D_
+PPK1 ob x 575.000,00 = 575.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,372075000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,937500,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,937500,"Belanja Alat Tulis Kantor1 ls x 937.500,00 = 937.500,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 02 ,Belanja Bahan/Material ,23000000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 02 . 12 ,Belanja alat-alat/perlengkapan ,23000000,"Atribut Peserta Sosialisasi230 pkt x 100.000,00 = 23.000.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,250000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,250000,"Belanja jasa publikasi_x000D_
+Belanja spanduk1 pkt x 250.000,00 = 250.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2000000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2000000,"Belanja penggandaan1 ls x 2.000.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,10687500,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,3562500,"Belanja makan minum rapat125 ok x 28.500,00 = 3.562.500,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 11 . 05 ,Belanja Makanan dan Minuman Pelaksanaan Kegiatan ,7125000,"Belanja makan minum sosialisasi250 ok x 28.500,00 = 7.125.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,25300000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,3000000,"Belanja perjalanan dinas dalam daerah1 ls x 3.000.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,22300000,"Belanja perjalanan dinas luar daerah1 ls x 22.300.000,00 = 22.300.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,300000000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,300000000,"Belanja jasa konsultansi perencanaan_x000D_
+Penyusunan Peta Rencana Kawasan Perlindungan Lahan Pertanian Pangan Berkelanjutan (PLP2B)1 pkt x 300.000.000,00 = 300.000.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",9900000,
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,3000000,"Honorarium Narasumber dan Moderator_x000D_
+Narasumber6 jpl x 300.000,00 = 1.800.000,00_x000D_
+Moderator6 jpl x 200.000,00 = 1.200.000,00"
+1.06 . 1.06.01 . 22 . 34 . 5 . 2 . 2 . 35 . 05 ,Jasa Peserta Seminar/Simposium /Workshop/Sosialisasi ,6900000,"Uang Saku Peserta Sosialisasi230 ok x 30.000,00 = 6.900.000,00"
+1.20 . 1.06.01 . 23 ,Program optimalisasi pemanfaatan teknologi informasi ,150000000,
+1.20 . 1.06.01 . 23 . 02 ,Pengembangan Sistem Informasi Manajemen Perkantoran ,150000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : SIM Perkantoran_x000D_
+Target: 1 SIM"
+1.20 . 1.06.01 . 23 . 02 . 5 . 2 . 3 ,Belanja Modal ,150000000,
+1.20 . 1.06.01 . 23 . 02 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,125000000,
+1.20 . 1.06.01 . 23 . 02 . 5 . 2 . 3 . 29 . 06 ,Belanja Modal Peralatan dan Mesin - Pengadaan Peralatan Jaringan ,125000000,"Belanja Modal Hardware_x000D_
+Belanja Modal PC/ Komputer Tablet1 paket x 123.625.000,00 = 123.625.000,00_x000D_
+Belanja Alat Tulis Kantor1 Ls x 112.500,00 = 112.500,00_x000D_
+Belanja Makanan dan Minuman25 dos x 8.500,00 = 212.500,00_x000D_
+Honorarium Tim Pengadaan_x000D_
+Pejabat Pembuat Komitmen1 ob x 400.000,00 = 400.000,00_x000D_
+Pejabat Pengadaan1 ob x 350.000,00 = 350.000,00_x000D_
+Pemeriksa/ Penerima Barang1 ob x 300.000,00 = 300.000,00"
+1.20 . 1.06.01 . 23 . 02 . 5 . 2 . 3 . 91 ,Belanja Modal Aset Tak Berwujud ,25000000,
+1.20 . 1.06.01 . 23 . 02 . 5 . 2 . 3 . 91 . 01 ,Software ,25000000,"Belanja Software_x000D_
+Belanja Sofware1 paket x 25.000.000,00 = 25.000.000,00"
+1.06 . 1.06.01 . 23 ,Program perencanaan sosial dan budaya ,996656500,
+1.06 . 1.06.01 . 23 . 04 ,"Monitoring, evaluasi dan pelaporan ",19456500,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten bantul_x000D_
+Keluaran : Dokumen monev_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,19456500,
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1190000,
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1190000,"belanja alat tulis kantorAlat Tulis kantor1 pkt x 1.190.000,00 = 1.190.000,00"
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2329000,
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2329000,"Belanja Penggandaan_x000D_
+Foto copi /Penggandaan1 ls x 2.329.000,00 = 2.329.000,00"
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,13137500,
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,13137500,"belanja makan minum rapat_x000D_
+makan minum rapat455 or x 20.000,00 = 9.100.000,00_x000D_
+snak minum rapat475 or x 8.500,00 = 4.037.500,00"
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",2800000,
+1.06 . 1.06.01 . 23 . 04 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,2800000,"honor narasumber8 jpl x 250.000,00 = 2.000.000,00_x000D_
+Moderator4 jpl x 200.000,00 = 800.000,00"
+1.06 . 1.06.01 . 23 . 05 ,Penyusunan dan analisis indeks pembangunan manusia (IPM/HDI) ,40360000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen IPM_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 1 ,Belanja Pegawai ,23120000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 1 . 01 ,Honorarium PNS ,23120000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,23120000,"Honor Tim Teknis_x000D_
+Ketua8 ob x 150.000,00 = 1.200.000,00_x000D_
+Sekretaris8 ob x 140.000,00 = 1.120.000,00_x000D_
+Anggota 20 org160 ob x 130.000,00 = 20.800.000,00"
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,17240000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,905000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,905000,"Alat Tulis Kantor1 pkt x 905.000,00 = 905.000,00"
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2000000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2000000,"Belanja Penggandaan_x000D_
+Penggandaan dan F. copi1 ls x 2.000.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,1250000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 07 . 03 ,Belanja Sewa Ruang Rapat/Pertemuan ,1250000,"sewa ruang rapat_x000D_
+sewa tempat rapat / pertemuan1 pkt x 1.250.000,00 = 1.250.000,00"
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,11685000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,11685000,"Belanja makan minum rapat_x000D_
+snak minum rapat410 or x 8.500,00 = 3.485.000,00_x000D_
+makan minum rapat410 or x 20.000,00 = 8.200.000,00"
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",1400000,
+1.06 . 1.06.01 . 23 . 05 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,1400000,"Honor Narasumber4 Jpl x 250.000,00 = 1.000.000,00_x000D_
+Honor Moderator2 jpl x 200.000,00 = 400.000,00"
+1.06 . 1.06.01 . 23 . 08 ,Koordinasi program-program pemerintahan dan pemberdayaan ,283595000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Data - data program pemberdayaan dan pemerintahan_x000D_
+Target: 1 laporan"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 1 ,Belanja Pegawai ,3250000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 1 . 01 ,Honorarium PNS ,3250000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Pelaksana Kegiatan Optimalisasi Program_x000D_
+ - program pemerintahan dan Pemberdayaan_x000D_
+Ketua Tim10 ob x 0,00 = 0,00_x000D_
+Sekretaris10 ob x 0,00 = 0,00_x000D_
+Anggota80 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,3250000,"APBD_x000D_
+Honor PPK, Pejabat Pengadaan dan Tim Teknis Study Pengembangan Potensi Kawasan Goa JepangHonor PPK1 orang x 350.000,00 = 350.000,00_x000D_
+Honor Pejabat Pengadaan1 orang x 300.000,00 = 300.000,00_x000D_
+Honor Tim Teknis18 ob x 0,00 = 0,00_x000D_
+Honor PPK, Pejabat Pengadaan dan Tim Teknis Study Efektivitas Penanganan Kelompok difabel di Kabupaten BantulHonor PPK1 orang x 350.000,00 = 350.000,00_x000D_
+Honor Pejabat Pengadaan1 orang x 300.000,00 = 300.000,00H_x000D_
+onor Tim Teknis18 ob x 0,00 = 0,00_x000D_
+Honor PPK, Pejabat Pengadaan dan Tim Teknis Study Penanganan Tindak Kekerasan Terhadap Perempuan Dan AnakHonor PPK1 orang x 350.000,00 = 350.000,00_x000D_
+Honor Pejabat Pengadaan1 orang x 300.000,00 = 300.000,00_x000D_
+Honor Tim Teknis18 ob x 0,00 = 0,00_x000D_
+Honor PPK, Pejabat Pengadaan dan Tim Teknis Study Identifikasi Kebutuhan minat Pencari Kerja Terhadap Keberadaan dan pembangunan industri di Kabupaten BantulHonor PPK1 ok x 350.000,00 = 350.000,00_x000D_
+Honor Pejabat Pengadaan1 ok x 300.000,00 = 300.000,00_x000D_
+Honor Tim Teknis28 ob x 0,00 = 0,00_x000D_
+Honor PPK, Pejabat Pengadaan dan Tim Teknis Study Identifikasi Kebutuhan Ketrampilan Karyawan bagi industri perhotelan di Bantul dan sekitarnyaHonor PPK1 ok x 350.000,00 = 350.000,00_x000D_
+Honor Pejabat Pengadaan1 ok x 300.000,00 = 300.000,00_x000D_
+Honor Tim Teknis28 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,280345000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,14245000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,5445000,"APBD_x000D_
+Belanja ATKATK1 ls x 5.445.000,00 = 5.445.000,00"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 01 . 06 ,Belanja Bahan Bakar Minyak/Gas ,8800000,"APBD_x000D_
+Belanja Bahan Bakar Minyak_x000D_
+Belanja BBM800 liter x 11.000,00 = 8.800.000,00"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,6500000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,6500000,"APBD_x000D_
+Belanja PenggandaanPenggandaan materi, dokumen, dll1 ls x 6.500.000,00 = 6.500.000,00"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,39600000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,39600000,"APBD_x000D_
+Belanja Makanan dan minuman rapat_x000D_
+Belanja Makan rapat1,300 paket x 20.000,00 = 26.000.000,00_x000D_
+Belanja snack rapat1,600 paket x 8.500,00 = 13.600.000,00"
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,220000000,
+1.06 . 1.06.01 . 23 . 08 . 5 . 2 . 2 . 21 . 01 ,Belanja Jasa Konsultansi Penelitian ,220000000,"APBD_x000D_
+Belanja Jasa Penelitian Study Study Pengembangan Potensi Kawasan Goa JepangBelanja Jasa Penelitian Pihak ketiga1 paket x 45.000.000,00 = 45.000.000,00_x000D_
+Belanja Jasa Penelitian Study Efektivitas Penanganan Kelompok difabel di Kabupaten BantulBelanja Jasa Penelitian Pihak ketiga1 paket x 40.000.000,00 = 40.000.000,00_x000D_
+Belanja Jasa Penelitian Study Penanganan Tindak Kekerasan Terhadap Perempuan Dan AnakBelanja Jasa Penelitian Pihak ketiga1 paket x 45.000.000,00 = 45.000.000,00_x000D_
+Belanja Jasa Penelitian Study Identifikasi Kebutuhan minat Pencari Kerja Terhadap Keberadaan dan pembangunan industri di Kabupaten BantulBelanja Jasa Penelitian Pihak ketiga1 paket x 45.000.000,00 = 45.000.000,00_x000D_
+Belanja Jasa Penelitian Study Identifikasi Kebutuhan Ketrampilan Karyawan bagi industri perhotelan di Bantul dan sekitarnyaBelanja Jasa Penelitian Pihak ketiga1 paket x 45.000.000,00 = 45.000.000,00"
+1.06 . 1.06.01 . 23 . 10 ,Pelaksanaan TKPK ,72245000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen LP2KD_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 1 ,Belanja Pegawai ,32550000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium tim Pengarah Kegiatan_x000D_
+Penanggungjawab10 ob x 0,00 = 0,00_x000D_
+Ketua Tim10 ob x 0,00 = 0,00_x000D_
+Wakil Ketua10 ob x 0,00 = 0,00_x000D_
+Sekretaris10 ob x 0,00 = 0,00_x000D_
+Wakil Sekretaris10 ob x 0,00 = 0,00_x000D_
+Anggota250 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,650000,"APBD_x000D_
+Honorarium Tim Pengadaan barang dan jasa_x000D_
+Honor PPK1 ok x 350.000,00 = 350.000,00_x000D_
+Pejabat Pengadaan1 ok x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 1 . 02 ,Honorarium Non PNS ,31900000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 1 . 02 . 03 ,Honorarium Pegawai Kontrak ,31900000,"APBD_x000D_
+Honor Tenaga Kontrak Analisis Data22 ob x 1.450.000,00 = 31.900.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,39695000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2350000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2350000,"APBD_x000D_
+Belanja ATK1 ls x 2.350.000,00 = 2.350.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,1000000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,1000000,"APBD_x000D_
+Belanja Publikasi1 paket x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1870000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1870000,"APBD_x000D_
+Belanja Penggandaanfotokopi, penggandaan bahan dan laporan1 ls x 1.870.000,00 = 1.870.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,19375000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,19375000,"APBD_x000D_
+Belanja Makanan dan minuman Rapat_x000D_
+Belanja makan rapat650 paket x 20.000,00 = 13.000.000,00_x000D_
+Belanja snack rapat750 paket x 8.500,00 = 6.375.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 32 ,Belanja Jaminan Pemeliharaan Kesehatan ,1100000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 32 . 01 ,Belanja Jaminan Pemeliharaan Kesehatan ,1100000,"APBD_x000D_
+Belanja kepesertaan BPJS_x000D_
+Belanja Premi kepesertaan BPJS22 ob x 50.000,00 = 1.100.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",5000000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,5000000,"APBD_x000D_
+Jasa Narasumber/Moderator_x000D_
+Honor Narasumber/moderator20 jpl x 250.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 45 ,Belanja Jasa Pengadaan Aplikasi ,9000000,
+1.06 . 1.06.01 . 23 . 10 . 5 . 2 . 2 . 45 . 01 ,Belanja Jasa Pengadaan Aplikasi ,9000000,"APBD_x000D_
+Belanja Aplikasi Komputer_x000D_
+Belanja Aplikasi Statplanet1 paket x 9.000.000,00 = 9.000.000,00"
+1.06 . 1.06.01 . 23 . 14 ,Monitoring dan Evaluasi SDGs ,27690000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen capaian MDGs_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 1 ,Belanja Pegawai ,600000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 1 . 01 ,Honorarium PNS ,600000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,600000,"Honor Tim PengarahAnggota pelaksana Teknis 1 or 4 bln4 ob x 150.000,00 = 600.000,00"
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,14590000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,849500,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,849500,"Alat tulis Kantor1 pkt x 849.500,00 = 849.500,00"
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2000000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2000000,"Penggandaan dan F.copiPenggandaan dan F. Copi1 ls x 2.000.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,9640500,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,9640500,"Makan minum rapat332 or x 20.000,00 = 6.640.000,00_x000D_
+snak minum rapat353 or x 8.500,00 = 3.000.500,00"
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",2100000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,2100000,"honor NArasumber dan moderator_x000D_
+Honor narasumber6 jpl x 250.000,00 = 1.500.000,00_x000D_
+Honor moderator3 jpl x 200.000,00 = 600.000,00"
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 3 ,Belanja Modal ,12500000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,12500000,
+1.06 . 1.06.01 . 23 . 14 . 5 . 2 . 3 . 29 . 02 ,Belanja Modal Peralatan dan Mesin - Pengadaan Personal Komputer ,12500000,"Belanja KomputerBelanja PC1 unit x 12.500.000,00 = 12.500.000,00"
+1.06 . 1.06.01 . 23 . 22 ,Penyusunan Rencana Aksi Daerah (RAD) Pangan dan Gizi ,43690000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen rencana aksi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 1 ,Belanja Pegawai ,2400000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 1 . 01 ,Honorarium PNS ,2400000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,2400000,"Honor tim PengarahAnggota 4 org 4 bln16 ob x 150.000,00 = 2.400.000,00"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,25290000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1000000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1000000,"Alat Tulis Kantor1 pkt x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3000000,"Belanja PenggandaanPenggandaan dan F. copi1 ls x 3.000.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,3750000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 07 . 03 ,Belanja Sewa Ruang Rapat/Pertemuan ,3750000,"Sewa ruang rapat3 pkt x 1.250.000,00 = 3.750.000,00"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,12640000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,12640000,"Belanja makan minum rapat_x000D_
+snak minum rapat480 or x 8.500,00 = 4.080.000,00_x000D_
+makan minum rapat428 or x 20.000,00 = 8.560.000,00"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",4900000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,4900000,"Honor Narasumber dan moderatorTenaga Ahli6 ob x 500.000,00 = 3.000.000,00_x000D_
+Narassumber6 jpl x 250.000,00 = 1.500.000,00_x000D_
+moderator2 jpl x 200.000,00 = 400.000,00"
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 3 ,Belanja Modal ,16000000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 3 . 29 ,Belanja Modal Peralatan dan Mesin - Pengadaan Komputer ,16000000,
+1.06 . 1.06.01 . 23 . 22 . 5 . 2 . 3 . 29 . 02 ,Belanja Modal Peralatan dan Mesin - Pengadaan Personal Komputer ,16000000,"Belanja Laptop_x000D_
+PEnggadaan Laptop1 unit x 12.000.000,00 = 12.000.000,00_x000D_
+balanja ups untuk PC2 unit x 2.000.000,00 = 4.000.000,00"
+1.06 . 1.06.01 . 23 . 23 ,Studi Implementasi Perilaku Hidup Bersih dan Sehat (PHBS) pada Kalangan Pelajar di Kabupaten Bantul,52770000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen studi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 1 ,Belanja Pegawai ,600000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 1 . 01 ,Honorarium PNS ,600000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,600000,"Honor Panitia Penggadaan1 pkt x 250.000,00 = 250.000,00_x000D_
+honor ppk1 pkt x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,52170000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,225000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,225000,"Alat Tulis Kantor1 ls x 225.000,00 = 225.000,00"
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,150000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,150000,"PengandaanPenggandaan dan F.copi1 ls x 150.000,00 = 150.000,00"
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1795000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1795000,"Belanja makan minum rapat_x000D_
+snak minum rapat70 or x 8.500,00 = 595.000,00_x000D_
+makan minum rapat60 or x 20.000,00 = 1.200.000,00"
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 23 . 23 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"Balanja jasa konsultasi perencanaan_x000D_
+jasa konsultasi perencanaan1 pkt x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 23 . 24 ,Studi Pengawasan Makanan Jajanan Anak Sekolah di Kabupaten Bantul ,52670000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen studi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 1 ,Belanja Pegawai ,600000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 1 . 01 ,Honorarium PNS ,600000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,600000,"Honor Panitia PEnggadaan1 pkt x 250.000,00 = 250.000,00_x000D_
+honor ppk1 pkt x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,52070000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,225000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,225000,"Alat Tulis KAntor1 pkt x 225.000,00 = 225.000,00"
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,50000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,50000,"PenggandaanPenggandaan dan F. Copi1 pkt x 50.000,00 = 50.000,00"
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1795000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1795000,"Belanja makan minum rapat_x000D_
+snak minum rapat70 or x 8.500,00 = 595.000,00_x000D_
+makan minum rapat60 ob x 20.000,00 = 1.200.000,00"
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 23 . 24 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"Belanja jasa konsultasi Perencanaanjasa konsultasi perencanaan1 pkt x 50.000.000,00 = 50.000.000,00"
+1.06 . 1.06.01 . 23 . 25 ,Studi Kelayakan Pengembangan Kawasan Wisata berbasis Religi dan ,47630000,"Sumber Dana : Budaya di Kecamatan Pleret_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen studi_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 1 ,Belanja Pegawai ,600000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 1 . 01 ,Honorarium PNS ,600000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"Honor Tim Pelaksana kegiatan_x000D_
+Ketua0 ob x 0,00 = 0,00_x000D_
+Sekretaris0 ob x 0,00 = 0,00_x000D_
+Anggota 10 orang0 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,600000,"honor Panitia Penggadaan1 pkt x 250.000,00 = 250.000,00_x000D_
+honor ppk1 pkt x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,47030000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,300000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,300000,"Alat Tulis Kantoralat Tulis Kantor1 ls x 300.000,00 = 300.000,00"
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,50000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,50000,"PEnggandaan dan F. copi1 ls x 50.000,00 = 50.000,00"
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1680000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1680000,"Belanja makan minum rapatsnak minum rapat80 or x 8.500,00 = 680.000,00_x000D_
+makan minum rapat50 or x 20.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,45000000,
+1.06 . 1.06.01 . 23 . 25 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,45000000,"Biaya jasa Konsultasi Perencanaan_x000D_
+Jasa konsultasi Perencanaan1 pkt x 45.000.000,00 = 45.000.000,00"
+1.06 . 1.06.01 . 23 . 27 ,Monitoring dan Evaluasi Keberhasilan Program-program Penanggulangan Kemiskinan,214800000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen laporan_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 1 ,Belanja Pegawai ,162900000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 1 . 01 ,Honorarium PNS ,650000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Panitia Pelaksana Kegiatan_x000D_
+Ketua Tim10 ob x 0,00 = 0,00_x000D_
+Sekretaris10 ob x 0,00 = 0,00_x000D_
+Anggota230 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,650000,"APBD_x000D_
+Pejabat Pengadaan_x000D_
+Honor Pejabat Pengadaan1 orang x 300.000,00 = 300.000,00_x000D_
+Honor PPK1 orang x 350.000,00 = 350.000,00_x000D_
+Honor Tim Seleksi4 orang x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 1 . 02 ,Honorarium Non PNS ,162250000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 1 . 02 . 03 ,Honorarium Pegawai Kontrak ,162250000,"APBD_x000D_
+Honorarium Tenaga Kontrak_x000D_
+Honor Tenaga Kontrak Pendamping Teknis di Kabupaten33 ob x 1.450.000,00 = 47.850.000,00_x000D_
+Honor Tenaga Kontrak Pendamping Kecamatan33 ob x 1.300.000,00 = 42.900.000,00_x000D_
+Honor Tenaga Kontrak Pendamping Administrasi di Kabupaten22 ob x 1.300.000,00 = 28.600.000,00_x000D_
+Honor Tenaga Kontrak Pendamping Desa33 ob x 1.300.000,00 = 42.900.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,51900000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,9850000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,3250000,"APBD_x000D_
+Belanja Alat Tulis KantorBelanja ATK1 ls x 3.250.000,00 = 3.250.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 01 . 06 ,Belanja Bahan Bakar Minyak/Gas ,6600000,"APBD_x000D_
+Belanja Bahan Bakar Minyak_x000D_
+Belanja BBM600 liter x 11.000,00 = 6.600.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,5000000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,5000000,"APBD_x000D_
+Belanja Penggandaan_x000D_
+Penggandaan dokumen, formulir kuisioner, dll1 ls x 5.000.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,18500000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,18500000,"APBD_x000D_
+Belanja Makanan dan minuman Rapat_x000D_
+Belanja makan minum rapat500 paket x 20.000,00 = 10.000.000,00_x000D_
+Belanja Snack minum rapat1,000 paket x 8.500,00 = 8.500.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 32 ,Belanja Jaminan Pemeliharaan Kesehatan ,6050000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 32 . 01 ,Belanja Jaminan Pemeliharaan Kesehatan ,6050000,"APBD_x000D_
+Belanja Kepesertaan BPJSbelanja premi asuransi BPJS121 ob x 50.000,00 = 6.050.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",12500000,
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,5000000,"APBD_x000D_
+Honor Narasumber/moderator_x000D_
+Honor narasumber20 jpl x 250.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 23 . 27 . 5 . 2 . 2 . 35 . 05 ,Jasa Peserta Seminar/Simposium /Workshop/Sosialisasi ,7500000,"APBD_x000D_
+jasa peserta sosialisasi/koordinasi/workshop/FGD250 oh x 30.000,00 = 7.500.000,00"
+1.06 . 1.06.01 . 23 . 28 ,Penyusunan Peraturan Bupati Tindak Lanjut Perda Penanggulangan Kemiskinan,10200000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Peraturan Bupati_x000D_
+Target: 1 Peraturan bupati"
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Tim Penyusun Peraturan Bupati_x000D_
+Ketua Tim10 ob x 0,00 = 0,00_x000D_
+Sekretaris10 ob x 0,00 = 0,00_x000D_
+Anggota110 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,10200000,
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1500000,
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1500000,"APBD_x000D_
+Belanja Alat Tulis KantorAlat Tulis Kantor1 ls x 1.500.000,00 = 1.500.000,00"
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 . 06 . 01 ,Belanja Cetak ,3000000,"APBD_x000D_
+Belanja Cetak1 ls x 3.000.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,5700000,
+1.06 . 1.06.01 . 23 . 28 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,5700000,"APBD_x000D_
+Belanja makanan dan minuman rapat_x000D_
+Makan minum rapat200 paket x 20.000,00 = 4.000.000,00_x000D_
+Snack minum rapat200 paket x 8.500,00 = 1.700.000,00"
+1.06 . 1.06.01 . 23 . 29 ,Penyusunan Rencana Aksi Daerah (RAD) Kabupaten Layak Anak ,14930000,Sumber Dana : APBDLokasi Kegiatan : Kabupaten BantulKeluaran : Dokumen Rencana AksiTarget: 1 Dokumen
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Tim Pelaksana Kegiatan_x000D_
+Ketua Tim7 ob x 0,00 = 0,00_x000D_
+Sekretaris7 ob x 0,00 = 0,00_x000D_
+Anggota70 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,14930000,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,2305000,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2305000,"APBD_x000D_
+Belanja ATK_x000D_
+Belanja Alat Tulis Kantor1 ls x 2.305.000,00 = 2.305.000,00"
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3000000,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3000000,"APBD_x000D_
+Belanja penggandaan1 ls x 3.000.000,00 = 3.000.000,00"
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,7125000,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,7125000,"APBD_x000D_
+Belanja Makanan dan Minuman Rapat_x000D_
+Snack minum rapat250 paket x 8.500,00 = 2.125.000,00_x000D_
+makan minum rapat250 paket x 20.000,00 = 5.000.000,00"
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",2500000,
+1.06 . 1.06.01 . 23 . 29 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,2500000,"APBD_x000D_
+Jasa Narasumber/moderator_x000D_
+Honor narasumber/moderator10 jpl x 250.000,00 = 2.500.000,00"
+1.06 . 1.06.01 . 23 . 30 ,Monitoring dan Evaluasi Bidang Pemerintahan ,16620000,"Sumber Dana : APBD_x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Dokumen monev_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 1 ,Belanja Pegawai ,0,
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 1 . 01 ,Honorarium PNS ,0,
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,0,"APBD_x000D_
+Honorarium Panitia Pelaksana Kegiatan_x000D_
+Ketua Tim11 ob x 0,00 = 0,00_x000D_
+Sekretaris11 ob x 0,00 = 0,00_x000D_
+Anggota132 ob x 0,00 = 0,00"
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,16620000,
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,4370000,
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,2500000,"APBD_x000D_
+Belanja Alat Tulis Kantor_x000D_
+Belanja ATK1 ls x 2.500.000,00 = 2.500.000,00"
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 01 . 06 ,Belanja Bahan Bakar Minyak/Gas ,1870000,"APBD_x000D_
+Belanja Bahan Bakar Minyak_x000D_
+Belanja BBM170 liter x 11.000,00 = 1.870.000,00"
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,2000000,
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,2000000,"APBD_x000D_
+Belanja PenggandaanPenggandaan materi, dokumen, dan jilid1 ls x 2.000.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,10250000,
+1.06 . 1.06.01 . 23 . 30 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,10250000,"APBD_x000D_
+Belanja Makanan dan Minuman Rapat_x000D_
+Makan minum rapat300 paket x 20.000,00 = 6.000.000,00_x000D_
+Snack minum rapat500 paket x 8.500,00 = 4.250.000,00"
+1.06 . 1.06.01 . 23 . 31 ,Studi Kecukupan Tenaga Pendidik dan Kependidikan ,100000000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Data Kebutuhan tenaga pendidik dan kependidikan_x000D_
+Target: 1 set data"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 1 ,Belanja Pegawai ,1025000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 1 . 01 ,Honorarium PNS ,1025000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,1025000,"honor Panitia PEngadaan_x000D_
+ketua1 op x 250.000,00 = 250.000,00_x000D_
+sekretaris1 op x 225.000,00 = 225.000,00_x000D_
+anggota1 op x 200.000,00 = 200.000,00_x000D_
+PPK1 op x 350.000,00 = 350.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,98975000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,485000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,485000,"belanja alat tulis kantor_x000D_
+Alat Tulis kantor1 pkt x 485.000,00 = 485.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,500000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,500000,"Belanja PengandaanFoto copi/ Penggandaan1 ls x 500.000,00 = 500.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,2000000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 07 . 03 ,Belanja Sewa Ruang Rapat/Pertemuan ,2000000,"sewa ruang rapat_x000D_
+sewa gedung / ruang tempat rapat2 pkt x 1.000.000,00 = 2.000.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,5190000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,5190000,"makan minum rapatsnak minum rapat180 or x 8.500,00 = 1.530.000,00183 or x 20.000,00 = 3.660.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,22000000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,22000000,"belanja perjalanan dinas luar daerah_x000D_
+perjalanan gol IV4 op x 1.600.000,00 = 6.400.000,00_x000D_
+perjalanan gol III8 op x 1.410.000,00 = 11.280.000,00_x000D_
+Tiket / Transportasi6 op x 720.000,00 = 4.320.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,65000000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,65000000,"belanja jasa konsultasijasa konsultasi1 pkt x 65.000.000,00 = 65.000.000,00"
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",3800000,
+1.06 . 1.06.01 . 23 . 31 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,3800000,"honor narasumber dan moderator_x000D_
+narasumber4 jpl x 500.000,00 = 2.000.000,00_x000D_
+narasumber6 jpl x 250.000,00 = 1.500.000,00_x000D_
+moderator2 jpl x 150.000,00 = 300.000,00"
+1.03 . 1.06.01 . 24 ,"Program Pengembangan dan Pengelolaan Jaringan Irigasi, Rawa dan Jaringan Pengairan lainnya",286550000,
+1.03 . 1.06.01 . 24 . 19 ,Peningkatan pengelolaan irigasi (WISMP) ,150000000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Pengelolaan irigasi partisipatif tingkat kecamatan _x000D_
+Target: 17 kecamatan"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 1 ,Belanja Pegawai ,31570000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 1 . 01 ,Honorarium PNS ,31570000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 1 . 01 . 01 ,Honorarium Panitia Pelaksana Kegiatan ,31570000,"Honor Komisi Irigasi (KOMIR)_x000D_
+Ketua6 ob x 180.000,00 = 1.080.000,00_x000D_
+Wakil Ketua6 ob x 165.000,00 = 990.000,00_x000D_
+Ketua Pelaksana Harian6 ob x 160.000,00 = 960.000,00_x000D_
+Sekretaris6 ob x 150.000,00 = 900.000,00_x000D_
+Anggota66 ob x 135.000,00 = 8.910.000,00_x000D_
+Honor Sekretatiat Tetap KOMIR_x000D_
+Ketua6 ob x 145.000,00 = 870.000,00_x000D_
+Sekretaris6 ob x 140.000,00 = 840.000,00_x000D_
+Anggota30 ob x 135.000,00 = 4.050.000,00_x000D_
+Honor Panitia Penyelenggara Pelatihan & Pelaks. PSETK_x000D_
+Ketua2 oa x 180.000,00 = 360.000,00_x000D_
+Sekretaris2 oa x 175.000,00 = 350.000,00_x000D_
+Anggota6 oa x 150.000,00 = 900.000,00_x000D_
+Honor Panitia Penyelenggara Penyusunan PSETK_x000D_
+Ketua2 oa x 180.000,00 = 360.000,00_x000D_
+Sekretaris2 oa x 175.000,00 = 350.000,00_x000D_
+Anggota6 oa x 150.000,00 = 900.000,00_x000D_
+Honor KPIUKetua10 ob x 80.000,00 = 800.000,00_x000D_
+Sekretaris10 ob x 75.000,00 = 750.000,00_x000D_
+Anggota40 ob x 60.000,00 = 2.400.000,00_x000D_
+Honor KPMUKetua10 ob x 80.000,00 = 800.000,00_x000D_
+Anggota20 ob x 60.000,00 = 1.200.000,00_x000D_
+Honor Sekretariat KMPU_x000D_
+Ketua Sekretariat10 ob x 80.000,00 = 800.000,00_x000D_
+Anggota50 ob x 60.000,00 = 3.000.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,118430000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,5880000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,5880000,"Pembelian Alat Tulis Kantor_x000D_
+Pembelian ATK Pelatihan PSETK2 paket x 750.000,00 = 1.500.000,00_x000D_
+Pembelian ATK Penyusunan PSETK2 paket x 750.000,00 = 1.500.000,00_x000D_
+Pembelian ATK KPMU, KPIU, Komir1 paket x 2.880.000,00 = 2.880.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 02 ,Belanja Bahan/Material ,20000000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 02 . 12 ,Belanja alat-alat/perlengkapan ,20000000,"Pembelian Alat/perlengkapan peserta_x000D_
+Perlengkapan peserta Pelatihan PSETK50 paket x 150.000,00 = 7.500.000,00_x000D_
+Perlengkapan Peserta Penyusunan PSETK50 paket x 150.000,00 = 7.500.000,00_x000D_
+Perlengkapan Anggota Komisi Irigasi (KOMIR)25 paket x 200.000,00 = 5.000.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,600000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,600000,"Pembelian Spanduk_x000D_
+Spanduk Pelatihan & Pelaks. PSETK2 buah x 150.000,00 = 300.000,00_x000D_
+Spanduk Penyusunan PSETK2 buah x 150.000,00 = 300.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,8400000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,8400000,"Penggandaan/Fotocopy_x000D_
+Penggandaan Pelaporan KTPM/TPM10,000 lembar x 150,00 = 1.500.000,00_x000D_
+Penggandaan Materi Pelatihan PSETK19,000 lembar x 150,00 = 2.850.000,00_x000D_
+Penggandaan Materi Peny. PSETK19,000 lembar x 150,00 = 2.850.000,00_x000D_
+Penggandaan Pelaporan KPIU & KPMU8,000 lembar x 150,00 = 1.200.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,1500000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 07 . 03 ,Belanja Sewa Ruang Rapat/Pertemuan ,1500000,"Sewa Ruangan/tempat pertemuan_x000D_
+Sewa tempat Pelatihan PSETK2 kali x 250.000,00 = 500.000,00_x000D_
+Sewa Tempat Penyusunan PSETK4 kali x 250.000,00 = 1.000.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,9975000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,9975000,"Makan dan Minum RapatJamuan Rapat KTPM/TPM85 ok x 28.500,00 = 2.422.500,00_x000D_
+Jamuan Rapat KPIU60 ok x 28.500,00 = 1.710.000,00_x000D_
+Jamuan Rapat Pelatihan & Pelaks. PSETK60 ok x 28.500,00 = 1.710.000,00_x000D_
+Jamuan Rapat Penyusunan PSETK120 ok x 28.500,00 = 3.420.000,00_x000D_
+Jamuan Rapat KPMU25 ok x 28.500,00 = 712.500,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,66675000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,9275000,"Perjalanan Dinas Dalam Daerah_x000D_
+Transport Peserta Pelatihan PSETK50 oh x 30.000,00 = 1.500.000,00_x000D_
+Transport Peserta Penyusunan PSETK100 oh x 30.000,00 = 3.000.000,00_x000D_
+Perjalanan dinas DIY Gol. IV20 oh x 100.000,00 = 2.000.000,00_x000D_
+Perjalanan dinas DIY Gol. III37 oh x 75.000,00 = 2.775.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,57400000,"Perjalanan Dinas Luar Daerah_x000D_
+Golongan IV 12 oh x 1.200.000,00 = 14.400.000,00_x000D_
+Golongan III & II 20 oh x 1.000.000,00 = 20.000.000,00_x000D_
+Tiket Pesawat 12 pp x 1.350.000,00 = 16.200.000,00_x000D_
+Tiker KA 8 pp x 850.000,00 = 6.800.000,00"
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",5400000,
+1.03 . 1.06.01 . 24 . 19 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,5400000,"Honor Narasumber Pelatihan & Penyusunan PSETK_x000D_
+Pelatihan & Pelaksanaan PSETK12 jpl x 150.000,00 = 1.800.000,00_x000D_
+Penyusunan PSETK24 jpl x 150.000,00 = 3.600.000,00"
+1.03 . 1.06.01 . 24 . 27 ,Pendampingan peningkatan pengelolaan irigasi partisipasif (WISMP) ,136550000,"Sumber Dana :_x000D_
+ Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Pengelolaan irigasi partisipatif tingkat kecamatan_x000D_
+Target: 17 kecamatan"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,136550000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,890000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,890000,"Pembelian ATKPembelian ATK Profil KPI & SS1 paket x 200.000,00 = 200.000,00_x000D_
+Pembelian ATK Pelatihan & Peny. PSETK2 paket x 200.000,00 = 400.000,00_x000D_
+Pembelian ATK KPMU1 paket x 290.000,00 = 290.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 02 ,Belanja Bahan/Material ,10000000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 02 . 12 ,Belanja alat-alat/perlengkapan ,10000000,"Pembelian Alat Perlengkapan Peserta Pelatihan & Penyusunan PSETK_x000D_
+Pembelian Perlengkapan Peserta Pelatihan PSETK50 paket x 100.000,00 = 5.000.000,00_x000D_
+Pembelian Perlengkapan Peserta Penyusunan PSETK50 paket x 100.000,00 = 5.000.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 03 ,Belanja Jasa Kantor ,600000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 03 . 15 ,Belanja Publikasi ,600000,"Pembelian Spanduk Pelatihan dan Penyusunan PSETK_x000D_
+Spanduk Pelatihan PSETK2 buah x 150.000,00 = 300.000,00_x000D_
+Spanduk Penyusunan PSETK2 buah x 150.000,00 = 300.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 04 ,Belanja Premi Asuransi ,2600000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 04 . 01 ,Belanja Premi Asuransi Kesehatan ,2600000,"Belanja Premi Asuransi Tenaga Harian Lepas_x000D_
+Belanja Premi Asuransi Supporting Staf12 bulan x 50.000,00 = 600.000,00_x000D_
+Belanja Premi Asransi KTPM/TPM40 ob x 50.000,00 = 2.000.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,3605000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,3605000,"Penggandaan/Fotocopy_x000D_
+Penggandaan/fotocopy Pelaporan KTPM/TPM1 paket x 600.000,00 = 600.000,00_x000D_
+Penggandaan Profil KPI & Succes Story1 paket x 375.000,00 = 375.000,00_x000D_
+Penggandaan Materi Pelatihan & Pelaks. PSETK1 paket x 750.000,00 = 750.000,00_x000D_
+Penggandaan Materi Penyusunan PSETK1 paket x 750.000,00 = 750.000,00_x000D_
+Penggandaan Pelaporan KPMU1 paket x 1.130.000,00 = 1.130.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 07 ,Belanja Sewa Rumah/Gedung/Gudang/Parkir ,1500000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 07 . 03 ,Belanja Sewa Ruang Rapat/Pertemuan ,1500000,"Sewa Ruangan/tempat pertemuan_x000D_
+Sewa ruangan/tempat pertemuan Pelatihan PSETK2 kali x 250.000,00 = 500.000,00_x000D_
+Sewa Ruangan/tempat pertemuan Penyusunan PSETK4 kali x 250.000,00 = 1.000.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,7455000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,7455000,"Makan dan minum rapat_x000D_
+Jamuan rapat TPM/KTPM50 ok x 28.500,00 = 1.425.000,00_x000D_
+Jamuan rapat Profil KPI & Succes Story30 ok x 28.500,00 = 855.000,00_x000D_
+Jamuan rapat KMPU50 ok x 28.500,00 = 1.425.000,00_x000D_
+Jamuan pelatihan & Pelaks. PSETK50 ok x 25.000,00 = 1.250.000,00_x000D_
+Jamuan Penyusunan PSETK100 ok x 25.000,00 = 2.500.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,26400000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,4500000,"Transport Peserta Pelatihan & Pelaks. PSETK_x000D_
+Transport Peserta50 ok x 30.000,00 = 1.500.000,00_x000D_
+Transport Peserta Penyusunan PSETK_x000D_
+Tramsport Peserta Penyusunan PSETK100 ok x 30.000,00 = 3.000.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 15 . 02 ,Belanja Perjalanan Dinas Luar Daerah ,21900000,"Perjalanan Dinas Keluar Daerah_x000D_
+Gol. IV 5 oh x 1.200.000,00 = 6.000.000,00_x000D_
+Gol. III & II 9 oh x 1.000.000,00 = 9.000.000,00_x000D_
+Tiket Pesawat 4 pp x 1.300.000,00 = 5.200.000,00_x000D_
+Tiker KA 2 pp x 850.000,00 = 1.700.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 35 ,"Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan",83500000,
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 35 . 01 ,Jasa Nara Sumber/Moderator/Tenaga Ahli ,4500000,"Honor Narasumber/Tenaga Ahli_x000D_
+Honor Narasumber Pelatihan & Penyusunan PSETK36 jpl x 125.000,00 = 4.500.000,00"
+1.03 . 1.06.01 . 24 . 27 . 5 . 2 . 2 . 35 . 06 ,Jasa Tenaga Harian Lepas ,79000000,"Gaji/Honor Ketua Tenaga Pendamping Masyarakat (KTPM)Honor KTPM10 ob x 1.350.000,00 = 13.500.000,00_x000D_
+Gaji/Honor Tenaga Pendamping Masyarakat (TPM)Honor TPM30 ob x 1.250.000,00 = 37.500.000,0_x000D_
+0Gaji/Honor Staf Administrasi (Supporting Staf)Honor Staf Administrasi12 ob x 1.500.000,00 = 18.000.000,00_x000D_
+Biaya Operasional KTPM/TPMBOP KTPM/TPM40 ob x 250.000,00 = 10.000.000,00"
+1.06 . 1.06.01 . 24 ,Program perancanaan prasarana wilayah dan sumber daya alam ,61775000,
+1.06 . 1.06.01 . 24 . 03 ,"Monitoring, evaluasi dan pelaporan ",8730000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten bantul_x000D_
+Keluaran : Tersusunnya hasil monitoring dan evaluasi program/kegiatan perencanaan sarana dan prasarana wilayah_x000D_
+Target: 1 dokumen"
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,8730000,
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,1000000,
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,1000000,"Pembelian ATK1 paket x 1.000.000,00 = 1.000.000,00"
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,1950000,
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,1950000,"Penggandaan/fotocopy15,000 lembar x 130,00 = 1.950.000,00"
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,2850000,
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,2850000,"Makan dan Minum Rapat_x000D_
+Makan rapat100 ok x 20.000,00 = 2.000.000,00_x000D_
+Snak Rapat100 ok x 8.500,00 = 850.000,00"
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 15 ,Belanja Perjalanan Dinas ,2930000,
+1.06 . 1.06.01 . 24 . 03 . 5 . 2 . 2 . 15 . 01 ,Belanja Perjalanan Dinas Dalam Daerah ,2930000,"Perjalanan dinas dalam daerah_x000D_
+Gol. IV 15 oh x 50.000,00 = 750.000,00_x000D_
+Gol. III 35 oh x 40.000,00 = 1.400.000,00_x000D_
+Gol. II 26 oh x 30.000,00 = 780.000,00"
+1.06 . 1.06.01 . 24 . 05 ,Penyusunan Kajian Lingkungan Hidup Strategis ( KLHS ) dalam rangka Penyusunan RPJMD,53045000,"Sumber Dana : _x000D_
+Lokasi Kegiatan : Kabupaten Bantul_x000D_
+Keluaran : Studi KLHS_x000D_
+Target: 1 Dokumen"
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 1 ,Belanja Pegawai ,250000,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 1 . 01 ,Honorarium PNS ,250000,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 1 . 01 . 02 ,Honorarium Tim Pengadaan Barang Dan Jasa ,250000,"Honor Pejabat Pengadaan/Penjunjukan Langsung1 paket x 250.000,00 = 250.000,00"
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 ,Belanja Barang dan Jasa ,52795000,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 01 ,Belanja Bahan Pakai Habis ,732500,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 01 . 01 ,Belanja Alat Tulis Kantor ,732500,"Pembelian Alat Tulis KantorPembelian ATK1 paket x 732.500,00 = 732.500,00"
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 06 ,Belanja Cetak dan Penggandaan ,780000,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 06 . 02 ,Belanja Penggandaan ,780000,"Penggandaan/Fotocopy6,000 lembar x 130,00 = 780.000,00"
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 11 ,Belanja Makanan dan Minuman ,1282500,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 11 . 02 ,Belanja Makanan Dan Minuman Rapat ,1282500,"Makan dan Minum Rapat_x000D_
+Makan Rapat45 oh x 20.000,00 = 900.000,00_x000D_
+Snak Rapat45 oh x 8.500,00 = 382.500,00"
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 21 ,Belanja Jasa Konsultansi ,50000000,
+1.06 . 1.06.01 . 24 . 05 . 5 . 2 . 2 . 21 . 02 ,Belanja Jasa Konsultansi Perencanaan ,50000000,"Jasa Pihak KetigaPenyusunan Kajian Lingkungan Hidup Strategis (KLHS) dalam rangka Penyusunan RPJMD1 paket x 50.000.000,00 = 50.000.000,00"
+,,,
+,SURPLUS / (DEFISIT),-11.392.124.300.00,

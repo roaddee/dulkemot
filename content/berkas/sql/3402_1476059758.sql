@@ -1,0 +1,495 @@
+INSERT INTO tweb_apbd(`rangkuman`,`berkas_id`,`lembaga_id`, `lembaga_kode`,`pemda_kode`, `wilayah_kode`,`tahun`, `rekening_kode`,`rekening`, `uraian`, `nominal`,`nominal_sebelum`, `nominal_sesudah`, `nominal_perubahan`, `nominal_persen`, `keterangan`, `created_by`, `updated_by`) VALUES 
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.01.5.','01.01.5.','BELANJA','789470000','0','789470000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.01.5.2.','01.01.5.2.','BELANJA LANGSUNG','789470000','0','789470000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.','01.','Program Pelayanan Administrasi Perkantoran','195650000','0','195650000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.01.','01.01.','Penyediaan jasa surat menyurat','3000000','0','3000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersedianya materai dan benda pos lainnya
+Target     :  675 lbr','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.01.5.2.2.','01.01.5.2.2.','Belanja Barang dan Jasa','3000000','0','3000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.01.5.2.2.01.','01.01.5.2.2.01.','Belanja Bahan Pakai Habis','3000000','0','3000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.01.5.2.2.01.04.','01.01.5.2.2.01.04.','Belanja Perangko, Materai Dan Benda Pos','3000000','0','3000000','0','0','APBD
+   Belanja Materai
+Materai @ 3.000350 lb x 3.000,00 = 1.050.000,00
+Materai @ 6.000325 lb x 6.000,00 = 1.950.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.06.','01.06.','Penyediaan jasa pemeliharaan dan perizinan kendaraan dinas/operasional','1500000','0','1500000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tercapainya tertib administrasi
+Target     :  5 STNK','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.06.5.2.2.','01.06.5.2.2.','Belanja Barang dan Jasa','1500000','0','1500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.06.5.2.2.05.','01.06.5.2.2.05.','Belanja Perawatan Kendaraan Bermotor','1500000','0','1500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.06.5.2.2.05.05.','01.06.5.2.2.05.05.','Belanja Pajak Kendaraan Bermotor','1500000','0','1500000','0','0','APBD 
+  Belanja Pajak Kendaraan Bermotor
+\"Belanja Surat Tanda Nomor Kendaraan 
+Kendaraan Roda 4 : 2bh Roda 2 : 2bh\"1 th x 1.500.000,00 = 1.500.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.','01.07.','Penyediaan jasa administrasi keuangan','11000000','0','11000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersediannya honor administrasi pengelola keuangan
+Target     :  7 orang','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.1.','01.07.5.2.1.','Belanja Pegawai','9480000','0','9480000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.1.01.','01.07.5.2.1.01.','Honorarium PNS','9480000','0','9480000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.1.01.06.','01.07.5.2.1.01.06.','Honor Pengelola Keuangan dan Barang','9480000','0','9480000','0','0','APBD  
+ Bendahara Pengeluaran Pembantu12 ob x 160.000,00 = 1.920.000,00
+Pembantu Bendahara (pembuat Dokumen)12 ob x 110.000,00 = 1.320.000,00
+Pembantu Bendahara (Pembuat Dokumen)12 ob x 110.000,00 = 1.320.000,00
+Pembantu Bendaha Pengurus Gaji12 ob x 75.000,00 = 900.000,00
+Pengurus Barang12 ob x 150.000,00 = 1.800.000,00
+Penyimpan Barang12 ob x 110.000,00 = 1.320.000,00
+Personalia Administrasi Kepegawaian12 ob x 75.000,00 = 900.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.','01.07.5.2.2.','Belanja Barang dan Jasa','1520000','0','1520000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.01.','01.07.5.2.2.01.','Belanja Bahan Pakai Habis','500000','0','500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.01.01.','01.07.5.2.2.01.01.','Belanja Alat Tulis Kantor','500000','0','500000','0','0','APBD  
+ Belanja ATKATK1 LS x 500.000,00 = 500.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.06.','01.07.5.2.2.06.','Belanja Cetak dan Penggandaan','595000','0','595000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.06.02.','01.07.5.2.2.06.02.','Belanja Penggandaan','595000','0','595000','0','0','APBD  
+ Belanja Penggandaan4,760 lb x 125,00 = 595.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.11.','01.07.5.2.2.11.','Belanja Makanan dan  Minuman','425000','0','425000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.07.5.2.2.11.02.','01.07.5.2.2.11.02.','Belanja Makanan Dan Minuman Rapat','425000','0','425000','0','0','APBD  
+ Belanja makanan dan minuman rapat
+Makan minum rapat50 or x 8.500,00 = 425.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.10.','01.10.','Penyediaan alat tulis kantor','5000000','0','5000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersediannya Alat Tulis Kantor
+Target     :  1 Tahun','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.10.5.2.2.','01.10.5.2.2.','Belanja Barang dan Jasa','5000000','0','5000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.10.5.2.2.01.','01.10.5.2.2.01.','Belanja Bahan Pakai Habis','5000000','0','5000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.10.5.2.2.01.01.','01.10.5.2.2.01.01.','Belanja Alat Tulis Kantor','5000000','0','5000000','0','0','APBD   
+Belanja ATK Bagian ProtokolATK (kertas, buku register, buku tulis,tinta,dll.1 LS x 5.000.000,00 = 5.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.11.','01.11.','Penyediaan barang cetakan dan penggandaan','15000000','0','15000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kkec. Bantul
+Keluaran :  Tersediannya barang cetakan dan penggandaan
+Target     :  1 Tahun','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.11.5.2.2.','01.11.5.2.2.','Belanja Barang dan Jasa','15000000','0','15000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.11.5.2.2.06.','01.11.5.2.2.06.','Belanja Cetak dan Penggandaan','15000000','0','15000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.11.5.2.2.06.01.','01.11.5.2.2.06.01.','Belanja Cetak','7000000','0','7000000','0','0','APBD  
+ Belanja Cetak1 th x 7.000.000,00 = 7.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.11.5.2.2.06.02.','01.11.5.2.2.06.02.','Belanja Penggandaan','8000000','0','8000000','0','0','APBD  
+ Belanja Penggandaan
+Belanja Penggandaan / Foto copy64,000 lb x 125,00 = 8.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.15.','01.15.','Penyediaan bahan bacaan dan peraturan perundang-undangan','2520000','0','2520000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Langganan surat kabar dan majalah
+Target     :  1 Tahun','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.15.5.2.2.','01.15.5.2.2.','Belanja Barang dan Jasa','2520000','0','2520000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.15.5.2.2.03.','01.15.5.2.2.03.','Belanja Jasa Kantor','2520000','0','2520000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.15.5.2.2.03.05.','01.15.5.2.2.03.05.','Belanja Surat Kabar/Majalah','2520000','0','2520000','0','0','APBD  
+ Belanja bahan  bacaan surat kabar/majalah
+Belanja bahan bacaan1 ls x 2.520.000,00 = 2.520.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.','01.16.','Penyediaan bahan logistik kantor','58300000','0','58300000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Dukungan dana, SDM dan waktu
+Target     :  100 %','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.1.','01.16.5.2.1.','Belanja Pegawai','700000','0','700000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.1.01.','01.16.5.2.1.01.','Honorarium PNS','700000','0','700000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.1.01.02.','01.16.5.2.1.01.02.','Honorarium Tim Pengadaan Barang Dan Jasa','700000','0','700000','0','0','APBD  
+ Honorarium Tim Pengadaan Barang Dan Jasa
+Honorarium Pejabat Pembuat Komitmen1 ok x 300.000,00 = 300.000,00
+Honorarium Pejabat Pengadaan1 ok x 250.000,00 = 250.000,00
+Honorarium Panitia Penerima1 ok x 150.000,00 = 150.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.','01.16.5.2.2.','Belanja Barang dan Jasa','57600000','0','57600000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.01.','01.16.5.2.2.01.','Belanja Bahan Pakai Habis','310000','0','310000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.01.01.','01.16.5.2.2.01.01.','Belanja Alat Tulis Kantor','310000','0','310000','0','0','APBD 
+  Belanja ATKATK1 LS x 310.000,00 = 310.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.02.','01.16.5.2.2.02.','Belanja Bahan/Material','44565000','0','44565000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.02.07.','01.16.5.2.2.02.07.','Belanja Cindera Mata','42100000','0','42100000','0','0','APBD   
+Belanja Cindera mata dan Piala
+Belanja Cindera mata / Plakat kunjungan kerja145 BH x 180.000,00 = 26.100.000,00
+Belanja Piala Bupati100 BH x 160.000,00 = 16.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.02.12.','01.16.5.2.2.02.12.','Belanja alat-alat/perlengkapan','2465000','0','2465000','0','0','APBD 
+  Belanja Tas145 BH x 17.000,00 = 2.465.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.06.','01.16.5.2.2.06.','Belanja Cetak dan Penggandaan','12725000','0','12725000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.06.01.','01.16.5.2.2.06.01.','Belanja Cetak','12325000','0','12325000','0','0','APBD 
+  Belanja CetakBuku Selayang Pandang Bantul145 BH x 85.000,00 = 12.325.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.16.5.2.2.06.02.','01.16.5.2.2.06.02.','Belanja Penggandaan','400000','0','400000','0','0','APBD 
+  Belanja penggandaan3,200 lb x 125,00 = 400.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.17.','01.17.','Penyediaan makanan dan minuman','3400000','0','3400000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersedianya jamuan rapat
+Target     :  1 Tahun','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.17.5.2.2.','01.17.5.2.2.','Belanja Barang dan Jasa','3400000','0','3400000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.17.5.2.2.11.','01.17.5.2.2.11.','Belanja Makanan dan  Minuman','3400000','0','3400000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.17.5.2.2.11.02.','01.17.5.2.2.11.02.','Belanja Makanan Dan Minuman Rapat','3400000','0','3400000','0','0','APBD  
+ Belanja makanan dan minuman rapat
+Minum snack @400x Rp. 8500,-400 or x 8.500,00 = 3.400.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.18.','01.18.','Rapat-rapat koordinasi dan konsultasi ke luar daerah','85930000','0','85930000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Terlaksannya perjalanan dinas ke luar daerah
+Target     :  2 kali','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.18.5.2.2.','01.18.5.2.2.','Belanja Barang dan Jasa','85930000','0','85930000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.18.5.2.2.15.','01.18.5.2.2.15.','Belanja Perjalanan Dinas','85930000','0','85930000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.18.5.2.2.15.02.','01.18.5.2.2.15.02.','Belanja Perjalanan Dinas Luar Daerah','85930000','0','85930000','0','0','APBD   
+Belanja perjalanan luar daerah / Luar Jawa
+Penginapan: 5 x 2hr x 49450010 oh x 494.500,00 = 4.945.000,00
+\"Uang harian Golongan :  IV,III,II : 8 x 3 hr x 370000\"24 oh x 370.000,00 = 8.880.000,00
+\"Biaya Angkutan : Gol IV, III,II  : 5 x 1 hr x 232.000\"5 oh x 232.000,00 = 1.160.000,00
+\"Tiket pesawat terbang : 8 x 1 pp x 4770000\"8 pp x 4.770.000,00 = 38.160.000,00
+Belanja perjalanan dinas pulau jawa\"Penginapan :  Gol IV, III,II   7 x 2 x 454.500\"14 oh x 454.500,00 = 6.363.000,00
+\"Uang harian : Gol IV, III,II : 14 x 3 hr x 410.000\"43 oh x 410.000,00 = 17.630.000,00
+\"Biaya angkutan: Gol IV,III,II : 14 x 1 hr x 148.000\"14 oh x 148.000,00 = 2.072.000,00
+\"Tiket Kereta api 14 x 1 pp x 480000\"14 pp x 480.000,00 = 6.720.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.19.','01.19.','Rapat-rapat koordinasi dan konsultasi dalam daerah','10000000','0','10000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Terlaksanannya koordinasi di dalam daerah
+Target     :  31 kali','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.19.5.2.2.','01.19.5.2.2.','Belanja Barang dan Jasa','10000000','0','10000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.19.5.2.2.15.','01.19.5.2.2.15.','Belanja Perjalanan Dinas','10000000','0','10000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.01.19.5.2.2.15.01.','01.19.5.2.2.15.01.','Belanja Perjalanan Dinas Dalam Daerah','10000000','0','10000000','0','0','APBD  
+ Belanja Perjalanan dinas dalam daerah
+\"Belanja perjalanan dinas dalam daerah Kabupaten/Kota di Prov DIY Gol IV, III,II\"56 ol x 75.000,00 = 4.200.000,00
+Kecamatan Gol IV,III,II116 ol x 50.000,00 = 5.800.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.','02.','Program Peningkatan Sarana dan Prasarana Aparatur','53500000','0','53500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.24.','02.24.','Pemeliharaan rutin/berkala kendaraan dinas/operasional','41000000','0','41000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersdiannya BBM, suku cadang, biaya service & rehab kendaraan
+Target     :  4 Unit','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.24.5.2.2.','02.24.5.2.2.','Belanja Barang dan Jasa','41000000','0','41000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.24.5.2.2.05.','02.24.5.2.2.05.','Belanja Perawatan Kendaraan Bermotor','41000000','0','41000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.24.5.2.2.05.01.','02.24.5.2.2.05.01.','Belanja Jasa Service','3000000','0','3000000','0','0','APBD
+   Belanja jasa service dan rehab kendaraan dinas
+\"Roda 4 : 2 unit Roda 2 : 2 unit\"1 ls x 3.000.000,00 = 3.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.24.5.2.2.05.02.','02.24.5.2.2.05.02.','Belanja Penggantian Suku Cadang','5000000','0','5000000','0','0','APBD   
+Belanja penggantian suku cadang
+\"Onderdil,aki,ban,dll roda 4 dan roda 2\"1 ls x 5.000.000,00 = 5.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.24.5.2.2.05.03.','02.24.5.2.2.05.03.','Belanja Bahan Bakar Minyak/Gas Dan Pelumas','33000000','0','33000000','0','0','APBD  
+ Belanja bahan bakar mintak/ Gas dan pelumas
+BBM operasional1 ls x 33.000.000,00 = 33.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.30.','02.30.','Pemeliharaan rutin/berkala peralatan dan perlengkapan kantor','4000000','0','4000000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Pemeliharaan  komputer dan printer
+Target     :  7 Unit','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.30.5.2.2.','02.30.5.2.2.','Belanja Barang dan Jasa','4000000','0','4000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.30.5.2.2.20.','02.30.5.2.2.20.','Belanja Pemeliharaan','4000000','0','4000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.30.5.2.2.20.06.','02.30.5.2.2.20.06.','Belanja Pemeliharan perlengkapan kantor','4000000','0','4000000','0','0','APBD   
+Belanja Pemeliharaan Alat KantorPemeliharaan alat Kantor1 LS x 4.000.000,00 = 4.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.34.','02.34.','Pengadaan peralatan dan perlengkapan kantor','8500000','0','8500000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  note books
+Target     :  2 Unit','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.34.5.2.3.','02.34.5.2.3.','Belanja Modal','8500000','0','8500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.34.5.2.3.29.','02.34.5.2.3.29.','Belanja Modal Peralatan dan Mesin - Pengadaan  Komputer','8500000','0','8500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.02.34.5.2.3.29.02.','02.34.5.2.3.29.02.','Belanja Modal Peralatan dan Mesin - Pengadaan Personal Komputer','8500000','0','8500000','0','0','APBD   
+Note Book
+Belanja notebook 8.500.000,-1 ls x 8.500.000,00 = 8.500.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.','03.','Program peningkatan disiplin aparatur','25340000','0','25340000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.','03.05.','Pengadaan pakaian khusus hari-hari tertentu','25340000','0','25340000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersediannya pakaian untuk hari-hari tertentu bagi anggota korsik
+Target     :  40 stel','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.5.2.1.','03.05.5.2.1.','Belanja Pegawai','700000','0','700000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.5.2.1.01.','03.05.5.2.1.01.','Honorarium PNS','700000','0','700000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.5.2.1.01.02.','03.05.5.2.1.01.02.','Honorarium Tim Pengadaan Barang Dan Jasa','700000','0','700000','0','0','APBD 
+  Honorarium Tim Pengadaan Barang dan Jasa
+Honorarium pejabat pembuat komitmen1 ok x 300.000,00 = 300.000,00
+Honorarium pejabat pengadaan1 ok x 250.000,00 = 250.000,00
+Honorarium penerima barang1 ok x 150.000,00 = 150.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.5.2.2.','03.05.5.2.2.','Belanja Barang dan Jasa','24640000','0','24640000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.5.2.2.14.','03.05.5.2.2.14.','Belanja Pakaian khusus dan hari-hari tertentu','24640000','0','24640000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.03.05.5.2.2.14.03.','03.05.5.2.2.14.03.','Belanja Pakaian Batik Tradisional','24640000','0','24640000','0','0','APBD 
+  Belanja Pakaian batik tradisional
+\"Belanja pakaian batik tradisional 2 stel x 14 orang\"28 stel x 880.000,00 = 24.640.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.','06.','Program peningkatan pengembangan sistem pelaporan capaian kinerja dan keuangan','2315000','0','2315000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.01.','06.01.','Penyusunan laporan capaian kinerja dan ikhtisar realisasi kinerja SKPD','2315000','0','2315000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tersusunnya laporan capaian kinerja dan keuangan
+Target     :  5 macam','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.01.5.2.2.','06.01.5.2.2.','Belanja Barang dan Jasa','2315000','0','2315000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.01.5.2.2.06.','06.01.5.2.2.06.','Belanja Cetak dan Penggandaan','1315000','0','1315000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.01.5.2.2.06.02.','06.01.5.2.2.06.02.','Belanja Penggandaan','1315000','0','1315000','0','0','APBD 
+  Belanja penggandaan /fotocopy
+Penggandaan dan penjilidan laporan SKPD1 ls x 1.315.000,00 = 1.315.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.01.5.2.2.11.','06.01.5.2.2.11.','Belanja Makanan dan  Minuman','1000000','0','1000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.06.01.5.2.2.11.02.','06.01.5.2.2.11.02.','Belanja Makanan Dan Minuman Rapat','1000000','0','1000000','0','0','APBD
+   Belanja makan minum rapat
+\"Belanja MMR 5 x 10 x 20.000\"50 or x 20.000,00 = 1.000.000,00','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.','15.','Program Pengembangan Komunikasi, Informasi dan Media Massa','25338000','0','25338000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.','15.13.','Peningkatan Kemampuan Teknis Keprotokolan','25338000','0','25338000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Bantul','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.1.','15.13.5.2.1.','Belanja Pegawai','2100000','0','2100000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.1.02.','15.13.5.2.1.02.','Honorarium Non PNS','2100000','0','2100000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.1.02.02.','15.13.5.2.1.02.02.','Honorarium Pegawai Honorer/Tidak Tetap','2100000','0','2100000','0','0','APBD  
+ Honorarium harian
+honor peserta bintek diklat keprotokolan 2 hr x 35 orgx Rp. 30.00070 oh x 30.000,00 = 2.100.000,00','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.','15.13.5.2.2.','Belanja Barang dan Jasa','23238000','0','23238000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.01.','15.13.5.2.2.01.','Belanja Bahan Pakai Habis','1288000','0','1288000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.01.01.','15.13.5.2.2.01.01.','Belanja Alat Tulis Kantor','1288000','0','1288000','0','0','APBD 
+  ATKuntuk panitia1 ls x 288.000,00 = 288.000,00
+untuk peserta ( bolpoint, buku, blocknote)40 org x 25.000,00 = 1.000.000,00','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.06.','15.13.5.2.2.06.','Belanja Cetak dan Penggandaan','1250000','0','1250000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.06.02.','15.13.5.2.2.06.02.','Belanja Penggandaan','1250000','0','1250000','0','0','APBD  
+ Belanja cetak dan penggandaaan
+Belanja penggandaan undangan dan materi10,000 lb x 125,00 = 1.250.000,00','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.07.','15.13.5.2.2.07.','Belanja Sewa Rumah/Gedung/Gudang/Parkir','2500000','0','2500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.07.03.','15.13.5.2.2.07.03.','Belanja Sewa Ruang Rapat/Pertemuan','2500000','0','2500000','0','0','APBD   
+Belanja sewa hotel/ruang pertemuan2 hr x 1.250.000,00 = 2.500.000,00','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.11.','15.13.5.2.2.11.','Belanja Makanan dan  Minuman','5200000','0','5200000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.11.05.','15.13.5.2.2.11.05.','Belanja Makanan dan Minuman Pelaksanaan Kegiatan','5200000','0','5200000','0','0','APBD   
+Belanja makanan dan minuman sosialisasi
+Belanja makanan dan minuman sosialisasi konsumsi 2 hr x 40 org x 6500080 bh x 65.000,00 = 5.200.000,00','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.35.','15.13.5.2.2.35.','Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan','13000000','0','13000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.25','3402','2016','1.25.1.20.03.15.13.5.2.2.35.01.','15.13.5.2.2.35.01.','Jasa Nara Sumber/Moderator/Tenaga Ahli','13000000','0','13000000','0','0','APBD  
+ Honorarium tenaga ahli/narasumber
+\"honor narasumber tk. lokal 3org x 2 jpl\"6 jpl x 1.500.000,00 = 9.000.000,00
+honor narasumber deseminasi/sosialisasi 500x 6jpl6 jpl x 500.000,00 = 3.000.000,00
+honor moderator4 jpl x 250.000,00 = 1.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.','16.','Program peningkatan pelayanan kedinasan kepala daerah/wakil kepala daerah','85525000','0','85525000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.','16.02.','Penerimaan kunjungan kerja pejabat negara/departemen/lembaga pemerintah non departemen/luar negeri','47675000','0','47675000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Kelancaran pelaksanaan penerimaan kunjungan kerja
+Target     :  100 %','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.','16.02.5.2.2.','Belanja Barang dan Jasa','47675000','0','47675000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.01.','16.02.5.2.2.01.','Belanja Bahan Pakai Habis','1000000','0','1000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.01.01.','16.02.5.2.2.01.01.','Belanja Alat Tulis Kantor','1000000','0','1000000','0','0','APBD   
+Belanja ATKATK1 ls x 1.000.000,00 = 1.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.02.','16.02.5.2.2.02.','Belanja Bahan/Material','29550000','0','29550000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.02.07.','16.02.5.2.2.02.07.','Belanja Cindera Mata','27000000','0','27000000','0','0','APBD 
+  Belanja Cinderamata
+Belanja Plakat150 bh x 180.000,00 = 27.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.02.12.','16.02.5.2.2.02.12.','Belanja alat-alat/perlengkapan','2550000','0','2550000','0','0','APBD 
+  Belanja Tas150 bh x 17.000,00 = 2.550.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.06.','16.02.5.2.2.06.','Belanja Cetak dan Penggandaan','17125000','0','17125000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.06.01.','16.02.5.2.2.06.01.','Belanja Cetak','12750000','0','12750000','0','0','APBD   
+Belanja cetak buku selayang pandang
+Cetak buku selayang pandang Bantul150 hb x 85.000,00 = 12.750.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.02.5.2.2.06.02.','16.02.5.2.2.06.02.','Belanja Penggandaan','4375000','0','4375000','0','0','APBD   
+Belanja Penggandaan
+B Penggandaan35,000 lb x 125,00 = 4.375.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.','16.07.','Pendampingan ketugasan kepala daerah / wakil kepala daerah','37850000','0','37850000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Bantul','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.1.','16.07.5.2.1.','Belanja Pegawai','33370000','0','33370000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.1.01.','16.07.5.2.1.01.','Honorarium PNS','1250000','0','1250000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.1.01.02.','16.07.5.2.1.01.02.','Honorarium Tim Pengadaan Barang Dan Jasa','1250000','0','1250000','0','0','APBD  
+ Honorarium pengadaan
+Honor ppkom 1 ok x 3500001 ok x 350.000,00 = 350.000,00
+Honor pejabat pengadaan 1ok x 2500001 ok x 250.000,00 = 250.000,00
+Honor Tim Tehnis Pengadaan 1ok x 2250001 ok x 225.000,00 = 225.000,00
+Honor Tim Tehnis Pengadaan 1ok x 2000001 ok x 200.000,00 = 200.000,00
+Honor penerima 1ok x 2250001 ok x 225.000,00 = 225.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.1.02.','16.07.5.2.1.02.','Honorarium Non PNS','32120000','0','32120000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.1.02.03.','16.07.5.2.1.02.03.','Honorarium Pegawai Kontrak','32120000','0','32120000','0','0','APBD   
+Honor Pegawai kontrak
+\"Honor tenaga pendukung keprotokolan 2 x 11 x 1460000\"22 ob x 1.460.000,00 = 32.120.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.2.','16.07.5.2.2.','Belanja Barang dan Jasa','4480000','0','4480000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.2.01.','16.07.5.2.2.01.','Belanja Bahan Pakai Habis','500000','0','500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.2.01.01.','16.07.5.2.2.01.01.','Belanja Alat Tulis Kantor','500000','0','500000','0','0','APBD 
+  Belanja ATK1 ls x 500.000,00 = 500.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.2.06.','16.07.5.2.2.06.','Belanja Cetak dan Penggandaan','3980000','0','3980000','0','0','','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.2.06.01.','16.07.5.2.2.06.01.','Belanja Cetak','2000000','0','2000000','0','0','APBD 
+  Belanja cetak stopmap
+cetak stopmap sambutan500 bh x 4.000,00 = 2.000.000,00','2','2'),
+('0','211','102','1.20.03','1.20','3402','2016','1.20.1.20.03.16.07.5.2.2.06.02.','16.07.5.2.2.06.02.','Belanja Penggandaan','1980000','0','1980000','0','0','APBD
+   Belanja cetak dan penggandaan
+Belanja jilid dan penggandaan15,840 lb x 125,00 = 1.980.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.','17.','Program pengembangan wawasan kebangsaan','399382000','0','399382000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.','17.11.','Penyelenggaraan Upacara Hari-hari Besar Nasional dan Hari Jadi Kabupaten','371287000','0','371287000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Terlaksanannya upacara peringatan Hari Jadi Kab. Bantul dan Hari Besar Nasional
+Target     :  13 Kegiatan','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.','17.11.5.2.1.','Belanja Pegawai','55950000','0','55950000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.01.','17.11.5.2.1.01.','Honorarium PNS','41250000','0','41250000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.01.01.','17.11.5.2.1.01.01.','Honorarium Panitia Pelaksana Kegiatan','39850000','0','39850000','0','0','APBD   
+Honorarium Pelaksana Upacara Hari Besar Nasional dan Daerah
+Honorarium Pelatih60 ok x 75.000,00 = 4.500.000,00
+Honorarium Petugas keamanan upacara HUT RI,lomba pawai, karnaval dan drumband450 ok x 25.000,00 = 11.250.000,00
+Honor petugas upacara dan otonomi daerah15 ok x 40.000,00 = 600.000,00
+Honor petugas Upacara Hardiknas15 ok x 40.000,00 = 600.000,00
+Honorarium petugas upacara Harkitnas15 ok x 40.000,00 = 600.000,00
+Honorarium petugas upacara Hari Jadi60 ok x 40.000,00 = 2.400.000,00
+Honorarium petugas kebersihan Hari Jadi10 ok x 25.000,00 = 250.000,00
+Honorarium petugas upacara HUT RI150 ok x 40.000,00 = 6.000.000,00
+Honorarium petugas kebersihan HUT RI10 ok x 25.000,00 = 250.000,00
+Honorarium petugas upacara syaawalan gubernur50 ok x 40.000,00 = 2.000.000,00
+Honorarium petugas upacara Hari Kesaktian Pancasila20 ok x 40.000,00 = 800.000,00
+Honorarium petugas upacara Hari Sumpah Pemuda20 ok x 40.000,00 = 800.000,00
+Honorarium petugas upacara Hari Pahlawan45 ok x 40.000,00 = 1.800.000,00
+Honorarium lomba pawai karnaval dan drumband200 ok x 40.000,00 = 8.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.01.02.','17.11.5.2.1.01.02.','Honorarium Tim Pengadaan Barang Dan Jasa','1400000','0','1400000','0','0','APBD  
+ Honorarium tim pengadaan barang dan jasa
+Honor pejabat pembuat komitmen2 ok x 300.000,00 = 600.000,00
+Honorarium pejabat pengadaan2 ok x 250.000,00 = 500.000,00
+Honorarium panitia penerima2 ok x 150.000,00 = 300.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.02.','17.11.5.2.1.02.','Honorarium Non PNS','4450000','0','4450000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.02.02.','17.11.5.2.1.02.02.','Honorarium Pegawai Honorer/Tidak Tetap','4450000','0','4450000','0','0','APBD
+   Honorarium non PNS
+Honorarium petugas p3k Hari otonomi Daerah5 org x 30.000,00 = 150.000,00
+Honorarium petugas Upacara Hardiknas20 ok x 40.000,00 = 800.000,00
+Honorarium petugas p3k upacara Hardiknas15 ok x 30.000,00 = 450.000,00
+Honorarium petugas p3k upacara Harkitnas10 ok x 30.000,00 = 300.000,00
+Honorarium petugas p3k Upacara Hari Jadi20 ok x 30.000,00 = 600.000,00
+Honorarium petugas p3k Hari Kesaktian Pancasila5 ok x 30.000,00 = 150.000,00
+Honorarium petugas Upacara Hari Sumpah Pemuda20 ok x 40.000,00 = 800.000,00
+Honorarium petugas p3k Upacara Hari Sumpah Pemuda5 ok x 30.000,00 = 150.000,00
+Honorarium petugas upacara Hari Pahlawan5 ok x 30.000,00 = 150.000,00
+Honorarium lomba pawai karnaval drumband20 ok x 30.000,00 = 600.000,00
+Honorarium petugas p3k Upacara HUT RI10 ok x 30.000,00 = 300.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.03.','17.11.5.2.1.03.','Uang Lembur','10250000','0','10250000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.1.03.01.','17.11.5.2.1.03.01.','Uang Lembur PNS','10250000','0','10250000','0','0','APBD 
+  Uang lembur PNS
+\"Gol Iv dan III11 x 5 x 10 kegiatan\"550 ol x 15.000,00 = 8.250.000,00
+\"Golongan II 4 x 5 x 10 kegiatan\"200 ol x 10.000,00 = 2.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.','17.11.5.2.2.','Belanja Barang dan Jasa','315337000','0','315337000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.01.','17.11.5.2.2.01.','Belanja Bahan Pakai Habis','25487000','0','25487000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.01.01.','17.11.5.2.2.01.01.','Belanja Alat Tulis Kantor','4937000','0','4937000','0','0','APBD  
+ Alat Tulis Kantor
+ATk sekretariat kegiatan Hari Jadi ke 1851 ls x 1.800.000,00 = 1.800.000,00
+ATK sekretariat HUT RI ke 711 ls x 1.200.000,00 = 1.200.000,00
+ATK HAri otonomi daerah1 ls x 300.000,00 = 300.000,00
+ATK HAri Kesaktian Pancasila1 ls x 300.000,00 = 300.000,00
+ATK syawalan Gubernur1 ls x 537.000,00 = 537.000,00
+ATK Upacara HArdiknas dan Harkitnas1 ls x 500.000,00 = 500.000,00
+Belanja ATK Hari Sumpah Pemuda1 ls x 300.000,00 = 300.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.01.09.','17.11.5.2.2.01.09.','Belanja pembelian bendera,papan nama','20550000','0','20550000','0','0','APBD 
+  Belanja bendera papan nama
+Belanja bendera papan nama dll17 ok x 150.000,00 = 2.550.000,00
+\"Belanja bunga kegiatan hari Jadi  ( bunga tabur dll)\"1 ls x 9.000.000,00 = 9.000.000,00
+Belanja bunga meja , bucket dan bunga tabur  HUT RI1 ls x 5.000.000,00 = 5.000.000,00
+Belanja bunga meja kegiatan syawalan Gubernur1 LS x 1.000.000,00 = 1.000.000,00
+Belanja bunga bucket bunga tabur Hari Pahlawan1 ls x 1.000.000,00 = 1.000.000,00
+Belanja bunga open house1 ls x 2.000.000,00 = 2.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.02.','17.11.5.2.2.02.','Belanja Bahan/Material','31500000','0','31500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.02.07.','17.11.5.2.2.02.07.','Belanja Cindera Mata','20000000','0','20000000','0','0','APBD  
+ Belanja cinderamata
+Belanja cindermata/piala kejuaraan Hari Jadi dan HUT RI1 LS x 20.000.000,00 = 20.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.02.08.','17.11.5.2.2.02.08.','Belanja Bahan Makanan','11500000','0','11500000','0','0','APBD   Belanja bahan makananBelanja bahan makanan seksi silaturahmi dan ziarah Hari Jadi1 ls x 9.000.000,00 = 9.000.000,00Belanja bahan makanan Bakti sosial keg Hari Jadi1 ls x 2.500.000,00 = 2.500.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.03.','17.11.5.2.2.03.','Belanja Jasa Kantor','17300000','0','17300000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.03.14.','17.11.5.2.2.03.14.','Belanja Dekorasi','16500000','0','16500000','0','0','APBD  
+ Belanja dekorasi Hari Jadi1 ls x 9.000.000,00 = 9.000.000,00
+Belanja dekorasi sarasehan Hari Jadi1 ls x 1.000.000,00 = 1.000.000,00
+\"Belanja dekorasi syawalan gubernur (taman dan dekorasi)\"1 ls x 1.500.000,00 = 1.500.000,00
+Belanja dekorasi HUT RI ( baliho) lapangan trirenggo1 ls x 5.000.000,00 = 5.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.03.15.','17.11.5.2.2.03.15.','Belanja Publikasi','800000','0','800000','0','0','APBD  
+ Biaya siaran Hari Jadi Kab. bantul1 ls x 400.000,00 = 400.000,00
+Biaya siaran HUT RI ke-671 ls x 400.000,00 = 400.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.06.','17.11.5.2.2.06.','Belanja Cetak dan Penggandaan','29925000','0','29925000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.06.01.','17.11.5.2.2.06.01.','Belanja Cetak','21000000','0','21000000','0','0','APBD   
+Belanja cetakCetak protap keg Hari Jadi100 lb x 10.000,00 = 1.000.000,00
+cetak undangan hari jadi dan sticker vip1,000 lb x 5.000,00 = 5.000.000,00
+belanja cetak protap HUTRI ke 67100 lb x 10.000,00 = 1.000.000,00
+belanja cetak undangan HUT RI1,000 lb x 5.000,00 = 5.000.000,00
+belanja cetak  undangan syawalan2,500 lb x 3.000,00 = 7.500.000,00
+belanja cetak piagam no peserta, panitia1 ls x 1.500.000,00 = 1.500.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.06.02.','17.11.5.2.2.06.02.','Belanja Penggandaan','8925000','0','8925000','0','0','APBD  
+ Belanja penggandaaanuntuk sekretariat HARI jadi15,000 lb x 125,00 = 1.875.000,00
+penggandaaan HUT RI 6716,000 lb x 125,00 = 2.000.000,00
+pengaandaana upacara Hardiknas6,000 lb x 125,00 = 750.000,00
+pengaandaana upacara Harkitnas5,200 lb x 125,00 = 650.000,00
+penggandaan otonomi daerah2,000 lb x 125,00 = 250.000,00
+penggandaan hari kesaktian Pancasila2,000 lb x 125,00 = 250.000,00
+penggandaaan upacara Hari Sumpah Pemuda2,000 lb x 125,00 = 250.000,00
+penggandaan hari Pahlawan4,000 lb x 125,00 = 500.000,00
+penggandaan syawalan Gubernur3,200 lb x 125,00 = 400.000,00
+penggandaan kegiatan Pawai karnaval drumband16,000 lb x 125,00 = 2.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.08.','17.11.5.2.2.08.','Belanja Sewa Sarana Mobilitas','2400000','0','2400000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.08.01.','17.11.5.2.2.08.01.','Belanja Sewa Sarana Mobilitas Darat','2400000','0','2400000','0','0','APBD  
+ Belanja sewa sarana mobilitas darat
+B. sewa sarana mobilitas darat untuk Upacara5 pp x 300.000,00 = 1.500.000,00
+sewa sarana mobilitasa darat paduan suara HUT RI3 pp x 300.000,00 = 900.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.10.','17.11.5.2.2.10.','Belanja Sewa Perlengkapan dan Peralatan Kantor','30600000','0','30600000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.10.06.','17.11.5.2.2.10.06.','Belanja Sewa Pakaian Adat/Tradisional','29100000','0','29100000','0','0','APBD 
+  Belanja sewa pakaian adatuntuk memandu acara /MC18 org x 200.000,00 = 3.600.000,00
+untuk petugas upacara (Dan up, Dan ki, dan cadangan)40 or x 100.000,00 = 4.000.000,00
+untuk penerima tamu30 or x 150.000,00 = 4.500.000,00
+untuk sewa pakaian, bregodo kecamatan17 kec x 1.000.000,00 = 17.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.10.13.','17.11.5.2.2.10.13.','Belanja sewa peralatan dan perlengkapan kegiatan','1500000','0','1500000','0','0','APBD
+   Belanja sewa perlengkapan dan peralatan kegiatanUntuk kegiatan ziarah dan tabur  bunga di TMP HUT RI1 ls x 750.000,00 = 750.000,00
+untuk kegiatan Hari Pahlawan renungan dan ziarah1 ls x 750.000,00 = 750.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.11.','17.11.5.2.2.11.','Belanja Makanan dan  Minuman','28825000','0','28825000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.11.02.','17.11.5.2.2.11.02.','Belanja Makanan Dan Minuman Rapat','3825000','0','3825000','0','0','APBD 
+  Belanja makan minum rapat
+\"Kegiatan Persiapan Upacara 15 x 30 orang x 8.500,-\"450 org x 8.500,00 = 3.825.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.11.04.','17.11.5.2.2.11.04.','Belanja makanan dan minuman Lembur','15000000','0','15000000','0','0','APBD
+   Belanja makan minum lembur
+\"Golongan IV dan III 11 x 5 x 10 kegiatan\"550 ol x 20.000,00 = 11.000.000,00
+\"Golongan II 4 x 5 x 10 kegiatan\"200 ol x 20.000,00 = 4.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.11.05.','17.11.5.2.2.11.05.','Belanja Makanan dan Minuman Pelaksanaan Kegiatan','10000000','0','10000000','0','0','APBD 
+  Belanja Makan minum pelaksanaan kegiatan
+\"Belanja pelaksanaan pawai drumband karnaval yuri petugasa kegiatan dan petugas keamanan selama 2 hari @ 250 org\"500 org x 20.000,00 = 10.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.14.','17.11.5.2.2.14.','Belanja Pakaian khusus dan hari-hari tertentu','22500000','0','22500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.14.04.','17.11.5.2.2.14.04.','Belanja Pakaian Olahraga','22500000','0','22500000','0','0','APBD  
+ Belanja pakaian olah ragaBelanja pakaian olahraga untuk petugas dan yuri225 pot x 100.000,00 = 22.500.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.35.','17.11.5.2.2.35.','Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan','9500000','0','9500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.35.01.','17.11.5.2.2.35.01.','Jasa Nara Sumber/Moderator/Tenaga Ahli','5000000','0','5000000','0','0','APBD
+   Honorarium narasumber
+Honorarium narasumber sarasehan4 jpl x 1.000.000,00 = 4.000.000,00
+Honorarium moderator2 jpl x 400.000,00 = 800.000,00
+Honorarium kegiatan Hari Jadi1 kali x 100.000,00 = 100.000,00
+Honorarium HUT RI ke 691 kali x 100.000,00 = 100.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.35.02.','17.11.5.2.2.35.02.','Jasa Yuri Perlombaan/Pelatih','4500000','0','4500000','0','0','APBD   
+Honorarium yuri perlombaan
+Honorarium yuri kejuaraan dalam rangka Hari Jadi10 ok x 100.000,00 = 1.000.000,00
+Honorarium yuri lomba pawai drumband dan karnaval35 ok x 100.000,00 = 3.500.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.37.','17.11.5.2.2.37.','Uang Untuk Diberikan Kepada Pihak Ketiga/Masyarakat','94200000','0','94200000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.37.01.','17.11.5.2.2.37.01.','Uang Untuk Diberikan Kepada Pihak Ketiga/Masyarakat','94200000','0','94200000','0','0','APBD  
+ Uang untuk kepada pihak ketiga masyarrakat untuk lomba Pawai
+Hadiah untuk Juara 16 ktgri x 1.300.000,00 = 7.800.000,00
+Hadiah untuk Juara 26 ktgri x 1.000.000,00 = 6.000.000,00
+Hadiah untuk Juara 36 ktgri x 750.000,00 = 4.500.000,00
+Hadiah untuk Juara Harapan 16 ktgri x 500.000,00 = 3.000.000,00
+Hadiah untuk Juara Harapan 26 ktgri x 400.000,00 = 2.400.000,00
+Hadiah untuk Juara Harapan 36 ktgri x 250.000,00 = 1.500.000,00
+Uang untuk kepada pihak ketiga masyarrakat untuk lomba Karnaval umumHadiah untuk Juara 12 ktgri x 5.000.000,00 = 10.000.000,00
+Hadiah untuk Juara 22 ktgri x 3.500.000,00 = 7.000.000,00
+Hadiah untuk Juara 32 ktgri x 2.000.000,00 = 4.000.000,00
+Uang untuk kepada pihak ketiga masyarakat untuk lomba Drumband SD &  SMPHadiah untuk Juara 12 ktgri x 5.000.000,00 = 10.000.000,00
+Hadiah untuk Juara 22 ktgri x 3.500.000,00 = 7.000.000,00
+Hadiah untuk Juara 32 ktgri x 2.000.000,00 = 4.000.000,00
+Uang untuk kepada pihak ketiga masyarakat untuk lomba MayoretHadiah untuk mayoret terbaik 13 ktgri x 400.000,00 = 1.200.000,00
+Hadiah untuk mayoret terbaik 23 ktgri x 300.000,00 = 900.000,00
+Hadiah untuk mayoret terbaik 33 ktgri x 250.000,00 = 750.000,00
+Uang untuk kepada pihak ketiga masyarakat untuk BregodoHadiah untuk juara 1 Lomba bregada1 ktgri x 4.150.000,00 = 4.150.000,00
+Hadiah untuk juara 2 Lomba bregada1 ktgri x 3.000.000,00 = 3.000.000,00
+Hadiah untuk juara 3 Lomba bregada1 ktgri x 2.000.000,00 = 2.000.000,00
+Uang untuk kepada pihak ketiga masyarakat untuk KesenianHadiah untuk juara 1 Lomba mobil hias1 ktgri x 4.000.000,00 = 4.000.000,00
+Hadiah untuk juara 2 Lomba mobil hias1 ktgri x 3.000.000,00 = 3.000.000,00
+Hadiah untuk juara 3 Lomba mobil hias1 ktgri x 2.000.000,00 = 2.000.000,00
+Uang untuk kepada pihak ketiga masyarakat untuk lomba Drumband TKJuara I1 ktgri x 3.000.000,00 = 3.000.000,00
+Juara II1 ktgri x 2.000.000,00 = 2.000.000,00
+Juara III1 ktgri x 1.000.000,00 = 1.000.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.38.','17.11.5.2.2.38.','Belanja Jasa Pentas/Pertunjukan','23100000','0','23100000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.11.5.2.2.38.01.','17.11.5.2.2.38.01.','Belanja Jasa Pentas/Pertunjukan','23100000','0','23100000','0','0','APBD   
+Belanja jasa pentasJasa pentas Hari Jadi2 ls x 3.000.000,00 = 6.000.000,00
+Jasa pentas syawalan1 ls x 2.000.000,00 = 2.000.000,00
+Jasa pentas open house3 ls x 2.000.000,00 = 6.000.000,00
+Jasa pentas grup kesenian Hari Jadi1 ls x 4.000.000,00 = 4.000.000,00
+Jasa pentas grup paduan suara hari Otda1 ls x 900.000,00 = 900.000,00
+Jasa pentas grup paduan suara Hardiknas1 ls x 1.500.000,00 = 1.500.000,00
+Jasa pentas grup paduan suara Harkitnas1 ls x 900.000,00 = 900.000,00
+Jasa pentas grup paduan suara sumpa Pemuda1 ls x 900.000,00 = 900.000,00
+Jasa pentas grup paduan suara Hari Pahlawan1 ls x 900.000,00 = 900.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.','17.12.','Peningkatan keterampilan korsik','28095000','0','28095000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Bantul','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.1.','17.12.5.2.1.','Belanja Pegawai','9240000','0','9240000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.1.01.','17.12.5.2.1.01.','Honorarium PNS','9240000','0','9240000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.1.01.01.','17.12.5.2.1.01.01.','Honorarium Panitia Pelaksana Kegiatan','9240000','0','9240000','0','0','APBD 
+  Honor kegiatan pelaksanaan korsik
+Honor Anggota 12 x 11 bl x 70000132 org x 70.000,00 = 9.240.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.','17.12.5.2.2.','Belanja Barang dan Jasa','18855000','0','18855000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.01.','17.12.5.2.2.01.','Belanja Bahan Pakai Habis','555000','0','555000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.01.01.','17.12.5.2.2.01.01.','Belanja Alat Tulis Kantor','555000','0','555000','0','0','APBD  
+ Belanja ATKATK1 ls x 555.000,00 = 555.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.06.','17.12.5.2.2.06.','Belanja Cetak dan Penggandaan','500000','0','500000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.06.02.','17.12.5.2.2.06.02.','Belanja Penggandaan','500000','0','500000','0','0','APBD   
+Belanja Penggandaan/fotocopy
+Belanja penggandaan /Fotocopy4,000 lb x 125,00 = 500.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.11.','17.12.5.2.2.11.','Belanja Makanan dan  Minuman','11200000','0','11200000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.11.05.','17.12.5.2.2.11.05.','Belanja Makanan dan Minuman Pelaksanaan Kegiatan','11200000','0','11200000','0','0','APBD 
+  Belanja makan minum pelaksanaan kegiatan\"makan minum pelaksana kegiatan  40 x 14 keg x 20000\"560 org x 20.000,00 = 11.200.000,00','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.35.','17.12.5.2.2.35.','Jasa Narasumber, Tenaga Ahli, Yuri, Entry Data, Petugas Fogging dan Petugas Lapangan','6600000','0','6600000','0','0','','2','2'),
+('0','211','102','1.20.03','1.19','3402','2016','1.19.1.20.03.17.12.5.2.2.35.01.','17.12.5.2.2.35.01.','Jasa Nara Sumber/Moderator/Tenaga Ahli','6600000','0','6600000','0','0','APBD   
+Honorarium pelatih korsik
+Honor pelatih 3 x 11 x 20000033 org x 200.000,00 = 6.600.000,00','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.','21.','Program perencanaan pembangunan daerah','2420000','0','2420000','0','0','','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.','21.33.','Penyusunan Rencana Kerja (Renja) SKPD','2420000','0','2420000','0','0','Sumber Dana : APBD
+Lokasi Kegiatan : Kec. Bantul
+Keluaran :  Tesusunya kebijakan & perencanaan kerja 1 tahun
+Target     :  1 kali','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.','21.33.5.2.2.','Belanja Barang dan Jasa','2420000','0','2420000','0','0','','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.01.','21.33.5.2.2.01.','Belanja Bahan Pakai Habis','570000','0','570000','0','0','','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.01.01.','21.33.5.2.2.01.01.','Belanja Alat Tulis Kantor','570000','0','570000','0','0','APBD 
+  Belanja ATKATK1 ls x 570.000,00 = 570.000,00','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.06.','21.33.5.2.2.06.','Belanja Cetak dan Penggandaan','1000000','0','1000000','0','0','','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.06.02.','21.33.5.2.2.06.02.','Belanja Penggandaan','1000000','0','1000000','0','0','APBD  
+ Belanja penggandaan
+Penggandaaan8,000 lb x 125,00 = 1.000.000,00','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.11.','21.33.5.2.2.11.','Belanja Makanan dan  Minuman','850000','0','850000','0','0','','2','2'),
+('0','211','102','1.20.03','1.06','3402','2016','1.06.1.20.03.21.33.5.2.2.11.02.','21.33.5.2.2.11.02.','Belanja Makanan Dan Minuman Rapat','850000','0','850000','0','0','APBD   
+Belanja makan minum rapatMakan minum rapat100 ok x 8.500,00 = 850.000,00','2','2'),
